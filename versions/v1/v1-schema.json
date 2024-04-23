@@ -1,41 +1,47 @@
 {
-    "$schema": "http://json-schema.org/draft-06/schema#",
-    "type": "array",
-    "items": {
-        "$ref": "#/definitions/RadarListEntry"
-    },
-    "definitions": {
-        "RadarListEntry": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "uuid": {
-                    "type": "string",
-                    "format": "uuid"
-                },
-                "name": {
-                    "type": "string"
-                },
-                "cause": {
-                    "type": "string"
-                },
-                "entryCreatedAt": {
-                    "type": "string",
-                    "format": "date-time"
-                },
-                "entryUpdatedAt": {
-                    "type": "string",
-                    "format": "date-time"
-                }
-            },
-            "required": [
-                "cause",
-                "entryCreatedAt",
-                "entryUpdatedAt",
-                "name",
-                "uuid"
-            ],
-            "title": "RadarListEntry"
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/RadarListEntry"
+  },
+  "definitions": {
+    "RadarListEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "uuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "cause": {
+          "type": "string"
+        },
+        "entryCreatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "entryUpdatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "expiryDays": {
+          "type": "integer",
+          "minimum": -1,
+          "maximum": 4096
         }
+      },
+      "required": [
+        "cause",
+        "entryCreatedAt",
+        "entryUpdatedAt",
+        "expiryDays",
+        "name",
+        "uuid"
+      ],
+      "title": "RadarListEntry"
     }
+  }
 }
