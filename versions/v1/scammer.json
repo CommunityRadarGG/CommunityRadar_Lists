@@ -1,13 +1,5 @@
 [
     {
-        "uuid": "5a95cdd8-95e9-4746-99a5-85b93254abcf",
-        "name": "Signiert",
-        "cause": "Test Object",
-        "entryCreatedAt": "May 4, 2024, 3:02:07 PM",
-        "entryUpdatedAt": "May 4, 2024, 3:02:07 PM",
-        "expiryDays": -1
-    },
-    {
         "uuid": "53537d4d-21c9-4350-a25e-63cf3a3f2357",
         "name": "ComRadar",
         "cause": "Dies ist eine Grund.",
