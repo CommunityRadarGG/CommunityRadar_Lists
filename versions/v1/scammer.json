@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "uuid": "0bbf3f53-b2fe-4b6b-b9fe-e5388f30bc0f",
+    "name": "Unterxtrich_",
+    "cause": "https://forum.griefergames.de/forum/thread/443525-unterxtrich-versucht-neue-spieler-mit-fake-money-zu-abzuziehen/",
+    "entryCreatedAt": "2024-05-23T01:38:06.06422272",
+    "entryUpdatedAt": "2024-05-23T01:38:06.06425397",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "0e2326a6-754f-3bc3-9417-96b6ee44c95d",
+    "name": "!Extr7m3",
+    "cause": "https://forum.griefergames.de/forum/thread/442873-extr3m7-scammt-um-500k/",
+    "entryCreatedAt": "2024-05-23T01:37:40.736492576",
+    "entryUpdatedAt": "2024-05-23T01:37:40.736532211",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "05f74cf8-807e-4dc7-a1f0-1621a639240f",
+    "name": "zFreak98",
+    "cause": "https://forum.griefergames.de/forum/thread/440236-zfreak98-scammt-um-5mio/",
+    "entryCreatedAt": "2024-05-23T01:38:37.360656919",
+    "entryUpdatedAt": "2024-05-23T01:38:37.360692737",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "02fd6afa-5fcb-4a25-8531-729d597925ad",
+    "name": "BluePearlCasinos",
+    "cause": "https://forum.griefergames.de/forum/thread/440716-1pluginonyt-scammt/",
+    "entryCreatedAt": "2024-05-23T01:39:09.339388538",
+    "entryUpdatedAt": "2024-05-23T01:39:09.339416982",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "6f5537b0-8788-3617-8173-eaf52af89f96",
+    "name": "!AngelCamping",
+    "cause": "https://forum.griefergames.de/forum/thread/440326-scammer-gibt-scamm-zu/",
+    "entryCreatedAt": "2024-05-23T01:37:12.106582957",
+    "entryUpdatedAt": "2024-05-23T01:37:12.106609727",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "1c535e26-daba-3570-8f3f-387388cf655e",
+    "name": "!SilverCafe10638",
+    "cause": "https://forum.griefergames.de/forum/thread/441572-silvercafe10638-scammt-um-casino-gewinne-und-um-spenden-f%C3%BCr-eine-comfarm/?pageNo\u003d1",
+    "entryCreatedAt": "2024-05-23T01:37:19.858997216",
+    "entryUpdatedAt": "2024-05-23T01:37:19.859026893",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "0438abc5-3f9c-4081-844f-80f53f905a5d",
+    "name": "1Extreme",
+    "cause": "https://forum.griefergames.de/forum/thread/440348-1extrem-scammt-mit-fakemoney/",
+    "entryCreatedAt": "2024-05-23T01:38:49.373146334",
+    "entryUpdatedAt": "2024-05-23T01:38:49.373177223",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "19bb2cf2-5b0c-384d-9708-99a635f1406b",
+    "name": "!Elias20072009",
+    "cause": "https://forum.griefergames.de/forum/thread/442189-elias20072009-scam-um-shopguthaben/",
+    "entryCreatedAt": "2024-05-23T01:37:28.861495157",
+    "entryUpdatedAt": "2024-05-23T01:37:28.861526777",
+    "expiryDays": 90
+  },
+  {
+    "uuid": "0bc11b71-ac24-44e4-a484-fc825ea2d30a",
+    "name": "Bromazepam_",
+    "cause": "https://forum.griefergames.de/forum/thread/444858-scamming-um-1-75mio-grundst%C3%BCck/",
+    "entryCreatedAt": "2024-05-23T01:37:56.635036464",
+    "entryUpdatedAt": "2024-05-23T01:37:56.63506593",
+    "expiryDays": 90
+  }
+]
