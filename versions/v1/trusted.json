@@ -104,14 +104,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "192b826c-f2fa-4055-a674-2e2903ea314b",
-    "name": "Richard38764",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-05-27T00:02:16.541424553",
-    "entryUpdatedAt": "2024-05-27T00:02:16.541433701",
-    "expiryDays": -1
-  },
-  {
     "uuid": "5ac271d6-08b4-4516-851d-b1a71bd8f842",
     "name": "AngxberLeoooon",
     "cause": "CB3",
@@ -141,6 +133,14 @@
     "cause": "CB17",
     "entryCreatedAt": "2024-05-27T00:01:00.276313124",
     "entryUpdatedAt": "2024-05-27T00:01:00.276322492",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
+    "name": "SkyzeeDRS",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-06-06T14:40:24.894174155",
+    "entryUpdatedAt": "2024-06-06T14:40:24.894205785",
     "expiryDays": -1
   },
   {
@@ -472,14 +472,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "a1f28b2c-c337-4864-b3cc-dcc3cd8b0257",
-    "name": "blaueranruf",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-05-27T00:02:27.113917435",
-    "entryUpdatedAt": "2024-05-27T00:02:27.113926473",
-    "expiryDays": -1
-  },
-  {
     "uuid": "ba754c74-3bfd-412f-ae01-61d03843dd9e",
     "name": "KOPAL1",
     "cause": "CB1",
@@ -541,14 +533,6 @@
     "cause": "CBE",
     "entryCreatedAt": "2024-05-27T00:03:15.189742024",
     "entryUpdatedAt": "2024-05-27T00:03:15.189750931",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "d20fe540-d3a4-4b14-bdb4-1e0ca9072029",
-    "name": "lohoff44",
-    "cause": "CB20",
-    "entryCreatedAt": "2024-05-27T00:01:41.841257805",
-    "entryUpdatedAt": "2024-05-27T00:01:41.841267954",
     "expiryDays": -1
   },
   {
