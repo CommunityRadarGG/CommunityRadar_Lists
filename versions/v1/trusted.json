@@ -1,666 +1,666 @@
 [
-    {
-        "uuid": "77e044d5-34fc-4623-be0b-fa3195050f91",
-        "name": "MagierFlamme",
-        "cause": "CB12",
-        "entryCreatedAt": "2024-05-26T11:41:32.646832634",
-        "entryUpdatedAt": "2024-05-26T11:41:32.646852733",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7b097e9c-6269-4f4e-8cad-910bfa64a675",
-        "name": "DrInk3653",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:22:14.86676474",
-        "entryUpdatedAt": "2024-05-26T11:22:14.866775891",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
-        "name": "ZopfTropf",
-        "cause": "CB2",
-        "entryCreatedAt": "2024-05-26T11:28:57.983623846",
-        "entryUpdatedAt": "2024-05-26T11:28:57.983633915",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "c9788a0e-b2cc-41e2-8a46-22c53d938500",
-        "name": "Flattiii",
-        "cause": "CB2",
-        "entryCreatedAt": "2024-05-26T11:27:25.267795832",
-        "entryUpdatedAt": "2024-05-26T11:27:25.267806552",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "8188df35-7489-4f06-ba83-a4f5db9e4953",
-        "name": "1DrachiiLSP",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:23:18.156661251",
-        "entryUpdatedAt": "2024-05-26T11:23:18.156672282",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "315389f9-dec8-4fea-bc01-38f532d41a61",
-        "name": "ladyvoice",
-        "cause": "CB2",
-        "entryCreatedAt": "2024-05-26T11:28:21.896265209",
-        "entryUpdatedAt": "2024-05-26T11:28:21.89627651",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "224e2364-7e1c-49f8-826e-ee92a5c662bd",
-        "name": "Vertraeumter",
-        "cause": "CB4",
-        "entryCreatedAt": "2024-05-26T11:30:48.318989222",
-        "entryUpdatedAt": "2024-05-26T11:30:48.319001286",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
-        "name": "MR_Mettigel",
-        "cause": "CB9",
-        "entryCreatedAt": "2024-05-26T11:38:06.444902847",
-        "entryUpdatedAt": "2024-05-26T11:38:06.444913457",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "9406d0ca-2c3e-4c88-866a-97ae3fac7458",
-        "name": "Meflyy",
-        "cause": "CB5",
-        "entryCreatedAt": "2024-05-26T11:32:47.983250781",
-        "entryUpdatedAt": "2024-05-26T11:32:47.983262412",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "57b46e08-4b5f-412f-9822-1a3ba86f66b6",
-        "name": "zKramii",
-        "cause": "CB5",
-        "entryCreatedAt": "2024-05-26T11:32:20.619401659",
-        "entryUpdatedAt": "2024-05-26T11:32:20.619414503",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "4368fc7a-bc45-403f-9f26-4aeb71f5281f",
-        "name": "xTheRealBlue",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:19:57.75926461",
-        "entryUpdatedAt": "2024-05-26T11:19:57.759273707",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "d90cba86-d80a-40b2-94f1-f56e75b4a716",
-        "name": "IronStone112",
-        "cause": "CB7",
-        "entryCreatedAt": "2024-05-26T11:35:02.480592703",
-        "entryUpdatedAt": "2024-05-26T11:35:02.4806018",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "d3807982-bd66-4f26-b860-57eb1c76886f",
-        "name": "KirschenXD",
-        "cause": "CB11",
-        "entryCreatedAt": "2024-05-26T11:41:05.133733433",
-        "entryUpdatedAt": "2024-05-26T11:41:05.133742651",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "e8443042-5bb6-4f11-b03d-a02ef0591a3f",
-        "name": "Shichti1",
-        "cause": "CB8",
-        "entryCreatedAt": "2024-05-26T11:37:37.621068315",
-        "entryUpdatedAt": "2024-05-26T11:37:37.621078765",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "8e9c10de-c4f2-45b6-8219-d794d942779d",
-        "name": "x_Fighterboy_x",
-        "cause": "CB13",
-        "entryCreatedAt": "2024-05-26T11:43:23.113889784",
-        "entryUpdatedAt": "2024-05-26T11:43:23.113900344",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "5ac271d6-08b4-4516-851d-b1a71bd8f842",
-        "name": "AngxberLeoooon",
-        "cause": "CB3",
-        "entryCreatedAt": "2024-05-26T11:30:23.839622597",
-        "entryUpdatedAt": "2024-05-26T11:30:23.839632355",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
-        "name": "Toni_der_Erste",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:23:45.297575558",
-        "entryUpdatedAt": "2024-05-26T11:23:45.297583203",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "ba754c74-3bfd-412f-ae01-61d03843dd9e",
-        "name": "KOPAL1",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:20:26.825196117",
-        "entryUpdatedAt": "2024-05-26T11:20:26.825207198",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
-        "name": "signesagnes",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:20:56.60194925",
-        "entryUpdatedAt": "2024-05-26T11:20:56.601958057",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "ed7a4c5d-d2b2-40c6-9317-adfc9ce87c32",
-        "name": "Schichtsteiger",
-        "cause": "CB8",
-        "entryCreatedAt": "2024-05-26T11:37:12.40757907",
-        "entryUpdatedAt": "2024-05-26T11:37:12.407590762",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "9073aac8-d433-4bb8-858b-3a6ce2de32ad",
-        "name": "0taqm",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:25:28.585211679",
-        "entryUpdatedAt": "2024-05-26T11:25:28.58522291",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "6fb141fa-7f50-48b5-b113-013f4a1826bf",
-        "name": "Ein_W1k1nger",
-        "cause": "CB12",
-        "entryCreatedAt": "2024-05-26T11:42:22.57248602",
-        "entryUpdatedAt": "2024-05-26T11:42:22.572497862",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "e0257843-b475-4bb2-803d-6e1d6beb2642",
-        "name": "SY_MarvAP",
-        "cause": "CB10",
-        "entryCreatedAt": "2024-05-26T11:39:33.517438184",
-        "entryUpdatedAt": "2024-05-26T11:39:33.517449135",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "8bf47937-2318-4ef2-844d-9f5b4af677e2",
-        "name": "michi1896",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:19:21.094895133",
-        "entryUpdatedAt": "2024-05-26T11:19:21.094904821",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "783569bc-45e3-4f74-aead-ab2f39e9495e",
-        "name": "TMB_DonUlli",
-        "cause": "CB7",
-        "entryCreatedAt": "2024-05-26T11:35:21.530173364",
-        "entryUpdatedAt": "2024-05-26T11:35:21.530184606",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "02b20f45-724b-481e-9b7c-705430606fc4",
-        "name": "DC1805",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:18:51.246469084",
-        "entryUpdatedAt": "2024-05-26T11:18:51.246478763",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "42d1a8c5-6bb2-4f16-833e-210b491009fb",
-        "name": "Blauregen",
-        "cause": "CB9",
-        "entryCreatedAt": "2024-05-26T11:38:46.346572848",
-        "entryUpdatedAt": "2024-05-26T11:38:46.346581946",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "64bcd3fc-6e1a-4531-9ccc-487213d600b3",
-        "name": "Hard2Def",
-        "cause": "CB7",
-        "entryCreatedAt": "2024-05-26T11:34:42.472514095",
-        "entryUpdatedAt": "2024-05-26T11:34:42.472525588",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
-        "name": "Wiese2007",
-        "cause": "CB11",
-        "entryCreatedAt": "2024-05-26T11:40:40.634546793",
-        "entryUpdatedAt": "2024-05-26T11:40:40.634559608",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "f43d6a14-5b1c-4c0c-a897-36df260a0b08",
-        "name": "_NixFix_",
-        "cause": "CB4",
-        "entryCreatedAt": "2024-05-26T11:31:06.035759142",
-        "entryUpdatedAt": "2024-05-26T11:31:06.035770443",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "e80420c1-36c7-4786-8663-96234efd514d",
-        "name": "MrAlwaysHigh",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:26:13.305975997",
-        "entryUpdatedAt": "2024-05-26T11:26:13.305986848",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "e9cc7cb9-87b3-457b-b9c8-a4b4a9627397",
-        "name": "SchaunMaMal",
-        "cause": "CB8",
-        "entryCreatedAt": "2024-05-26T11:36:44.689407499",
-        "entryUpdatedAt": "2024-05-26T11:36:44.689416505",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7efa8fb6-3080-4d4b-bac5-6983c4769d42",
-        "name": "kingwawa187",
-        "cause": "CB5",
-        "entryCreatedAt": "2024-05-26T11:31:37.241215",
-        "entryUpdatedAt": "2024-05-26T11:31:37.241224598",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "0e6d9aab-410c-4897-85bf-bee68c1931a5",
-        "name": "ColognePoldi",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:21:31.485784319",
-        "entryUpdatedAt": "2024-05-26T11:21:31.485795681",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "ef5f95dc-01a3-41dd-9d42-b707161f7a5b",
-        "name": "SkaBone",
-        "cause": "CB2",
-        "entryCreatedAt": "2024-05-26T11:27:47.847360742",
-        "entryUpdatedAt": "2024-05-26T11:27:47.847374418",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "b4318f25-ba14-4853-9257-7d979a1ce473",
-        "name": "ToxxelHD",
-        "cause": "CB3",
-        "entryCreatedAt": "2024-05-26T11:29:43.270902646",
-        "entryUpdatedAt": "2024-05-26T11:29:43.270912885",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "c7866ce3-da64-4986-874f-2147b3eb0e19",
-        "name": "BigPennywise",
-        "cause": "CB8",
-        "entryCreatedAt": "2024-05-26T11:36:13.703493738",
-        "entryUpdatedAt": "2024-05-26T11:36:13.703505361",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "20ee5955-2a17-4b9c-b9a7-b063662141ea",
-        "name": "KingQuadrix",
-        "cause": "CB1",
-        "entryCreatedAt": "2024-05-26T11:25:53.900599713",
-        "entryUpdatedAt": "2024-05-26T11:25:53.900609001",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "3dca8e76-f788-4612-b5a6-8a29f56dbc7b",
-        "name": "Segenesch",
-        "cause": "CB6",
-        "entryCreatedAt": "2024-05-26T11:34:08.776222775",
-        "entryUpdatedAt": "2024-05-26T11:34:08.77623079",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7a31d051-8955-4bac-8009-aeee2d0bee34",
-        "name": "Siggi2404",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:01:53.555085708",
-        "entryUpdatedAt": "2024-05-27T00:01:53.555098772",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "edad94fc-e175-4081-aa26-7f2b745313fe",
-        "name": "Theybi",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:30.705828996",
-        "entryUpdatedAt": "2024-05-27T00:02:30.705839676",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "8f20a41a-e2c2-48a1-80f5-97ab9495bf55",
-        "name": "junro95",
-        "cause": "CB20",
-        "entryCreatedAt": "2024-05-27T00:01:29.957760558",
-        "entryUpdatedAt": "2024-05-27T00:01:29.957770408",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "57eff058-bf5c-47a5-8601-e7b46949b778",
-        "name": "Unterxtrich",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:45.218083491",
-        "entryUpdatedAt": "2024-05-27T00:02:45.21809344",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7fd76019-1fbd-48b9-9331-81bfecbef7b1",
-        "name": "Senfi87",
-        "cause": "CB20",
-        "entryCreatedAt": "2024-05-27T00:01:32.464937307",
-        "entryUpdatedAt": "2024-05-27T00:01:32.464947656",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "f18a3273-1d33-4213-870c-43258ca34bdf",
-        "name": "XHunter86X",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:02:04.871610231",
-        "entryUpdatedAt": "2024-05-27T00:02:04.871621031",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "ddc08162-1206-4018-828a-30292b26c9b5",
-        "name": "Imleqs",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:21.750761559",
-        "entryUpdatedAt": "2024-05-27T00:02:21.750782008",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "36c64234-e685-4d97-8fbb-2510b1b367b4",
-        "name": "OnkelItachi",
-        "cause": "CBN",
-        "entryCreatedAt": "2024-05-27T00:03:24.126490253",
-        "entryUpdatedAt": "2024-05-27T00:03:24.126501975",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "9313c8d1-6c2e-4f3d-965c-7d381a9df6a6",
-        "name": "Rommel12345",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:02:56.936174602",
-        "entryUpdatedAt": "2024-05-27T00:02:56.936185923",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "cafe7cfd-1468-4163-8d8e-1b95373efd23",
-        "name": "TML_SirRoyal",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:34.0192305",
-        "entryUpdatedAt": "2024-05-27T00:03:34.019239377",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "c44da385-2f4c-44d4-9b36-5537f6792027",
-        "name": "1Richie",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:24.129691077",
-        "entryUpdatedAt": "2024-05-27T00:02:24.129701887",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "3b9f6737-b6f7-4e32-97a9-cc9400e56ca5",
-        "name": "whiteswanHD",
-        "cause": "CB15",
-        "entryCreatedAt": "2024-05-27T00:00:44.823970252",
-        "entryUpdatedAt": "2024-05-27T00:00:44.82397997",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "49a11a77-653c-47a8-b91f-fbeac5579230",
-        "name": "Pummelbaerchen_",
-        "cause": "CB20",
-        "entryCreatedAt": "2024-05-27T00:01:34.887110706",
-        "entryUpdatedAt": "2024-05-27T00:01:34.887118711",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "45bbfee0-4eca-4534-89c7-5f992bdffef4",
-        "name": "sL4p90",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:03:12.143626818",
-        "entryUpdatedAt": "2024-05-27T00:03:12.143637558",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "b1fc2fed-7ccf-46c5-9d51-50f493bad6d5",
-        "name": "BastiM321",
-        "cause": "CB18",
-        "entryCreatedAt": "2024-05-27T00:01:13.091773459",
-        "entryUpdatedAt": "2024-05-27T00:01:13.091782407",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "d61138d4-37c9-4a09-8cf4-7ca7d30edc4b",
-        "name": "Tullup",
-        "cause": "CB17",
-        "entryCreatedAt": "2024-05-27T00:01:05.421411926",
-        "entryUpdatedAt": "2024-05-27T00:01:05.421421254",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "192b826c-f2fa-4055-a674-2e2903ea314b",
-        "name": "Richard38764",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:16.541424553",
-        "entryUpdatedAt": "2024-05-27T00:02:16.541433701",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7946f5ce-7fb2-4d84-ad7f-00c47874ac27",
-        "name": "_3ngeLcheN_",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:01:57.139627321",
-        "entryUpdatedAt": "2024-05-27T00:01:57.139637801",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "8b8ae32b-a9b8-41da-b449-f7d84917d95c",
-        "name": "EinfachMonti",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:19.172872811",
-        "entryUpdatedAt": "2024-05-27T00:02:19.172881839",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "b0c89225-e248-4a81-8674-93460ef80f74",
-        "name": "Sushi_1982",
-        "cause": "CB17",
-        "entryCreatedAt": "2024-05-27T00:01:00.276313124",
-        "entryUpdatedAt": "2024-05-27T00:01:00.276322492",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "7b3e315a-68bd-444b-bbb6-12acf6baa868",
-        "name": "DerSauerlaender",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:29.243127645",
-        "entryUpdatedAt": "2024-05-27T00:03:29.243138206",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "0c9dd86e-7257-4654-b5ac-dc60d50fee2f",
-        "name": "Datentoaster",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:31.694549987",
-        "entryUpdatedAt": "2024-05-27T00:03:31.694560317",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "a1f28b2c-c337-4864-b3cc-dcc3cd8b0257",
-        "name": "blaueranruf",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:27.113917435",
-        "entryUpdatedAt": "2024-05-27T00:02:27.113926473",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "5e0af1e6-e028-47f3-9fe5-6dac7c3f4f21",
-        "name": "Slowbrass",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:42.106293029",
-        "entryUpdatedAt": "2024-05-27T00:02:42.106301965",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "1b98998e-3681-4b7a-9712-cbc92b668e34",
-        "name": "Maxeymi",
-        "cause": "CB16",
-        "entryCreatedAt": "2024-05-27T00:00:56.663778772",
-        "entryUpdatedAt": "2024-05-27T00:00:56.663787569",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "863878c1-99e9-472c-bd3d-afc7ba948c37",
-        "name": "EmreOzora",
-        "cause": "CB22",
-        "entryCreatedAt": "2024-05-27T00:02:38.315917958",
-        "entryUpdatedAt": "2024-05-27T00:02:38.315929951",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "29a28f13-5c31-4e87-b4a5-904faf02a008",
-        "name": "RolDom_FCR",
-        "cause": "CB15",
-        "entryCreatedAt": "2024-05-27T00:00:38.472235322",
-        "entryUpdatedAt": "2024-05-27T00:00:38.472244429",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "aebab3e4-c084-40e1-9d99-14311477dc8c",
-        "name": "1Leocrxft",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:03:15.189742024",
-        "entryUpdatedAt": "2024-05-27T00:03:15.189750931",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "c2db4b17-f333-48f2-b585-1e8d4051977d",
-        "name": "GehwehPanzer",
-        "cause": "CB19",
-        "entryCreatedAt": "2024-05-27T00:01:18.060128809",
-        "entryUpdatedAt": "2024-05-27T00:01:18.060138217",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "d20fe540-d3a4-4b14-bdb4-1e0ca9072029",
-        "name": "lohoff44",
-        "cause": "CB20",
-        "entryCreatedAt": "2024-05-27T00:01:41.841257805",
-        "entryUpdatedAt": "2024-05-27T00:01:41.841267954",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "0172830a-ae4c-4883-9ced-227f6f488444",
-        "name": "Kingsiii",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:01:59.490243746",
-        "entryUpdatedAt": "2024-05-27T00:01:59.490252263",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "a8daa29c-48c6-411b-8f07-ee27b60bde5b",
-        "name": "AOG_0XxHunterxX0",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:02:59.985991202",
-        "entryUpdatedAt": "2024-05-27T00:02:59.98600035",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "722d6587-853b-48c3-bfcb-f61e5c691c83",
-        "name": "xTerrahn",
-        "cause": "CB15",
-        "entryCreatedAt": "2024-05-27T00:00:49.567181619",
-        "entryUpdatedAt": "2024-05-27T00:00:49.567191408",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
-        "name": "AOG_LOLCMD",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:03:09.027795331",
-        "entryUpdatedAt": "2024-05-27T00:03:09.027807434",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "5fef9455-cc39-438d-bee4-d54dedb97870",
-        "name": "Schwarz_1989",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:02:02.49308704",
-        "entryUpdatedAt": "2024-05-27T00:02:02.493099745",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "554b9046-4674-4b06-8e7d-7d3bbcba5573",
-        "name": "Officier_Iron",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:01:50.776635863",
-        "entryUpdatedAt": "2024-05-27T00:01:50.776647025",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "637b55c9-66ca-4500-8251-c7f551ba43d7",
-        "name": "AwesomeSan",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:40.414745417",
-        "entryUpdatedAt": "2024-05-27T00:03:40.414756819",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "a4472f85-a3b8-479a-a232-e13424a4d9f1",
-        "name": "TML_Daywalker",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:26.972953701",
-        "entryUpdatedAt": "2024-05-27T00:03:26.972962657",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "da0cda14-ae61-4647-b0bd-77b83cc15d8e",
-        "name": "Minmarv",
-        "cause": "CB15",
-        "entryCreatedAt": "2024-05-27T00:00:32.654044652",
-        "entryUpdatedAt": "2024-05-27T00:00:32.65405386",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "55577096-ce56-4879-8220-ec636d94c74d",
-        "name": "Funtastisch",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:03:18.035090112",
-        "entryUpdatedAt": "2024-05-27T00:03:18.035101385",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "22f00a46-56cd-4d0b-8a11-697b9a0ff5a2",
-        "name": "TinxPlayer",
-        "cause": "CBE",
-        "entryCreatedAt": "2024-05-27T00:02:54.369744777",
-        "entryUpdatedAt": "2024-05-27T00:02:54.369753122",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "f9d9bb85-42f4-406a-9c1d-517abf94af0a",
-        "name": "XLuggas",
-        "cause": "Cloud",
-        "entryCreatedAt": "2024-05-27T00:03:38.102080524",
-        "entryUpdatedAt": "2024-05-27T00:03:38.102092807",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "0d28010c-4ebe-4712-a9f1-0f1a23c6d919",
-        "name": "Leoj2007",
-        "cause": "CB21",
-        "entryCreatedAt": "2024-05-27T00:02:07.359944684",
-        "entryUpdatedAt": "2024-05-27T00:02:07.359955153",
-        "expiryDays": -1
-    },
-    {
-        "uuid": "363054c1-8386-46ad-aafe-406cfa051933",
-        "name": "Schmieddi",
-        "cause": "CB20",
-        "entryCreatedAt": "2024-05-27T00:01:38.695439817",
-        "entryUpdatedAt": "2024-05-27T00:01:38.695450207",
-        "expiryDays": -1
-    }
+  {
+    "uuid": "7b097e9c-6269-4f4e-8cad-910bfa64a675",
+    "name": "DrInk3653",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:22:14.86676474",
+    "entryUpdatedAt": "2024-05-26T11:22:14.866775891",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "edad94fc-e175-4081-aa26-7f2b745313fe",
+    "name": "Theybi",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:30.705828996",
+    "entryUpdatedAt": "2024-05-27T00:02:30.705839676",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8188df35-7489-4f06-ba83-a4f5db9e4953",
+    "name": "1DrachiiLSP",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:23:18.156661251",
+    "entryUpdatedAt": "2024-05-26T11:23:18.156672282",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
+    "name": "MR_Mettigel",
+    "cause": "CB9",
+    "entryCreatedAt": "2024-05-26T11:38:06.444902847",
+    "entryUpdatedAt": "2024-05-26T11:38:06.444913457",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "57b46e08-4b5f-412f-9822-1a3ba86f66b6",
+    "name": "zKramii",
+    "cause": "CB5",
+    "entryCreatedAt": "2024-05-26T11:32:20.619401659",
+    "entryUpdatedAt": "2024-05-26T11:32:20.619414503",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "f18a3273-1d33-4213-870c-43258ca34bdf",
+    "name": "XHunter86X",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:02:04.871610231",
+    "entryUpdatedAt": "2024-05-27T00:02:04.871621031",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "ddc08162-1206-4018-828a-30292b26c9b5",
+    "name": "Imleqs",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:21.750761559",
+    "entryUpdatedAt": "2024-05-27T00:02:21.750782008",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "9313c8d1-6c2e-4f3d-965c-7d381a9df6a6",
+    "name": "Rommel12345",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:02:56.936174602",
+    "entryUpdatedAt": "2024-05-27T00:02:56.936185923",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "cafe7cfd-1468-4163-8d8e-1b95373efd23",
+    "name": "TML_SirRoyal",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:34.0192305",
+    "entryUpdatedAt": "2024-05-27T00:03:34.019239377",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d90cba86-d80a-40b2-94f1-f56e75b4a716",
+    "name": "IronStone112",
+    "cause": "CB7",
+    "entryCreatedAt": "2024-05-26T11:35:02.480592703",
+    "entryUpdatedAt": "2024-05-26T11:35:02.4806018",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "c44da385-2f4c-44d4-9b36-5537f6792027",
+    "name": "1Richie",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:24.129691077",
+    "entryUpdatedAt": "2024-05-27T00:02:24.129701887",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "3b9f6737-b6f7-4e32-97a9-cc9400e56ca5",
+    "name": "whiteswanHD",
+    "cause": "CB15",
+    "entryCreatedAt": "2024-05-27T00:00:44.823970252",
+    "entryUpdatedAt": "2024-05-27T00:00:44.82397997",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d61138d4-37c9-4a09-8cf4-7ca7d30edc4b",
+    "name": "Tullup",
+    "cause": "CB17",
+    "entryCreatedAt": "2024-05-27T00:01:05.421411926",
+    "entryUpdatedAt": "2024-05-27T00:01:05.421421254",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "192b826c-f2fa-4055-a674-2e2903ea314b",
+    "name": "Richard38764",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:16.541424553",
+    "entryUpdatedAt": "2024-05-27T00:02:16.541433701",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "5ac271d6-08b4-4516-851d-b1a71bd8f842",
+    "name": "AngxberLeoooon",
+    "cause": "CB3",
+    "entryCreatedAt": "2024-05-26T11:30:23.839622597",
+    "entryUpdatedAt": "2024-05-26T11:30:23.839632355",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
+    "name": "Toni_der_Erste",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:23:45.297575558",
+    "entryUpdatedAt": "2024-05-26T11:23:45.297583203",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8b8ae32b-a9b8-41da-b449-f7d84917d95c",
+    "name": "EinfachMonti",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:19.172872811",
+    "entryUpdatedAt": "2024-05-27T00:02:19.172881839",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "b0c89225-e248-4a81-8674-93460ef80f74",
+    "name": "Sushi_1982",
+    "cause": "CB17",
+    "entryCreatedAt": "2024-05-27T00:01:00.276313124",
+    "entryUpdatedAt": "2024-05-27T00:01:00.276322492",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "0c9dd86e-7257-4654-b5ac-dc60d50fee2f",
+    "name": "Datentoaster",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:31.694549987",
+    "entryUpdatedAt": "2024-05-27T00:03:31.694560317",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "9073aac8-d433-4bb8-858b-3a6ce2de32ad",
+    "name": "0taqm",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:25:28.585211679",
+    "entryUpdatedAt": "2024-05-26T11:25:28.58522291",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "6fb141fa-7f50-48b5-b113-013f4a1826bf",
+    "name": "Ein_W1k1nger",
+    "cause": "CB12",
+    "entryCreatedAt": "2024-05-26T11:42:22.57248602",
+    "entryUpdatedAt": "2024-05-26T11:42:22.572497862",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "e0257843-b475-4bb2-803d-6e1d6beb2642",
+    "name": "SY_MarvAP",
+    "cause": "CB10",
+    "entryCreatedAt": "2024-05-26T11:39:33.517438184",
+    "entryUpdatedAt": "2024-05-26T11:39:33.517449135",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "c2db4b17-f333-48f2-b585-1e8d4051977d",
+    "name": "GehwehPanzer",
+    "cause": "CB19",
+    "entryCreatedAt": "2024-05-27T00:01:18.060128809",
+    "entryUpdatedAt": "2024-05-27T00:01:18.060138217",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "0172830a-ae4c-4883-9ced-227f6f488444",
+    "name": "Kingsiii",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:01:59.490243746",
+    "entryUpdatedAt": "2024-05-27T00:01:59.490252263",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8bf47937-2318-4ef2-844d-9f5b4af677e2",
+    "name": "michi1896",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:19:21.094895133",
+    "entryUpdatedAt": "2024-05-26T11:19:21.094904821",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "783569bc-45e3-4f74-aead-ab2f39e9495e",
+    "name": "TMB_DonUlli",
+    "cause": "CB7",
+    "entryCreatedAt": "2024-05-26T11:35:21.530173364",
+    "entryUpdatedAt": "2024-05-26T11:35:21.530184606",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
+    "name": "AOG_LOLCMD",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:03:09.027795331",
+    "entryUpdatedAt": "2024-05-27T00:03:09.027807434",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "02b20f45-724b-481e-9b7c-705430606fc4",
+    "name": "DC1805",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:18:51.246469084",
+    "entryUpdatedAt": "2024-05-26T11:18:51.246478763",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "64bcd3fc-6e1a-4531-9ccc-487213d600b3",
+    "name": "Hard2Def",
+    "cause": "CB7",
+    "entryCreatedAt": "2024-05-26T11:34:42.472514095",
+    "entryUpdatedAt": "2024-05-26T11:34:42.472525588",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "637b55c9-66ca-4500-8251-c7f551ba43d7",
+    "name": "AwesomeSan",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:40.414745417",
+    "entryUpdatedAt": "2024-05-27T00:03:40.414756819",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
+    "name": "Wiese2007",
+    "cause": "CB11",
+    "entryCreatedAt": "2024-05-26T11:40:40.634546793",
+    "entryUpdatedAt": "2024-05-26T11:40:40.634559608",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "a4472f85-a3b8-479a-a232-e13424a4d9f1",
+    "name": "TML_Daywalker",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:26.972953701",
+    "entryUpdatedAt": "2024-05-27T00:03:26.972962657",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "e9cc7cb9-87b3-457b-b9c8-a4b4a9627397",
+    "name": "SchaunMaMal",
+    "cause": "CB8",
+    "entryCreatedAt": "2024-05-26T11:36:44.689407499",
+    "entryUpdatedAt": "2024-05-26T11:36:44.689416505",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "22f00a46-56cd-4d0b-8a11-697b9a0ff5a2",
+    "name": "TinxPlayer",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:02:54.369744777",
+    "entryUpdatedAt": "2024-05-27T00:02:54.369753122",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "0e6d9aab-410c-4897-85bf-bee68c1931a5",
+    "name": "ColognePoldi",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:21:31.485784319",
+    "entryUpdatedAt": "2024-05-26T11:21:31.485795681",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "f9d9bb85-42f4-406a-9c1d-517abf94af0a",
+    "name": "XLuggas",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:38.102080524",
+    "entryUpdatedAt": "2024-05-27T00:03:38.102092807",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "0d28010c-4ebe-4712-a9f1-0f1a23c6d919",
+    "name": "Leoj2007",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:02:07.359944684",
+    "entryUpdatedAt": "2024-05-27T00:02:07.359955153",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "20ee5955-2a17-4b9c-b9a7-b063662141ea",
+    "name": "KingQuadrix",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:25:53.900599713",
+    "entryUpdatedAt": "2024-05-26T11:25:53.900609001",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "3dca8e76-f788-4612-b5a6-8a29f56dbc7b",
+    "name": "Segenesch",
+    "cause": "CB6",
+    "entryCreatedAt": "2024-05-26T11:34:08.776222775",
+    "entryUpdatedAt": "2024-05-26T11:34:08.77623079",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "7a31d051-8955-4bac-8009-aeee2d0bee34",
+    "name": "Siggi2404",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:01:53.555085708",
+    "entryUpdatedAt": "2024-05-27T00:01:53.555098772",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "77e044d5-34fc-4623-be0b-fa3195050f91",
+    "name": "MagierFlamme",
+    "cause": "CB12",
+    "entryCreatedAt": "2024-05-26T11:41:32.646832634",
+    "entryUpdatedAt": "2024-05-26T11:41:32.646852733",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
+    "name": "ZopfTropf",
+    "cause": "CB2",
+    "entryCreatedAt": "2024-05-26T11:28:57.983623846",
+    "entryUpdatedAt": "2024-05-26T11:28:57.983633915",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8f20a41a-e2c2-48a1-80f5-97ab9495bf55",
+    "name": "junro95",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-05-27T00:01:29.957760558",
+    "entryUpdatedAt": "2024-05-27T00:01:29.957770408",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "c9788a0e-b2cc-41e2-8a46-22c53d938500",
+    "name": "Flattiii",
+    "cause": "CB2",
+    "entryCreatedAt": "2024-05-26T11:27:25.267795832",
+    "entryUpdatedAt": "2024-05-26T11:27:25.267806552",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "315389f9-dec8-4fea-bc01-38f532d41a61",
+    "name": "ladyvoice",
+    "cause": "CB2",
+    "entryCreatedAt": "2024-05-26T11:28:21.896265209",
+    "entryUpdatedAt": "2024-05-26T11:28:21.89627651",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "224e2364-7e1c-49f8-826e-ee92a5c662bd",
+    "name": "Vertraeumter",
+    "cause": "CB4",
+    "entryCreatedAt": "2024-05-26T11:30:48.318989222",
+    "entryUpdatedAt": "2024-05-26T11:30:48.319001286",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "9406d0ca-2c3e-4c88-866a-97ae3fac7458",
+    "name": "Meflyy",
+    "cause": "CB5",
+    "entryCreatedAt": "2024-05-26T11:32:47.983250781",
+    "entryUpdatedAt": "2024-05-26T11:32:47.983262412",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "57eff058-bf5c-47a5-8601-e7b46949b778",
+    "name": "Unterxtrich",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:45.218083491",
+    "entryUpdatedAt": "2024-05-27T00:02:45.21809344",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "7fd76019-1fbd-48b9-9331-81bfecbef7b1",
+    "name": "Senfi87",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-05-27T00:01:32.464937307",
+    "entryUpdatedAt": "2024-05-27T00:01:32.464947656",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "36c64234-e685-4d97-8fbb-2510b1b367b4",
+    "name": "OnkelItachi",
+    "cause": "CBN",
+    "entryCreatedAt": "2024-05-27T00:03:24.126490253",
+    "entryUpdatedAt": "2024-05-27T00:03:24.126501975",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "4368fc7a-bc45-403f-9f26-4aeb71f5281f",
+    "name": "xTheRealBlue",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:19:57.75926461",
+    "entryUpdatedAt": "2024-05-26T11:19:57.759273707",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d3807982-bd66-4f26-b860-57eb1c76886f",
+    "name": "KirschenXD",
+    "cause": "CB11",
+    "entryCreatedAt": "2024-05-26T11:41:05.133733433",
+    "entryUpdatedAt": "2024-05-26T11:41:05.133742651",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "49a11a77-653c-47a8-b91f-fbeac5579230",
+    "name": "Pummelbaerchen_",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-05-27T00:01:34.887110706",
+    "entryUpdatedAt": "2024-05-27T00:01:34.887118711",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "45bbfee0-4eca-4534-89c7-5f992bdffef4",
+    "name": "sL4p90",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:03:12.143626818",
+    "entryUpdatedAt": "2024-05-27T00:03:12.143637558",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "b1fc2fed-7ccf-46c5-9d51-50f493bad6d5",
+    "name": "BastiM321",
+    "cause": "CB18",
+    "entryCreatedAt": "2024-05-27T00:01:13.091773459",
+    "entryUpdatedAt": "2024-05-27T00:01:13.091782407",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "e8443042-5bb6-4f11-b03d-a02ef0591a3f",
+    "name": "Shichti1",
+    "cause": "CB8",
+    "entryCreatedAt": "2024-05-26T11:37:37.621068315",
+    "entryUpdatedAt": "2024-05-26T11:37:37.621078765",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8e9c10de-c4f2-45b6-8219-d794d942779d",
+    "name": "x_Fighterboy_x",
+    "cause": "CB13",
+    "entryCreatedAt": "2024-05-26T11:43:23.113889784",
+    "entryUpdatedAt": "2024-05-26T11:43:23.113900344",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "7946f5ce-7fb2-4d84-ad7f-00c47874ac27",
+    "name": "_3ngeLcheN_",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:01:57.139627321",
+    "entryUpdatedAt": "2024-05-27T00:01:57.139637801",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "7b3e315a-68bd-444b-bbb6-12acf6baa868",
+    "name": "DerSauerlaender",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-05-27T00:03:29.243127645",
+    "entryUpdatedAt": "2024-05-27T00:03:29.243138206",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "a1f28b2c-c337-4864-b3cc-dcc3cd8b0257",
+    "name": "blaueranruf",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:27.113917435",
+    "entryUpdatedAt": "2024-05-27T00:02:27.113926473",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "ba754c74-3bfd-412f-ae01-61d03843dd9e",
+    "name": "KOPAL1",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:20:26.825196117",
+    "entryUpdatedAt": "2024-05-26T11:20:26.825207198",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
+    "name": "signesagnes",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:20:56.60194925",
+    "entryUpdatedAt": "2024-05-26T11:20:56.601958057",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "5e0af1e6-e028-47f3-9fe5-6dac7c3f4f21",
+    "name": "Slowbrass",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:42.106293029",
+    "entryUpdatedAt": "2024-05-27T00:02:42.106301965",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "ed7a4c5d-d2b2-40c6-9317-adfc9ce87c32",
+    "name": "Schichtsteiger",
+    "cause": "CB8",
+    "entryCreatedAt": "2024-05-26T11:37:12.40757907",
+    "entryUpdatedAt": "2024-05-26T11:37:12.407590762",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "1b98998e-3681-4b7a-9712-cbc92b668e34",
+    "name": "Maxeymi",
+    "cause": "CB16",
+    "entryCreatedAt": "2024-05-27T00:00:56.663778772",
+    "entryUpdatedAt": "2024-05-27T00:00:56.663787569",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "863878c1-99e9-472c-bd3d-afc7ba948c37",
+    "name": "EmreOzora",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-05-27T00:02:38.315917958",
+    "entryUpdatedAt": "2024-05-27T00:02:38.315929951",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "29a28f13-5c31-4e87-b4a5-904faf02a008",
+    "name": "RolDom_FCR",
+    "cause": "CB15",
+    "entryCreatedAt": "2024-05-27T00:00:38.472235322",
+    "entryUpdatedAt": "2024-05-27T00:00:38.472244429",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "aebab3e4-c084-40e1-9d99-14311477dc8c",
+    "name": "1Leocrxft",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:03:15.189742024",
+    "entryUpdatedAt": "2024-05-27T00:03:15.189750931",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d20fe540-d3a4-4b14-bdb4-1e0ca9072029",
+    "name": "lohoff44",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-05-27T00:01:41.841257805",
+    "entryUpdatedAt": "2024-05-27T00:01:41.841267954",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "a8daa29c-48c6-411b-8f07-ee27b60bde5b",
+    "name": "AOG_0XxHunterxX0",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:02:59.985991202",
+    "entryUpdatedAt": "2024-05-27T00:02:59.98600035",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "722d6587-853b-48c3-bfcb-f61e5c691c83",
+    "name": "xTerrahn",
+    "cause": "CB15",
+    "entryCreatedAt": "2024-05-27T00:00:49.567181619",
+    "entryUpdatedAt": "2024-05-27T00:00:49.567191408",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "42d1a8c5-6bb2-4f16-833e-210b491009fb",
+    "name": "Blauregen",
+    "cause": "CB9",
+    "entryCreatedAt": "2024-05-26T11:38:46.346572848",
+    "entryUpdatedAt": "2024-05-26T11:38:46.346581946",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "5fef9455-cc39-438d-bee4-d54dedb97870",
+    "name": "Schwarz_1989",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:02:02.49308704",
+    "entryUpdatedAt": "2024-05-27T00:02:02.493099745",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "554b9046-4674-4b06-8e7d-7d3bbcba5573",
+    "name": "Officier_Iron",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-05-27T00:01:50.776635863",
+    "entryUpdatedAt": "2024-05-27T00:01:50.776647025",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "f43d6a14-5b1c-4c0c-a897-36df260a0b08",
+    "name": "_NixFix_",
+    "cause": "CB4",
+    "entryCreatedAt": "2024-05-26T11:31:06.035759142",
+    "entryUpdatedAt": "2024-05-26T11:31:06.035770443",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "e80420c1-36c7-4786-8663-96234efd514d",
+    "name": "MrAlwaysHigh",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-05-26T11:26:13.305975997",
+    "entryUpdatedAt": "2024-05-26T11:26:13.305986848",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "da0cda14-ae61-4647-b0bd-77b83cc15d8e",
+    "name": "Minmarv",
+    "cause": "CB15",
+    "entryCreatedAt": "2024-05-27T00:00:32.654044652",
+    "entryUpdatedAt": "2024-05-27T00:00:32.65405386",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "55577096-ce56-4879-8220-ec636d94c74d",
+    "name": "Funtastisch",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-05-27T00:03:18.035090112",
+    "entryUpdatedAt": "2024-05-27T00:03:18.035101385",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "7efa8fb6-3080-4d4b-bac5-6983c4769d42",
+    "name": "kingwawa187",
+    "cause": "CB5",
+    "entryCreatedAt": "2024-05-26T11:31:37.241215",
+    "entryUpdatedAt": "2024-05-26T11:31:37.241224598",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "ef5f95dc-01a3-41dd-9d42-b707161f7a5b",
+    "name": "SkaBone",
+    "cause": "CB2",
+    "entryCreatedAt": "2024-05-26T11:27:47.847360742",
+    "entryUpdatedAt": "2024-05-26T11:27:47.847374418",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "b4318f25-ba14-4853-9257-7d979a1ce473",
+    "name": "ToxxelHD",
+    "cause": "CB3",
+    "entryCreatedAt": "2024-05-26T11:29:43.270902646",
+    "entryUpdatedAt": "2024-05-26T11:29:43.270912885",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "c7866ce3-da64-4986-874f-2147b3eb0e19",
+    "name": "BigPennywise",
+    "cause": "CB8",
+    "entryCreatedAt": "2024-05-26T11:36:13.703493738",
+    "entryUpdatedAt": "2024-05-26T11:36:13.703505361",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "363054c1-8386-46ad-aafe-406cfa051933",
+    "name": "Schmieddi",
+    "cause": "CB20",
+    "entryCreatedAt": "2024-05-27T00:01:38.695439817",
+    "entryUpdatedAt": "2024-05-27T00:01:38.695450207",
+    "expiryDays": -1
+  }
 ]
