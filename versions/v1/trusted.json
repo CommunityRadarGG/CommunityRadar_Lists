@@ -112,14 +112,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
-    "name": "Toni_der_Erste",
-    "cause": "CB1",
-    "entryCreatedAt": "2024-05-26T11:23:45.297575558",
-    "entryUpdatedAt": "2024-05-26T11:23:45.297583203",
-    "expiryDays": -1
-  },
-  {
     "uuid": "8b8ae32b-a9b8-41da-b449-f7d84917d95c",
     "name": "EinfachMonti",
     "cause": "CB22",
