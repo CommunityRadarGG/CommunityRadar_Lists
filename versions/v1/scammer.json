@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "17024667-9a4c-47c5-9c2c-02215790e778",
+    "name": "NadalAdler",
+    "cause": "https://forum.griefergames.de/forum/thread/450448-nadaladler-benutzt-sein-twitch-stream-um-die-community-zu-scammen-f%C3%BCr-casino-zoc/",
+    "entryCreatedAt": "2024-07-06T09:54:02.162604093",
+    "entryUpdatedAt": "2024-07-06T09:54:02.162614804",
+    "expiryDays": 180
+  },
+  {
     "uuid": "1a7ff479-9309-4962-b6ff-e678640704e6",
     "name": "Pegagasus",
     "cause": "https://forum.griefergames.de/forum/thread/445184-pegagasus-versuct-mit-fake-money-mm-trade-zu-bedienen/",
@@ -368,6 +376,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "b483684f-a8d2-44f4-9bcb-63b2caf97ca9",
+    "name": "El_Can",
+    "cause": "https://forum.griefergames.de/forum/thread/450855-el-can-versucht-mit-fake-alias-fake-afk-nick-zu-scammen/",
+    "entryCreatedAt": "2024-07-06T09:55:57.944991377",
+    "entryUpdatedAt": "2024-07-06T09:55:57.945001286",
+    "expiryDays": 180
+  },
+  {
     "uuid": "6f901786-cfe6-44c4-8891-680da322f7ce",
     "name": "G6tt",
     "cause": "https://forum.griefergames.de/forum/thread/440154-kryp-e-scam-um-54k/",
@@ -381,6 +397,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/445329-flaphi-hamudinougat-scammer/",
     "entryCreatedAt": "2024-05-25T01:35:00.132348055",
     "entryUpdatedAt": "2024-05-25T01:35:00.132395084",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "25c8d316-66b5-47c3-8d97-c4d070dfc074",
+    "name": "justdoit2020",
+    "cause": "https://forum.griefergames.de/forum/thread/450938-justdoit2020-scammt-um-175k/",
+    "entryCreatedAt": "2024-07-06T09:56:56.430450822",
+    "entryUpdatedAt": "2024-07-06T09:56:56.430459319",
     "expiryDays": 180
   },
   {
@@ -461,6 +485,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/446983-reselleh-scamming-mit-beweis/",
     "entryCreatedAt": "2024-06-21T16:25:23.546354068",
     "entryUpdatedAt": "2024-06-21T16:25:23.546362114",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f5132127-e57d-4234-b658-edeaf81cb509",
+    "name": "erik_tii",
+    "cause": "https://forum.griefergames.de/forum/thread/450652-erik-tii-scammt-um-1-stack-beacon/",
+    "entryCreatedAt": "2024-07-06T09:55:01.258824167",
+    "entryUpdatedAt": "2024-07-06T09:55:01.258834667",
     "expiryDays": 180
   },
   {
