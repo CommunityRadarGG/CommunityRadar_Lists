@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "544ad3d7-696d-4de5-bbf6-7232fed5b781",
+    "name": "Filaspq",
+    "cause": "https://forum.griefergames.de/forum/thread/451157-filaspq-scammt-1-mio/",
+    "entryCreatedAt": "2024-07-07T08:00:02.053923105",
+    "entryUpdatedAt": "2024-07-07T08:00:02.053934316",
+    "expiryDays": 180
+  },
+  {
     "uuid": "17024667-9a4c-47c5-9c2c-02215790e778",
     "name": "NadalAdler",
     "cause": "https://forum.griefergames.de/forum/thread/450448-nadaladler-benutzt-sein-twitch-stream-um-die-community-zu-scammen-f%C3%BCr-casino-zoc/",
@@ -120,6 +128,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "226b2b90-934b-462a-b8e1-1dde297798c7",
+    "name": "Pr3ctical",
+    "cause": "https://forum.griefergames.de/forum/thread/450791-pr3ctical-scammt-um-150k/",
+    "entryCreatedAt": "2024-07-07T07:58:25.98842987",
+    "entryUpdatedAt": "2024-07-07T07:58:25.988438566",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a04c2705-1ee5-43db-adf7-123c455847f2",
     "name": "Stahlmichl",
     "cause": "https://forum.griefergames.de/forum/thread/449457-warnung-vor-stahlmichl/?pageNo\u003d1",
@@ -138,9 +154,9 @@
   {
     "uuid": "5c31002d-6890-4260-8738-c8c947a396a9",
     "name": "Mxwtuu",
-    "cause": "https://forum.griefergames.de/forum/thread/445208-gotbat-auroracasino-scammt/",
-    "entryCreatedAt": "2024-05-23T14:20:49.111455277",
-    "entryUpdatedAt": "2024-05-23T20:51:03.139785687",
+    "cause": "https://forum.griefergames.de/forum/thread/450907-mxwtuu/",
+    "entryCreatedAt": "2024-07-07T07:57:38.440018863",
+    "entryUpdatedAt": "2024-07-07T07:57:38.440030355",
     "expiryDays": 180
   },
   {
@@ -541,6 +557,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/444880-virexyl-scamm/?postID\u003d4164370#post4164370",
     "entryCreatedAt": "2024-05-23T19:00:29.699492982",
     "entryUpdatedAt": "2024-05-23T20:51:03.139833849",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "8f6d6b8b-d143-4a97-a3b6-9ab405f92eaf",
+    "name": "ybeyazz",
+    "cause": "https://forum.griefergames.de/forum/thread/451233-ybeyazz-scammt-mit-pvp-und-mit-unsichtbarkeits-trank-d-bad-komplett-unsichtbar/",
+    "entryCreatedAt": "2024-07-07T07:59:16.069397379",
+    "entryUpdatedAt": "2024-07-07T07:59:16.0694077",
     "expiryDays": 180
   },
   {
