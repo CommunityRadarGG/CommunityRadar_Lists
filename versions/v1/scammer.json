@@ -48,6 +48,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1ec39493-f01f-4229-9742-13b66c58f7d8",
+    "name": "Spanischhasser",
+    "cause": "https://forum.griefergames.de/forum/thread/451684-spanischhasser-scammt-um-350k/",
+    "entryCreatedAt": "2024-07-10T20:42:40.74201266",
+    "entryUpdatedAt": "2024-07-10T20:42:40.742020705",
+    "expiryDays": 180
+  },
+  {
     "uuid": "65049a1a-b458-4753-82ad-2389d4b26f97",
     "name": "DerKeksKlauer",
     "cause": "https://forum.griefergames.de/forum/thread/440073-derkeksklauer/",
@@ -189,6 +197,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/446071-2xtream4y-stamm-um-3-5-mio-c/?postID\u003d4176818#post4176818",
     "entryCreatedAt": "2024-05-24T18:44:58.040901247",
     "entryUpdatedAt": "2024-05-25T03:10:18.254284742",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "5994851f-45af-4a88-8a22-88853dd4859e",
+    "name": "TweakyWolf",
+    "cause": "https://forum.griefergames.de/forum/thread/451746-tweakywolf/",
+    "entryCreatedAt": "2024-07-10T20:43:24.912943701",
+    "entryUpdatedAt": "2024-07-10T20:43:24.91295369",
     "expiryDays": 180
   },
   {
@@ -357,6 +373,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/447301-cloud-30tage-fly-30k-scamm/",
     "entryCreatedAt": "2024-06-21T16:33:13.791327281",
     "entryUpdatedAt": "2024-06-21T16:33:13.791339154",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "b1a06f5f-29d3-3f51-a687-f841be6a89a5",
+    "name": "!LinusBro1078097",
+    "cause": "https://forum.griefergames.de/forum/thread/451528-er-scammt/",
+    "entryCreatedAt": "2024-07-10T20:44:58.530106049",
+    "entryUpdatedAt": "2024-07-10T20:44:58.530116779",
     "expiryDays": 180
   },
   {
