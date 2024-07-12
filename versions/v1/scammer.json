@@ -560,6 +560,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d47b1136-5ece-4afd-bf70-896120c05707",
+    "name": "Fortnitepro2023",
+    "cause": "https://forum.griefergames.de/forum/thread/451874-fortnitepro2023/",
+    "entryCreatedAt": "2024-07-12T19:39:48.64890139",
+    "entryUpdatedAt": "2024-07-12T19:39:48.648911569",
+    "expiryDays": 180
+  },
+  {
     "uuid": "5121f8c0-acb2-451e-9ec0-00fabd0c04d1",
     "name": "SquidiTentacolo",
     "cause": "https://forum.griefergames.de/forum/thread/444673-squiditentacolo-1swidi-scammt-wieder-rein/",
