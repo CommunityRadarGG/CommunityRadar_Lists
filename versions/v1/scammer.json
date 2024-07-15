@@ -120,6 +120,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "db53d648-f360-4290-a9a5-cd6bb738553c",
+    "name": "shrkyx",
+    "cause": "https://forum.griefergames.de/forum/thread/452035-mxnu027-scam-bei-poseidon-casino/",
+    "entryCreatedAt": "2024-07-15T13:52:05.60113571",
+    "entryUpdatedAt": "2024-07-15T13:52:05.60114605",
+    "expiryDays": 180
+  },
+  {
     "uuid": "d02e0e44-bcca-4a91-bacd-06660f2f7397",
     "name": "reeaS",
     "cause": "https://discord.com/channels/1147881225692917780/1256667923737612360/1256667923737612360",
@@ -376,14 +384,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "b1a06f5f-29d3-3f51-a687-f841be6a89a5",
-    "name": "!LinusBro1078097",
-    "cause": "https://forum.griefergames.de/forum/thread/451528-er-scammt/",
-    "entryCreatedAt": "2024-07-10T20:44:58.530106049",
-    "entryUpdatedAt": "2024-07-10T20:44:58.530116779",
-    "expiryDays": 180
-  },
-  {
     "uuid": "faa065b7-64df-4e44-ae50-db30e282711b",
     "name": "MuslumGurses_",
     "cause": "https://forum.griefergames.de/forum/thread/442350-muslumgurses-scammt-um-kleinbetr%C3%A4ge/",
@@ -461,6 +461,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/451154-filaspq-scammt-um-4mio/",
     "entryCreatedAt": "2024-07-08T18:45:00.329265504",
     "entryUpdatedAt": "2024-07-08T18:45:00.32927869",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "69be9619-ea33-4705-a495-6f70cdadb552",
+    "name": "VeganIstCool",
+    "cause": "https://forum.griefergames.de/forum/thread/452236-veganistcool-fake-supreme-item/",
+    "entryCreatedAt": "2024-07-15T13:53:13.232164113",
+    "entryUpdatedAt": "2024-07-15T13:53:13.232188039",
     "expiryDays": 180
   },
   {
