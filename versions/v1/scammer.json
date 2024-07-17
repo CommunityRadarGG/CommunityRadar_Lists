@@ -72,6 +72,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8d0225e2-2f75-337e-a6a7-47364ba8e8c7",
+    "name": "!Sus8909",
+    "cause": "https://forum.griefergames.de/forum/thread/452732-warnung-vor-dem-spieler-sus8909/",
+    "entryCreatedAt": "2024-07-18T00:20:11.573946916",
+    "entryUpdatedAt": "2024-07-18T00:20:11.573954701",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a04c2705-1ee5-43db-adf7-123c455847f2",
     "name": "Stahlmichl",
     "cause": "https://forum.griefergames.de/forum/thread/449457-warnung-vor-stahlmichl/?pageNo\u003d1",
@@ -133,6 +141,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/452035-mxnu027-scam-bei-poseidon-casino/",
     "entryCreatedAt": "2024-07-15T13:52:05.60113571",
     "entryUpdatedAt": "2024-07-15T13:52:05.60114605",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "8571f19e-93cc-4c8b-bf74-7e1113346ed8",
+    "name": "mscron",
+    "cause": "https://forum.griefergames.de/forum/thread/452703-mscron-scammt-und-wird-frech/",
+    "entryCreatedAt": "2024-07-18T00:19:17.723949152",
+    "entryUpdatedAt": "2024-07-18T00:19:17.723957899",
     "expiryDays": 180
   },
   {
@@ -584,11 +600,27 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d086dfaf-14f9-433c-8e8f-997c40bee23e",
+    "name": "ImSweazZy",
+    "cause": "https://forum.griefergames.de/forum/thread/452563-imsweazzy/",
+    "entryCreatedAt": "2024-07-18T00:17:54.985774783",
+    "entryUpdatedAt": "2024-07-18T00:17:54.985796835",
+    "expiryDays": 180
+  },
+  {
     "uuid": "9a115ee3-904c-4407-8b96-d7cec4a98ce9",
     "name": "ZazaPrinz",
     "cause": "https://forum.griefergames.de/forum/thread/450012-zazaprinz-scammt-mit-fakemoney/",
     "entryCreatedAt": "2024-06-28T16:10:06.330787705",
     "entryUpdatedAt": "2024-06-28T16:10:06.330798896",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "5cb9de41-7cfc-3b2b-b0fc-ec591e1f3d37",
+    "name": "!Megaritter47",
+    "cause": "https://chatlog.griefergames.de/chatlog/851686e7-689c-46c6-aff1-56521b0b2ef0",
+    "entryCreatedAt": "2024-07-18T00:18:39.294542955",
+    "entryUpdatedAt": "2024-07-18T00:18:39.294550911",
     "expiryDays": 180
   },
   {
@@ -845,6 +877,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/447444-twitch-mxhrzahl-scammt-um-19k/",
     "entryCreatedAt": "2024-06-21T16:34:58.583329902",
     "entryUpdatedAt": "2024-06-21T16:34:58.583339201",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "2abd6d47-e040-4a1b-a73c-5a9cabbb8844",
+    "name": "NeinDankeBro",
+    "cause": "https://forum.griefergames.de/forum/thread/452731-leon-comicheft-scammt-um-650k-1-3m/",
+    "entryCreatedAt": "2024-07-18T00:20:53.965527796",
+    "entryUpdatedAt": "2024-07-18T00:20:53.965537505",
     "expiryDays": 180
   }
 ]
