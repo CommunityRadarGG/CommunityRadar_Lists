@@ -8,14 +8,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "edad94fc-e175-4081-aa26-7f2b745313fe",
-    "name": "Theybi",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-05-27T00:02:30.705828996",
-    "entryUpdatedAt": "2024-05-27T00:02:30.705839676",
-    "expiryDays": -1
-  },
-  {
     "uuid": "8188df35-7489-4f06-ba83-a4f5db9e4953",
     "name": "1DrachiiLSP",
     "cause": "CB1",
@@ -29,6 +21,14 @@
     "cause": "CB9",
     "entryCreatedAt": "2024-05-26T11:38:06.444902847",
     "entryUpdatedAt": "2024-05-26T11:38:06.444913457",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "8f1a7516-b194-4606-9065-a2267000e954",
+    "name": "Guioki4266",
+    "cause": "CB15",
+    "entryCreatedAt": "2024-07-17T12:38:27.883016967",
+    "entryUpdatedAt": "2024-07-17T12:38:27.883027186",
     "expiryDays": -1
   },
   {
@@ -96,6 +96,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "10824e2d-767b-4693-b526-f766d4015d16",
+    "name": "SiMaDN",
+    "cause": "Cloud",
+    "entryCreatedAt": "2024-07-17T12:43:07.865248654",
+    "entryUpdatedAt": "2024-07-17T12:43:07.865260016",
+    "expiryDays": -1
+  },
+  {
     "uuid": "d61138d4-37c9-4a09-8cf4-7ca7d30edc4b",
     "name": "Tullup",
     "cause": "CB17",
@@ -112,11 +120,11 @@
     "expiryDays": -1
   },
   {
-    "uuid": "8b8ae32b-a9b8-41da-b449-f7d84917d95c",
-    "name": "EinfachMonti",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-05-27T00:02:19.172872811",
-    "entryUpdatedAt": "2024-05-27T00:02:19.172881839",
+    "uuid": "842d4e39-e631-41db-9ac8-9bd417dd4528",
+    "name": "1trade",
+    "cause": "CB4",
+    "entryCreatedAt": "2024-07-17T12:39:27.749841508",
+    "entryUpdatedAt": "2024-07-17T12:39:27.749853562",
     "expiryDays": -1
   },
   {
@@ -197,6 +205,14 @@
     "cause": "CB7",
     "entryCreatedAt": "2024-05-26T11:35:21.530173364",
     "entryUpdatedAt": "2024-05-26T11:35:21.530184606",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "6272d78c-cadb-4477-a1c2-7842ab97f76e",
+    "name": "ArmyPandaUSA",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-07-17T12:37:11.272923182",
+    "entryUpdatedAt": "2024-07-17T12:37:11.2729323",
     "expiryDays": -1
   },
   {
@@ -565,6 +581,14 @@
     "cause": "CB21",
     "entryCreatedAt": "2024-05-27T00:01:50.776635863",
     "entryUpdatedAt": "2024-05-27T00:01:50.776647025",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d767be18-0937-4692-880e-46b10d908b84",
+    "name": "Ersatzmann",
+    "cause": "CB22",
+    "entryCreatedAt": "2024-07-17T12:37:40.95546016",
+    "entryUpdatedAt": "2024-07-17T12:37:40.955469698",
     "expiryDays": -1
   },
   {
