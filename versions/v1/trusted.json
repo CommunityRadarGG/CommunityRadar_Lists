@@ -99,8 +99,8 @@
     "uuid": "10824e2d-767b-4693-b526-f766d4015d16",
     "name": "SiMaDN",
     "cause": "Cloud",
-    "entryCreatedAt": "2024-07-17T12:43:07.865248654",
-    "entryUpdatedAt": "2024-07-17T12:43:07.865260016",
+    "entryCreatedAt": "2024-07-20T10:44:49.137436514",
+    "entryUpdatedAt": "2024-07-20T10:44:49.137446504",
     "expiryDays": -1
   },
   {
@@ -557,6 +557,14 @@
     "cause": "CB15",
     "entryCreatedAt": "2024-05-27T00:00:49.567181619",
     "entryUpdatedAt": "2024-05-27T00:00:49.567191408",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "cff25466-78b9-4c48-808a-1ae197cbe028",
+    "name": "SupremePumpkin",
+    "cause": "CB2",
+    "entryCreatedAt": "2024-07-20T10:43:16.657072663",
+    "entryUpdatedAt": "2024-07-20T10:43:16.657079657",
     "expiryDays": -1
   },
   {
