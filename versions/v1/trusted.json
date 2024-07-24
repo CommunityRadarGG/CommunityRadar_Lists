@@ -128,6 +128,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
+    "name": "Toni_der_Erste",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-07-24T22:25:09.283096059",
+    "entryUpdatedAt": "2024-07-24T22:25:09.283106771",
+    "expiryDays": -1
+  },
+  {
     "uuid": "b0c89225-e248-4a81-8674-93460ef80f74",
     "name": "Sushi_1982",
     "cause": "CB17",
