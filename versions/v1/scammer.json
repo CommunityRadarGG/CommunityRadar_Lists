@@ -793,10 +793,10 @@
   },
   {
     "uuid": "6bf80aba-7130-47e1-8b5b-7e52425f630e",
-    "name": "Reeaz",
+    "name": "dznis",
     "cause": "https://forum.griefergames.de/forum/thread/449022-reeaz-um-2-35mio-gescamt/",
     "entryCreatedAt": "2024-06-21T16:42:37.058526154",
-    "entryUpdatedAt": "2024-06-21T16:42:37.058536153",
+    "entryUpdatedAt": "2024-07-24T17:34:00.731445091",
     "expiryDays": 180
   },
   {
@@ -821,6 +821,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/448908-poorbonze-scammt-um-shopguthaben/",
     "entryCreatedAt": "2024-06-21T16:41:51.108949238",
     "entryUpdatedAt": "2024-06-21T16:41:51.108958025",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "bfb5e070-f6b9-40be-94a5-b21db4559bf7",
+    "name": "BankBetrug",
+    "cause": "https://forum.griefergames.de/forum/thread/453192-bankbetrug-scamming/",
+    "entryCreatedAt": "2024-07-24T18:22:49.665016209",
+    "entryUpdatedAt": "2024-07-24T18:22:49.665025636",
     "expiryDays": 180
   },
   {
@@ -901,14 +909,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/442122-hammad361-scammt-beleidigt-31compton-ich-war-mm/",
     "entryCreatedAt": "2024-05-25T01:35:43.066315192",
     "entryUpdatedAt": "2024-05-25T01:35:43.066345459",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "6c4441b5-39e1-389d-a494-e99720bb90d8",
-    "name": "!Yuqxiii202",
-    "cause": "https://forum.griefergames.de/forum/thread/452949-yuqxiii202-bietet-fake-grafbonze-klinge-an/",
-    "entryCreatedAt": "2024-07-23T18:19:33.087861707",
-    "entryUpdatedAt": "2024-07-23T18:19:33.087871436",
     "expiryDays": 180
   },
   {
