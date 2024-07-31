@@ -282,9 +282,9 @@
   {
     "uuid": "0869d966-3fdd-4c84-b803-05f100488fa5",
     "name": "Variion",
-    "cause": "https://forum.griefergames.de/forum/thread/447896-booglesmc-scammt-mit-fake-mm-gs/",
-    "entryCreatedAt": "2024-06-21T16:31:26.23731676",
-    "entryUpdatedAt": "2024-06-22T23:34:59.392161947",
+    "cause": "https://forum.griefergames.de/forum/thread/453725-variion-scammt-mehrere-leute-auf-cb1/",
+    "entryCreatedAt": "2024-07-31T15:50:04.663115433",
+    "entryUpdatedAt": "2024-07-31T15:50:04.663122917",
     "expiryDays": 180
   },
   {
@@ -877,6 +877,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/444880-virexyl-scamm/?postID\u003d4164370#post4164370",
     "entryCreatedAt": "2024-05-23T19:00:29.699492982",
     "entryUpdatedAt": "2024-05-23T20:51:03.139833849",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "c813578d-5021-3947-b732-ed5acc0bd37d",
+    "name": "!geilofazomat",
+    "cause": "https://forum.griefergames.de/forum/thread/453825-geilofazomat-scammt-mit-ph-falle-mit-vorwand-prefixe-zu-verschenken/",
+    "entryCreatedAt": "2024-07-31T15:51:58.145215105",
+    "entryUpdatedAt": "2024-07-31T15:51:58.145223692",
     "expiryDays": 180
   },
   {
