@@ -160,11 +160,27 @@
     "expiryDays": 180
   },
   {
+    "uuid": "c6c99a6a-26f1-4246-9485-7ff3a3787438",
+    "name": "1BananenMilch",
+    "cause": "https://forum.griefergames.de/forum/thread/453817-1bananenmilch-scammt-und-gibt-es-zu/",
+    "entryCreatedAt": "2024-08-01T22:04:59.565027747",
+    "entryUpdatedAt": "2024-08-01T22:04:59.565034561",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ab901f5d-fb4d-44c1-b702-ade234d6d252",
     "name": "HighAsHell18",
     "cause": "https://forum.griefergames.de/forum/thread/445229-marvin1993-versucht-mit-fake-money-zu-scammen/",
     "entryCreatedAt": "2024-05-25T01:40:28.803555737",
     "entryUpdatedAt": "2024-05-25T01:40:28.803575263",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "3dd60cf9-5c49-4b5d-a82c-44a6436125f5",
+    "name": "Doppel1Er",
+    "cause": "https://forum.griefergames.de/forum/thread/454068-doppel1er-scammt-mit-beacons/",
+    "entryCreatedAt": "2024-08-01T22:02:50.186084194",
+    "entryUpdatedAt": "2024-08-01T22:02:50.186091689",
     "expiryDays": 180
   },
   {
@@ -181,6 +197,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450133-1karazuk-scammt-2-account-von-10d9/?pageNo\u003d1",
     "entryCreatedAt": "2024-06-28T16:10:57.308875565",
     "entryUpdatedAt": "2024-06-28T16:10:57.308891956",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "4f65db82-418f-41ce-9916-d587e411a509",
+    "name": "Yu_Dino",
+    "cause": "https://forum.griefergames.de/forum/thread/453796-scamm-um-zauberwald-invite/",
+    "entryCreatedAt": "2024-08-01T22:04:21.609169379",
+    "entryUpdatedAt": "2024-08-01T22:04:21.609177023",
     "expiryDays": 180
   },
   {
@@ -333,6 +357,22 @@
     "cause": "https://forum.griefergames.de/forum/thread/442393-openolat-scammt-um-kleinbetr%C3%A4ge/",
     "entryCreatedAt": "2024-05-23T19:00:21.846485025",
     "entryUpdatedAt": "2024-05-23T20:51:03.139809954",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "643e0fa8-fe27-4a37-ab8f-2650346a696f",
+    "name": "tesqn",
+    "cause": "https://forum.griefergames.de/forum/thread/453866-tesqn-scammt-um-2-4m/",
+    "entryCreatedAt": "2024-08-01T22:03:48.388531888",
+    "entryUpdatedAt": "2024-08-01T22:03:48.388541727",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "8bb10c89-ab50-4a34-8245-e8e254f1d957",
+    "name": "Superkicker369",
+    "cause": "https://forum.griefergames.de/forum/thread/454047-superkicker369-scammt-wieder-um-40k/",
+    "entryCreatedAt": "2024-08-01T22:02:08.272031367",
+    "entryUpdatedAt": "2024-08-01T22:02:08.272037699",
     "expiryDays": 180
   },
   {
@@ -888,6 +928,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "c5c9509c-76dd-4ae4-a251-cc0040cb4f11",
+    "name": "1Kxffer",
+    "cause": "https://forum.griefergames.de/forum/thread/454219-1kxffer/",
+    "entryCreatedAt": "2024-08-01T22:00:29.589425336",
+    "entryUpdatedAt": "2024-08-01T22:00:29.589434294",
+    "expiryDays": 180
+  },
+  {
     "uuid": "7da0f5b4-da7a-44e4-aa4b-9c129c88dfb2",
     "name": "zDelete_",
     "cause": "https://forum.griefergames.de/forum/thread/444128-zdelete-scammt-um-17millionen-in-spawneggs/",
@@ -949,6 +997,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/447444-twitch-mxhrzahl-scammt-um-19k/",
     "entryCreatedAt": "2024-06-21T16:34:58.583329902",
     "entryUpdatedAt": "2024-06-21T16:34:58.583339201",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "fbbf31c6-a0dc-4460-a1bd-cc3ef44a2df6",
+    "name": "ByRushi",
+    "cause": "https://forum.griefergames.de/forum/thread/453899-byrushi-scammt-um-5-mio/",
+    "entryCreatedAt": "2024-08-01T22:03:18.522188033",
+    "entryUpdatedAt": "2024-08-01T22:03:18.522197271",
     "expiryDays": 180
   },
   {
