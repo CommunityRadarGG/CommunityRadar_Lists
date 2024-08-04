@@ -784,6 +784,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8890227a-f305-4fc1-955f-1f546dca625c",
+    "name": "Kaktus_Live",
+    "cause": "https://forum.griefergames.de/forum/thread/454488-kaktus-live/",
+    "entryCreatedAt": "2024-08-04T21:06:31.027591153",
+    "entryUpdatedAt": "2024-08-04T21:06:31.027595011",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0d7147a2-ebc7-44d0-a948-ec98bc7020d0",
     "name": "Flunkerino",
     "cause": "https://forum.griefergames.de/forum/thread/450426-sven1993-scammt-um-130k-items/?postID\u003d4218121",
