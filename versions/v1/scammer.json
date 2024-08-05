@@ -168,6 +168,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "b8b4fa33-325d-4859-95cf-ddc5aba55b0f",
+    "name": "1ude",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T14:08:23.431454763",
+    "entryUpdatedAt": "2024-08-05T14:08:23.431457428",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ab901f5d-fb4d-44c1-b702-ade234d6d252",
     "name": "HighAsHell18",
     "cause": "https://forum.griefergames.de/forum/thread/445229-marvin1993-versucht-mit-fake-money-zu-scammen/",
@@ -269,6 +277,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/451746-tweakywolf/",
     "entryCreatedAt": "2024-07-10T20:43:24.912943701",
     "entryUpdatedAt": "2024-07-10T20:43:24.91295369",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "7845271f-c2de-48c5-8cbd-eb6584b1c769",
+    "name": "KinzoHD",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T14:06:18.761249225",
+    "entryUpdatedAt": "2024-08-05T14:06:18.761253404",
     "expiryDays": 180
   },
   {
@@ -408,6 +424,14 @@
     "expiryDays": 90
   },
   {
+    "uuid": "3fce604e-2d28-443b-8a06-3b2df58af050",
+    "name": "itsapiranha",
+    "cause": "https://forum.griefergames.de/forum/thread/454484-itsapiranha-fake-item-im-ah/",
+    "entryCreatedAt": "2024-08-05T13:39:33.713937978",
+    "entryUpdatedAt": "2024-08-05T13:39:33.713940995",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ec900a37-e12c-4bda-9577-68c3ce202ba6",
     "name": "bs071083",
     "cause": "https://forum.griefergames.de/forum/thread/442932-ph-fallen-scammer/",
@@ -536,6 +560,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "40cedb27-6342-3821-8604-7cb30c5abd18",
+    "name": "!Grantelbart8",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T14:07:03.057133387",
+    "entryUpdatedAt": "2024-08-05T14:07:03.057136735",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0bbf3f53-b2fe-4b6b-b9fe-e5388f30bc0f",
     "name": "Unterxtrich_",
     "cause": "https://forum.griefergames.de/forum/thread/443525-unterxtrich-versucht-neue-spieler-mit-fake-money-zu-abzuziehen/",
@@ -592,6 +624,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "515736d6-3b5c-4122-aad1-a9518ebe1049",
+    "name": "Gamelag99",
+    "cause": "https://forum.griefergames.de/forum/thread/454486-gamelag99/",
+    "entryCreatedAt": "2024-08-05T13:35:29.838323891",
+    "entryUpdatedAt": "2024-08-05T13:35:29.838326977",
+    "expiryDays": 180
+  },
+  {
     "uuid": "69be9619-ea33-4705-a495-6f70cdadb552",
     "name": "VeganIstCool",
     "cause": "https://forum.griefergames.de/forum/thread/452236-veganistcool-fake-supreme-item/",
@@ -605,6 +645,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/453119-fortknox13-zahlt-mit-fakemoney/",
     "entryCreatedAt": "2024-07-23T17:44:49.202837887",
     "entryUpdatedAt": "2024-07-23T17:44:49.202847605",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "71dad0c0-510e-4106-b4f6-41500a6df854",
+    "name": "Enzo032",
+    "cause": "https://forum.griefergames.de/forum/thread/454485-enzo032/",
+    "entryCreatedAt": "2024-08-05T13:34:49.521524536",
+    "entryUpdatedAt": "2024-08-05T13:34:49.521528303",
     "expiryDays": 180
   },
   {
@@ -744,6 +792,22 @@
     "expiryDays": 180
   },
   {
+    "uuid": "4a660e14-0f12-4ba5-84d0-241c708acc27",
+    "name": "Welpe3329",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T13:50:47.896847558",
+    "entryUpdatedAt": "2024-08-05T13:50:47.896850884",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "2bac80c0-6622-3607-abb6-7c5d3f0b080f",
+    "name": "!WalterWhite4577",
+    "cause": "https://ibb.co/mJM9vR4",
+    "entryCreatedAt": "2024-08-05T13:41:22.797712637",
+    "entryUpdatedAt": "2024-08-05T13:41:22.797716274",
+    "expiryDays": 180
+  },
+  {
     "uuid": "d47b1136-5ece-4afd-bf70-896120c05707",
     "name": "Fortnitepro2023",
     "cause": "https://forum.griefergames.de/forum/thread/451874-fortnitepro2023/",
@@ -808,6 +872,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "cc2d3995-e02e-47f9-a74b-8b8506d913ce",
+    "name": "Apoxel",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T13:52:49.956024182",
+    "entryUpdatedAt": "2024-08-05T13:52:49.956028781",
+    "expiryDays": 180
+  },
+  {
     "uuid": "9c57db4c-5488-4a3a-9e8a-726f8275738e",
     "name": "Kerim67",
     "cause": "https://forum.griefergames.de/forum/thread/442515-kerim67-scammt/",
@@ -837,6 +909,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450344-mrrealplay-scamming-versuch-5m/",
     "entryCreatedAt": "2024-07-01T17:19:54.935398061",
     "entryUpdatedAt": "2024-07-01T17:19:54.935446504",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "e41fb806-73bd-48d6-b75a-cc55a40291c3",
+    "name": "AgentBanana4179",
+    "cause": "https://ibb.co/ZgJwRmr",
+    "entryCreatedAt": "2024-08-05T13:52:05.19588532",
+    "entryUpdatedAt": "2024-08-05T13:52:05.195888305",
     "expiryDays": 180
   },
   {
@@ -928,6 +1008,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "ec7c7f6b-7027-43be-8fb3-ffff652e3439",
+    "name": "TorahCrafter",
+    "cause": "https://forum.griefergames.de/forum/thread/454483-automaticgriefer/",
+    "entryCreatedAt": "2024-08-05T13:34:06.116157892",
+    "entryUpdatedAt": "2024-08-05T13:34:06.116160697",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ac261810-3082-4ccb-8d80-b26f87f227ba",
     "name": "PoorBonze",
     "cause": "https://forum.griefergames.de/forum/thread/448908-poorbonze-scammt-um-shopguthaben/",
@@ -973,6 +1061,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/444858-scamming-um-1-75mio-grundst%C3%BCck/",
     "entryCreatedAt": "2024-05-23T01:37:56.635036464",
     "entryUpdatedAt": "2024-05-23T20:51:03.139818339",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ca8a16da-e891-4201-b764-942fe54fb527",
+    "name": "Reaxyyy",
+    "cause": "https://forum.griefergames.de/forum/thread/454531-reaxyyy-scammt-in-blackjack-wenn-er-verliert/",
+    "entryCreatedAt": "2024-08-05T13:40:45.211753278",
+    "entryUpdatedAt": "2024-08-05T13:40:45.211757085",
     "expiryDays": 180
   },
   {
@@ -1040,6 +1136,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "e8360406-9161-4330-8a8e-ef5ea8c7db99",
+    "name": "Jokerlol",
+    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-08-05T13:51:25.345440789",
+    "entryUpdatedAt": "2024-08-05T13:51:25.345444035",
+    "expiryDays": 180
+  },
+  {
     "uuid": "8d507c33-0f60-4e05-a5df-b128099f9c9f",
     "name": "AustriaAlpha",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
@@ -1082,9 +1186,9 @@
   {
     "uuid": "fbbf31c6-a0dc-4460-a1bd-cc3ef44a2df6",
     "name": "ByRushi",
-    "cause": "https://forum.griefergames.de/forum/thread/453899-byrushi-scammt-um-5-mio/",
-    "entryCreatedAt": "2024-08-01T22:03:18.522188033",
-    "entryUpdatedAt": "2024-08-01T22:03:18.522197271",
+    "cause": "https://forum.griefergames.de/forum/thread/454454-aktionshaus-scamm-fake-item/",
+    "entryCreatedAt": "2024-08-05T13:50:10.034688495",
+    "entryUpdatedAt": "2024-08-05T13:50:10.034691511",
     "expiryDays": 180
   },
   {
