@@ -88,14 +88,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "a04c2705-1ee5-43db-adf7-123c455847f2",
-    "name": "Stahlmichl",
-    "cause": "https://forum.griefergames.de/forum/thread/449457-warnung-vor-stahlmichl/?pageNo\u003d1",
-    "entryCreatedAt": "2024-06-25T09:43:58.857878091",
-    "entryUpdatedAt": "2024-06-25T09:43:58.857972019",
-    "expiryDays": 180
-  },
-  {
     "uuid": "5c31002d-6890-4260-8738-c8c947a396a9",
     "name": "A0G_Bot",
     "cause": "https://forum.griefergames.de/forum/thread/450907-mxwtuu/",
