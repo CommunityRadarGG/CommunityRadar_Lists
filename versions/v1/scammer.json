@@ -664,14 +664,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "515736d6-3b5c-4122-aad1-a9518ebe1049",
-    "name": "Gamelag99",
-    "cause": "https://forum.griefergames.de/forum/thread/454486-gamelag99/",
-    "entryCreatedAt": "2024-08-05T13:35:29.838323891",
-    "entryUpdatedAt": "2024-08-05T13:35:29.838326977",
-    "expiryDays": 180
-  },
-  {
     "uuid": "85bd98cb-0ef1-4c0b-a2ea-0d920a3b1d46",
     "name": "Stucki42",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
@@ -789,6 +781,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/441853-frischer-scamm-d/",
     "entryCreatedAt": "2024-05-25T13:24:54.200769546",
     "entryUpdatedAt": "2024-05-25T13:24:54.200783051",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "338723bf-d4c5-3040-b338-ed2781269e1d",
+    "name": "!Jolinka3337",
+    "cause": "https://ibb.co/b3FnjhK",
+    "entryCreatedAt": "2024-08-08T22:09:46.691751351",
+    "entryUpdatedAt": "2024-08-08T22:09:46.691762642",
     "expiryDays": 180
   },
   {
