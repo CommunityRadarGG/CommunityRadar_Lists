@@ -312,14 +312,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "7845271f-c2de-48c5-8cbd-eb6584b1c769",
-    "name": "KinzoHD",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
-    "entryCreatedAt": "2024-08-05T14:06:18.761249225",
-    "entryUpdatedAt": "2024-08-05T14:06:18.761253404",
-    "expiryDays": 180
-  },
-  {
     "uuid": "2e49bf50-dc10-4348-8e5c-1e31196c5f03",
     "name": "IchMacheEsNicht",
     "cause": "https://forum.griefergames.de/forum/thread/444694-ichmacheesnicht-scammversuch-mit-fakemoney-27-5-mio/?postID\u003d4161594#post4161594:red_circle",
@@ -481,10 +473,10 @@
   },
   {
     "uuid": "8f6d6b8b-d143-4a97-a3b6-9ab405f92eaf",
-    "name": "RoadToMM",
+    "name": "TraderV7",
     "cause": "https://forum.griefergames.de/forum/thread/451412-pvp-scamversuch/",
     "entryCreatedAt": "2024-07-08T18:45:43.786262544",
-    "entryUpdatedAt": "2024-07-09T14:02:27.897716161",
+    "entryUpdatedAt": "2024-08-08T19:05:41.156499251",
     "expiryDays": 180
   },
   {
