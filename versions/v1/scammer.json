@@ -704,6 +704,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a624d32e-11d0-4edf-bd31-28cebe7efd7c",
+    "name": "Trop1co",
+    "cause": "https://forum.griefergames.de/forum/thread/455933-trop1co-scammt-niedlicherpezo-um-17m/",
+    "entryCreatedAt": "2024-08-19T21:05:51.519753687",
+    "entryUpdatedAt": "2024-08-19T21:05:51.519764809",
+    "expiryDays": 180
+  },
+  {
     "uuid": "fbbf31c6-a0dc-4460-a1bd-cc3ef44a2df6",
     "name": "ByRushi",
     "cause": "https://forum.griefergames.de/forum/thread/454454-aktionshaus-scamm-fake-item/",
@@ -877,6 +885,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454921-flaredbog848003-scammt-in-degg-um-10k-xd/",
     "entryCreatedAt": "2024-08-12T00:13:57.716937706",
     "entryUpdatedAt": "2024-08-12T00:13:57.716946904",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "96c3b4ac-bb2f-4377-a620-70094c13cd36",
+    "name": "AtoZzzz",
+    "cause": "https://forum.griefergames.de/forum/thread/455681-atozzzz-scamm-um-4-6m/?postID\u003d4273854#post4273854",
+    "entryCreatedAt": "2024-08-19T21:06:47.351124622",
+    "entryUpdatedAt": "2024-08-19T21:06:47.351135654",
     "expiryDays": 180
   },
   {
@@ -1432,6 +1448,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "6cdb9449-0588-4be8-a769-da453d9b319d",
+    "name": "ewald_otto",
+    "cause": "https://forum.griefergames.de/forum/thread/455939-fanvonderwutknut/",
+    "entryCreatedAt": "2024-08-19T21:05:10.1417568",
+    "entryUpdatedAt": "2024-08-19T21:05:10.141765998",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ccdc7909-3dd8-497d-8667-0d18885ff389",
     "name": "Reselleh",
     "cause": "https://forum.griefergames.de/forum/thread/446983-reselleh-scamming-mit-beweis/",
@@ -1445,6 +1469,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450652-erik-tii-scammt-um-1-stack-beacon/",
     "entryCreatedAt": "2024-07-06T09:55:01.258824167",
     "entryUpdatedAt": "2024-07-06T09:55:01.258834667",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "32f3db62-5c46-4c51-bb32-4468b03f293f",
+    "name": "r4qee",
+    "cause": "https://forum.griefergames.de/forum/thread/455975-ah-scamm-r4qee/",
+    "entryCreatedAt": "2024-08-19T21:06:22.264203544",
+    "entryUpdatedAt": "2024-08-19T21:06:22.264212761",
     "expiryDays": 180
   },
   {
