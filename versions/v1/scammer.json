@@ -200,6 +200,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "93dff92a-00cf-401c-abde-a4997f72be53",
+    "name": "AbgegrieItHD",
+    "cause": "https://forum.griefergames.de/forum/thread/456035-neuer-fake-abge-mit-fake-item-im-ah/",
+    "entryCreatedAt": "2024-08-19T23:16:01.998791918",
+    "entryUpdatedAt": "2024-08-19T23:16:01.99880292",
+    "expiryDays": 180
+  },
+  {
     "uuid": "2e49bf50-dc10-4348-8e5c-1e31196c5f03",
     "name": "IchMacheEsNicht",
     "cause": "https://forum.griefergames.de/forum/thread/444694-ichmacheesnicht-scammversuch-mit-fakemoney-27-5-mio/?postID\u003d4161594#post4161594:red_circle",
@@ -464,6 +472,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0a3f402b-bda8-4c57-b9fd-beffd68426cf",
+    "name": "Unlustig__",
+    "cause": "https://forum.griefergames.de/forum/thread/456076-unlustig-scammt-um-40k-warnung/",
+    "entryCreatedAt": "2024-08-19T23:16:33.613157457",
+    "entryUpdatedAt": "2024-08-19T23:16:33.613168669",
+    "expiryDays": 180
+  },
+  {
     "uuid": "4a660e14-0f12-4ba5-84d0-241c708acc27",
     "name": "Welpe3329",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
@@ -637,6 +653,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/442589-pdmchris-scammt-um-c-a-11m/",
     "entryCreatedAt": "2024-05-23T19:00:18.206790099",
     "entryUpdatedAt": "2024-05-23T20:51:03.139801047",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "55aec896-bbfe-4b96-8331-b2956bcf09dd",
+    "name": "GommeHDLover",
+    "cause": "https://forum.griefergames.de/forum/thread/456035-neuer-fake-abge-mit-fake-item-im-ah/",
+    "entryCreatedAt": "2024-08-19T23:15:40.074342614",
+    "entryUpdatedAt": "2024-08-19T23:15:40.074351882",
     "expiryDays": 180
   },
   {
