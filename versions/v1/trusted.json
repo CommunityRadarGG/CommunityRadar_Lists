@@ -32,14 +32,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "57b46e08-4b5f-412f-9822-1a3ba86f66b6",
-    "name": "zKramii",
-    "cause": "CB5",
-    "entryCreatedAt": "2024-05-26T11:32:20.619401659",
-    "entryUpdatedAt": "2024-05-26T11:32:20.619414503",
-    "expiryDays": -1
-  },
-  {
     "uuid": "f18a3273-1d33-4213-870c-43258ca34bdf",
     "name": "XHunter86X",
     "cause": "CB21",
@@ -77,14 +69,6 @@
     "cause": "CB7",
     "entryCreatedAt": "2024-05-26T11:35:02.480592703",
     "entryUpdatedAt": "2024-05-26T11:35:02.4806018",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "c44da385-2f4c-44d4-9b36-5537f6792027",
-    "name": "1Richie",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-05-27T00:02:24.129691077",
-    "entryUpdatedAt": "2024-05-27T00:02:24.129701887",
     "expiryDays": -1
   },
   {
@@ -160,11 +144,19 @@
     "expiryDays": -1
   },
   {
-    "uuid": "9073aac8-d433-4bb8-858b-3a6ce2de32ad",
-    "name": "0taqm",
-    "cause": "CB1",
-    "entryCreatedAt": "2024-05-26T11:25:28.585211679",
-    "entryUpdatedAt": "2024-05-26T11:25:28.58522291",
+    "uuid": "c9580174-fb90-48aa-ac1d-b0013c131a07",
+    "name": "Ey_Killplay",
+    "cause": "CB12",
+    "entryCreatedAt": "2024-08-26T20:48:44.971835282",
+    "entryUpdatedAt": "2024-08-26T20:48:44.971838017",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "33299d1c-d549-4dff-947b-9289d80d3f5c",
+    "name": "AlmazXx",
+    "cause": "CBE",
+    "entryCreatedAt": "2024-08-26T21:04:25.681925613",
+    "entryUpdatedAt": "2024-08-26T21:04:25.681928598",
     "expiryDays": -1
   },
   {
@@ -293,6 +285,14 @@
     "cause": "CB1",
     "entryCreatedAt": "2024-05-26T11:21:31.485784319",
     "entryUpdatedAt": "2024-05-26T11:21:31.485795681",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "04399c37-70a7-47b0-944e-9369e7f7e173",
+    "name": "RainbowSteven",
+    "cause": "CBN",
+    "entryCreatedAt": "2024-08-26T21:06:53.004727395",
+    "entryUpdatedAt": "2024-08-26T21:06:53.004729649",
     "expiryDays": -1
   },
   {
@@ -552,14 +552,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "a8daa29c-48c6-411b-8f07-ee27b60bde5b",
-    "name": "AOG_0XxHunterxX0",
-    "cause": "CBE",
-    "entryCreatedAt": "2024-05-27T00:02:59.985991202",
-    "entryUpdatedAt": "2024-05-27T00:02:59.98600035",
-    "expiryDays": -1
-  },
-  {
     "uuid": "722d6587-853b-48c3-bfcb-f61e5c691c83",
     "name": "xTerrahn",
     "cause": "CB15",
@@ -669,6 +661,14 @@
     "cause": "CB8",
     "entryCreatedAt": "2024-05-26T11:36:13.703493738",
     "entryUpdatedAt": "2024-05-26T11:36:13.703505361",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "fbc6c8c6-50bb-4290-9286-9d35bc0b4f6e",
+    "name": "ChillyPerry",
+    "cause": "CB1",
+    "entryCreatedAt": "2024-08-26T20:58:24.11016553",
+    "entryUpdatedAt": "2024-08-26T20:58:24.110168174",
     "expiryDays": -1
   },
   {
