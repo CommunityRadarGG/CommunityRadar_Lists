@@ -376,6 +376,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "432adc1a-d5d5-4979-a5ec-9fd0e2a55379",
+    "name": "Kanyewestde",
+    "cause": "https://forum.griefergames.de/forum/thread/456547-derbrand0n-scammt-um-20k/",
+    "entryCreatedAt": "2024-08-26T18:14:09.121303367",
+    "entryUpdatedAt": "2024-08-26T18:14:09.121306252",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0bbf3f53-b2fe-4b6b-b9fe-e5388f30bc0f",
     "name": "Unterxtrich_",
     "cause": "https://forum.griefergames.de/forum/thread/443525-unterxtrich-versucht-neue-spieler-mit-fake-money-zu-abzuziehen/",
@@ -1069,6 +1077,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/451412-pvp-scamversuch/",
     "entryCreatedAt": "2024-07-08T18:45:43.786262544",
     "entryUpdatedAt": "2024-08-08T19:05:41.156499251",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "02fd70e5-6866-3d7b-a051-0c24c790a388",
+    "name": "!InfernoFire47",
+    "cause": "https://forum.griefergames.de/forum/thread/456550-fake-payen-auch-noch-im-plot-chat-xd/",
+    "entryCreatedAt": "2024-08-26T18:16:28.889370545",
+    "entryUpdatedAt": "2024-08-26T18:16:28.889373982",
     "expiryDays": 180
   },
   {
