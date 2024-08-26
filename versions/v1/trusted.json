@@ -600,14 +600,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "f43d6a14-5b1c-4c0c-a897-36df260a0b08",
-    "name": "_NixFix_",
-    "cause": "CB4",
-    "entryCreatedAt": "2024-05-26T11:31:06.035759142",
-    "entryUpdatedAt": "2024-05-26T11:31:06.035770443",
-    "expiryDays": -1
-  },
-  {
     "uuid": "e80420c1-36c7-4786-8663-96234efd514d",
     "name": "MrAlwaysHigh",
     "cause": "CB1",
