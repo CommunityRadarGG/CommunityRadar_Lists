@@ -320,11 +320,27 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d2881f33-2049-4637-9460-3f7b7dcbab7c",
+    "name": "nicoGHGgoat",
+    "cause": "https://forum.griefergames.de/forum/thread/456602-nicoghggoat-scammt-bei-gs-kauf/",
+    "entryCreatedAt": "2024-08-27T17:12:07.85778776",
+    "entryUpdatedAt": "2024-08-27T17:12:07.857789302",
+    "expiryDays": 180
+  },
+  {
     "uuid": "8a869f39-c69f-4a3b-ad15-435c2f99bcbb",
     "name": "Unterwurf",
     "cause": "https://forum.griefergames.de/forum/thread/443513-bullitkln-scammt-fakemoney-um-1-5mio-versuch-gescheitert/",
     "entryCreatedAt": "2024-05-25T01:35:26.764960338",
     "entryUpdatedAt": "2024-07-22T23:33:51.576927982",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d5a9d4b3-ab77-43ed-babc-88ef01700ed3",
+    "name": "1Nono",
+    "cause": "https://forum.griefergames.de/forum/thread/456599-1nono-scammt-um-2mio-cloud-money/",
+    "entryCreatedAt": "2024-08-27T17:11:27.522524848",
+    "entryUpdatedAt": "2024-08-27T17:11:27.522526842",
     "expiryDays": 180
   },
   {
@@ -378,9 +394,9 @@
   {
     "uuid": "432adc1a-d5d5-4979-a5ec-9fd0e2a55379",
     "name": "Kanyewestde",
-    "cause": "https://forum.griefergames.de/forum/thread/456547-derbrand0n-scammt-um-20k/",
-    "entryCreatedAt": "2024-08-26T18:14:09.121303367",
-    "entryUpdatedAt": "2024-08-26T18:14:09.121306252",
+    "cause": "https://forum.griefergames.de/forum/thread/456551-ich-wei%C3%9F-nicht-ob-das-scammen-ist-ich-w%C3%BCrde-jedoch-sagen-ja-schon/",
+    "entryCreatedAt": "2024-08-27T17:12:34.137715333",
+    "entryUpdatedAt": "2024-08-27T17:12:34.137717117",
     "expiryDays": 180
   },
   {
@@ -1309,6 +1325,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/453311-reaxty-500-mio-fakemoney/",
     "entryCreatedAt": "2024-07-24T12:29:38.753010648",
     "entryUpdatedAt": "2024-07-24T12:29:38.753022831",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "435caf4c-d1b1-4971-9f82-c561f922beb5",
+    "name": "Statstoggle",
+    "cause": "https://forum.griefergames.de/forum/thread/456585-statstoggle-scammt-um-2mio-lol/",
+    "entryCreatedAt": "2024-08-27T17:05:19.51277005",
+    "entryUpdatedAt": "2024-08-27T17:05:19.512771853",
     "expiryDays": 180
   },
   {
