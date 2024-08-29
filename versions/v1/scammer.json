@@ -48,6 +48,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8e822d1d-392d-4666-9e3e-8d4a250320a8",
+    "name": "zSkela",
+    "cause": "https://discord.com/channels/1147881225692917780/1278446057461776424",
+    "entryCreatedAt": "2024-08-29T20:08:46.003288663",
+    "entryUpdatedAt": "2024-08-29T20:08:46.003290366",
+    "expiryDays": 180
+  },
+  {
     "uuid": "f000dc08-4d30-31bb-8d9d-38cd2e0fedd2",
     "name": "!CapitolBot",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
@@ -69,6 +77,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/455039-kaka-essen-123-scammt/",
     "entryCreatedAt": "2024-08-12T21:28:02.098400501",
     "entryUpdatedAt": "2024-08-12T21:28:02.098410641",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a2057463-f707-4190-b3c2-05e10f7c5fbc",
+    "name": "ByLyntex",
+    "cause": "https://forum.griefergames.de/forum/thread/456850-auktionshaus-fake-supreme-r%C3%A4nge/",
+    "entryCreatedAt": "2024-08-29T20:10:14.33259974",
+    "entryUpdatedAt": "2024-08-29T20:10:14.332601573",
     "expiryDays": 180
   },
   {
@@ -378,9 +394,9 @@
   {
     "uuid": "525de760-0291-47f9-99cd-a84e7ebbcf14",
     "name": "Fruehlingsprefix",
-    "cause": "https://forum.griefergames.de/forum/thread/455073-fruehlingsprefix-hat-mich-gescammt-im-ah/",
-    "entryCreatedAt": "2024-08-12T21:26:10.918615492",
-    "entryUpdatedAt": "2024-08-12T21:26:10.918627175",
+    "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
+    "entryCreatedAt": "2024-08-29T20:12:37.792708233",
+    "entryUpdatedAt": "2024-08-29T20:12:37.792709796",
     "expiryDays": 180
   },
   {
@@ -624,6 +640,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "4a7fd4d1-ad2c-47bd-a9e8-a4da9dac7219",
+    "name": "BossSign9076027",
+    "cause": "https://forum.griefergames.de/forum/thread/456820-bosssign9076027-scammt-bei-degg-um-100k/",
+    "entryCreatedAt": "2024-08-29T20:09:18.404421007",
+    "entryUpdatedAt": "2024-08-29T20:09:18.404423392",
+    "expiryDays": 180
+  },
+  {
     "uuid": "5449f6d6-63dd-44d1-8989-a317911abcae",
     "name": "Guthaben_",
     "cause": "https://forum.griefergames.de/forum/thread/443733-guthaben-scammt-um-32m/",
@@ -856,6 +880,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "f40355a0-ee94-4a09-9042-25877c3efbc2",
+    "name": "Coolingdisc3060",
+    "cause": "https://forum.griefergames.de/forum/thread/456767-coolingdisc3060-scammt-um-200k/",
+    "entryCreatedAt": "2024-08-29T20:13:17.745478892",
+    "entryUpdatedAt": "2024-08-29T20:13:17.745480996",
+    "expiryDays": 180
+  },
+  {
     "uuid": "193ac261-aeec-4081-843f-239fd129e8b3",
     "name": "xDrag4",
     "cause": "https://forum.griefergames.de/forum/thread/443767-fruzyx-scammt-um-2-3-millionen/",
@@ -989,6 +1021,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454921-flaredbog848003-scammt-in-degg-um-10k-xd/",
     "entryCreatedAt": "2024-08-12T00:13:57.716937706",
     "entryUpdatedAt": "2024-08-12T00:13:57.716946904",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "4d5c2a74-b14d-3623-b678-f6e79a7d059e",
+    "name": "!AltAlpaca850325",
+    "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
+    "entryCreatedAt": "2024-08-29T20:11:46.525394451",
+    "entryUpdatedAt": "2024-08-29T20:11:46.525397006",
     "expiryDays": 180
   },
   {
@@ -1305,10 +1345,10 @@
   },
   {
     "uuid": "fc60ff55-8497-4957-86ce-bd094f97c136",
-    "name": "Flawer34",
+    "name": "SherlockRYXI_",
     "cause": "https://forum.griefergames.de/forum/thread/449851-quiiiikii-imdmnq22-versuchen-25m-scam/?pageNo\u003d1",
     "entryCreatedAt": "2024-06-28T16:12:27.902200545",
-    "entryUpdatedAt": "2024-07-23T15:33:55.625552139",
+    "entryUpdatedAt": "2024-08-29T19:17:11.287611106",
     "expiryDays": 180
   },
   {
@@ -1624,11 +1664,19 @@
     "expiryDays": 180
   },
   {
+    "uuid": "cb9c1c8b-2644-4d4f-a98f-1982f2b03f41",
+    "name": "Splatinky",
+    "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
+    "entryCreatedAt": "2024-08-29T20:12:12.51074104",
+    "entryUpdatedAt": "2024-08-29T20:12:12.510742392",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ca8a16da-e891-4201-b764-942fe54fb527",
-    "name": "Reaxyyy",
+    "name": "TheGirlx_x",
     "cause": "https://forum.griefergames.de/forum/thread/454531-reaxyyy-scammt-in-blackjack-wenn-er-verliert/",
     "entryCreatedAt": "2024-08-05T13:40:45.211753278",
-    "entryUpdatedAt": "2024-08-05T13:40:45.211757085",
+    "entryUpdatedAt": "2024-08-29T19:17:11.287768188",
     "expiryDays": 180
   },
   {
