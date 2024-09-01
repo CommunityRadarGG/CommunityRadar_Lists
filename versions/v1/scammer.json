@@ -386,9 +386,9 @@
   {
     "uuid": "525de760-0291-47f9-99cd-a84e7ebbcf14",
     "name": "Fruehlingsprefix",
-    "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
-    "entryCreatedAt": "2024-08-29T20:12:37.792708233",
-    "entryUpdatedAt": "2024-08-29T20:12:37.792709796",
+    "cause": "https://forum.griefergames.de/forum/thread/456907-auktionshaus-fake-hero-r%C3%A4nge/",
+    "entryCreatedAt": "2024-09-01T13:43:54.604104685",
+    "entryUpdatedAt": "2024-09-01T13:43:54.604106909",
     "expiryDays": 180
   },
   {
@@ -693,6 +693,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450855-el-can-versucht-mit-fake-alias-fake-afk-nick-zu-scammen/",
     "entryCreatedAt": "2024-07-06T09:55:57.944991377",
     "entryUpdatedAt": "2024-07-06T09:55:57.945001286",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "89c5b91c-e929-420a-8a4f-d80eed0be47c",
+    "name": "Toilettenrolle",
+    "cause": "https://forum.griefergames.de/forum/thread/456912-fake-money-wird-als-real-money-angezeigt-scamming-durch-toilettenrolle/",
+    "entryCreatedAt": "2024-09-01T13:42:37.753860879",
+    "entryUpdatedAt": "2024-09-01T13:42:37.753863845",
     "expiryDays": 180
   },
   {
@@ -1162,9 +1170,9 @@
   {
     "uuid": "02fd70e5-6866-3d7b-a051-0c24c790a388",
     "name": "!InfernoFire47",
-    "cause": "https://forum.griefergames.de/forum/thread/456717-infernofire47-behaubtet-mehr-als-11-mio-gescammt-zu-haben/",
-    "entryCreatedAt": "2024-08-28T22:14:38.653987083",
-    "entryUpdatedAt": "2024-08-28T22:14:38.653989017",
+    "cause": "https://forum.griefergames.de/forum/thread/456987-fake-money-pay-vorsichtig/",
+    "entryCreatedAt": "2024-09-01T13:45:17.41849663",
+    "entryUpdatedAt": "2024-09-01T13:45:17.418499144",
     "expiryDays": 180
   },
   {
@@ -1202,9 +1210,9 @@
   {
     "uuid": "86fea7e6-f540-4699-a13f-282cea2fa08e",
     "name": "Ploppii2",
-    "cause": "https://forum.griefergames.de/forum/thread/447301-cloud-30tage-fly-30k-scamm/",
-    "entryCreatedAt": "2024-06-21T16:33:13.791327281",
-    "entryUpdatedAt": "2024-08-29T17:17:07.3702302",
+    "cause": "https://discord.com/channels/1147881225692917780/1278780440592781484",
+    "entryCreatedAt": "2024-09-01T13:44:30.252015866",
+    "entryUpdatedAt": "2024-09-01T13:44:30.25201797",
     "expiryDays": 180
   },
   {
