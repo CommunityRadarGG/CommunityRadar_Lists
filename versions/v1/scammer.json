@@ -234,9 +234,9 @@
   {
     "uuid": "93dff92a-00cf-401c-abde-a4997f72be53",
     "name": "AbgegrieItHD",
-    "cause": "https://forum.griefergames.de/forum/thread/456035-neuer-fake-abge-mit-fake-item-im-ah/",
-    "entryCreatedAt": "2024-08-19T23:16:01.998791918",
-    "entryUpdatedAt": "2024-08-19T23:16:01.99880292",
+    "cause": "https://forum.griefergames.de/forum/thread/457103-ah-scammer/",
+    "entryCreatedAt": "2024-09-02T10:47:18.562394833",
+    "entryUpdatedAt": "2024-09-02T10:47:18.562402909",
     "expiryDays": 180
   },
   {
@@ -824,6 +824,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a7706d60-d981-4e5c-8790-54866d2d230f",
+    "name": "Tommimine",
+    "cause": "https://forum.griefergames.de/forum/thread/457126-stellungnahme-zu-mir-selbst/",
+    "entryCreatedAt": "2024-09-02T10:49:00.446716822",
+    "entryUpdatedAt": "2024-09-02T10:49:00.446718665",
+    "expiryDays": 180
+  },
+  {
     "uuid": "fbbf31c6-a0dc-4460-a1bd-cc3ef44a2df6",
     "name": "ByRushi",
     "cause": "https://forum.griefergames.de/forum/thread/454454-aktionshaus-scamm-fake-item/",
@@ -917,6 +925,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
     "entryCreatedAt": "2024-08-12T00:58:14.811751468",
     "entryUpdatedAt": "2024-08-12T00:58:14.811759182",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "0e6be4a4-9c84-3316-bbf6-1d89da9646ae",
+    "name": "!Sieger0x",
+    "cause": "https://forum.griefergames.de/forum/thread/457091-scammversuch-scamm-von-sieger0x/",
+    "entryCreatedAt": "2024-09-02T10:47:48.872033259",
+    "entryUpdatedAt": "2024-09-02T10:47:48.872035002",
     "expiryDays": 180
   },
   {
@@ -1293,6 +1309,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/452236-veganistcool-fake-supreme-item/",
     "entryCreatedAt": "2024-07-15T13:53:13.232164113",
     "entryUpdatedAt": "2024-07-15T13:53:13.232188039",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "c0400010-ee6b-3b7f-9bd5-76aa0c7025c7",
+    "name": "!Farming1899",
+    "cause": "https://forum.griefergames.de/forum/thread/457121-achtung-farming1899-scammt/",
+    "entryCreatedAt": "2024-09-02T10:48:24.671269667",
+    "entryUpdatedAt": "2024-09-02T10:48:24.671271661",
     "expiryDays": 180
   },
   {
