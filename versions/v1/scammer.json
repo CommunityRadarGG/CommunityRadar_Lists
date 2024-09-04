@@ -928,6 +928,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2fc5cd08-a4da-4e49-a51c-f6e4d90069b3",
+    "name": "BergbauMeister",
+    "cause": "https://forum.griefergames.de/forum/thread/457144-bergbaumeister-scammt-um-21m/",
+    "entryCreatedAt": "2024-09-04T20:55:51.239667491",
+    "entryUpdatedAt": "2024-09-04T20:55:51.239669355",
+    "expiryDays": 180
+  },
+  {
     "uuid": "82e6a303-c096-4f7c-bcfa-dcb33c2fff71",
     "name": "GoldenesX",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
@@ -1322,9 +1330,9 @@
   {
     "uuid": "c0400010-ee6b-3b7f-9bd5-76aa0c7025c7",
     "name": "!Farming1899",
-    "cause": "https://forum.griefergames.de/forum/thread/457121-achtung-farming1899-scammt/",
-    "entryCreatedAt": "2024-09-02T10:48:24.671269667",
-    "entryUpdatedAt": "2024-09-02T10:48:24.671271661",
+    "cause": "https://forum.griefergames.de/forum/thread/457146-farming1899-scammt-um-5mio/",
+    "entryCreatedAt": "2024-09-04T20:55:09.562118993",
+    "entryUpdatedAt": "2024-09-04T20:55:09.562120987",
     "expiryDays": 180
   },
   {
