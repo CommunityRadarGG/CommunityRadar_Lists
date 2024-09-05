@@ -760,6 +760,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "ac2ca074-560d-41d3-b0d2-1d5c8dc8091e",
+    "name": "Votation",
+    "cause": "https://forum.griefergames.de/forum/thread/457281-votation/",
+    "entryCreatedAt": "2024-09-05T12:21:53.13428196",
+    "entryUpdatedAt": "2024-09-05T12:21:53.134283854",
+    "expiryDays": 180
+  },
+  {
     "uuid": "55aec896-bbfe-4b96-8331-b2956bcf09dd",
     "name": "GommeHDLover",
     "cause": "https://discord.com/channels/1147881225692917780/1276846383969730643",
@@ -1080,6 +1088,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "9a5f8319-4171-4753-acff-2005e0585cfa",
+    "name": "auffallender",
+    "cause": "https://discord.com/channels/1147881225692917780/1280457390252359702",
+    "entryCreatedAt": "2024-09-05T12:22:30.197797727",
+    "entryUpdatedAt": "2024-09-05T12:22:30.1977995",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ee4b0841-d13f-479d-a463-29593590833d",
     "name": "Ericprofighter",
     "cause": "https://forum.griefergames.de/forum/thread/446071-2xtream4y-stamm-um-3-5-mio-c/?postID\u003d4176818#post4176818",
@@ -1213,6 +1229,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450093-griefer4ever-scammt-um-20k/",
     "entryCreatedAt": "2024-06-28T16:08:26.885623523",
     "entryUpdatedAt": "2024-06-28T16:08:26.885635505",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "6dd226ac-1f4c-4d08-95fe-062f18657be7",
+    "name": "Symetrisches4eck",
+    "cause": "https://forum.griefergames.de/forum/thread/457320-warnung-vor-symetrisches4eck/",
+    "entryCreatedAt": "2024-09-05T12:23:17.30964672",
+    "entryUpdatedAt": "2024-09-05T12:23:17.309648623",
     "expiryDays": 180
   },
   {
