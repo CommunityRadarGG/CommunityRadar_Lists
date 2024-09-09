@@ -1304,6 +1304,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "f5844c89-2aa3-416f-88a2-ef18a216a810",
+    "name": "SchiachaTeifl",
+    "cause": "https://forum.griefergames.de/forum/thread/457526-schiachateifl-scammt-um-22k-f%C3%BCr-kopf/",
+    "entryCreatedAt": "2024-09-09T13:50:13.206735806",
+    "entryUpdatedAt": "2024-09-09T13:50:13.206737659",
+    "expiryDays": 180
+  },
+  {
     "uuid": "40cedb27-6342-3821-8604-7cb30c5abd18",
     "name": "!Grantelbart8",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
@@ -1445,6 +1453,14 @@
     "cause": "https://ibb.co/b3FnjhK",
     "entryCreatedAt": "2024-08-08T22:09:46.691751351",
     "entryUpdatedAt": "2024-08-08T22:09:46.691762642",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ce64f1fb-a601-4fb0-93c1-c76e0fcd2ed1",
+    "name": "Tr3daptive",
+    "cause": "https://forum.griefergames.de/forum/thread/457519-tr3daptive-scammt-um-850k-mit-fake-money-auf-cb-evil/",
+    "entryCreatedAt": "2024-09-09T13:50:48.218835342",
+    "entryUpdatedAt": "2024-09-09T13:50:48.218836905",
     "expiryDays": 180
   },
   {
