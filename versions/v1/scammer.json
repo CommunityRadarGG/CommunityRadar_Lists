@@ -8,6 +8,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "330f46f1-6ced-4938-8751-8fa7c1b83964",
+    "name": "Paddy_05z",
+    "cause": "https://forum.griefergames.de/forum/thread/457728-achtung-vor-paddy-05z-er-scamt-beweise-unten/",
+    "entryCreatedAt": "2024-09-10T14:20:56.498581412",
+    "entryUpdatedAt": "2024-09-10T14:20:56.49859103",
+    "expiryDays": 180
+  },
+  {
     "uuid": "17024667-9a4c-47c5-9c2c-02215790e778",
     "name": "NadalAdler",
     "cause": "https://forum.griefergames.de/forum/thread/450448-nadaladler-benutzt-sein-twitch-stream-um-die-community-zu-scammen-f%C3%BCr-casino-zoc/",
@@ -1005,14 +1013,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/445229-marvin1993-versucht-mit-fake-money-zu-scammen/",
     "entryCreatedAt": "2024-05-25T01:40:28.803555737",
     "entryUpdatedAt": "2024-05-25T01:40:28.803575263",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "4ea831e1-517f-4984-adb9-1a8b175360f6",
-    "name": "JustinV230806",
-    "cause": "https://forum.griefergames.de/forum/thread/457374-justinv230806-scammt/",
-    "entryCreatedAt": "2024-09-06T13:11:15.178893768",
-    "entryUpdatedAt": "2024-09-06T13:11:15.178895272",
     "expiryDays": 180
   },
   {
