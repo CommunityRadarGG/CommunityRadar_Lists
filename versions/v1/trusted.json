@@ -480,14 +480,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "7b3e315a-68bd-444b-bbb6-12acf6baa868",
-    "name": "DerSauerlaender",
-    "cause": "Cloud",
-    "entryCreatedAt": "2024-05-27T00:03:29.243127645",
-    "entryUpdatedAt": "2024-05-27T00:03:29.243138206",
-    "expiryDays": -1
-  },
-  {
     "uuid": "ba754c74-3bfd-412f-ae01-61d03843dd9e",
     "name": "KOPAL1",
     "cause": "CB1",
