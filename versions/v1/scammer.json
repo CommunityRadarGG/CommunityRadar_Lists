@@ -304,6 +304,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a7341b75-cfe2-49c5-b9a8-3405566e1df0",
+    "name": "SheeshBroken",
+    "cause": "https://forum.griefergames.de/forum/thread/457897-geld-leih/",
+    "entryCreatedAt": "2024-09-14T09:46:51.569946538",
+    "entryUpdatedAt": "2024-09-14T09:46:51.569955025",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ebbbee82-b18f-4628-9404-042bdce56a0c",
     "name": "jaron189",
     "cause": "https://forum.griefergames.de/forum/thread/443805-1-mio-geliehen/?postID\u003d4152080#post4152080",
@@ -509,6 +517,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/457777-falozimon-gibt-seinen-scamm-zu-beleidigt-rufmordet-und-sagt-er-komme-mit-2-accou/",
     "entryCreatedAt": "2024-09-10T18:44:08.869392614",
     "entryUpdatedAt": "2024-09-10T18:44:08.869400629",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "9b9c3528-a5de-3e46-a866-01832a6e6832",
+    "name": "!CashToMen",
+    "cause": "https://forum.griefergames.de/forum/thread/457920-cashtomen/",
+    "entryCreatedAt": "2024-09-14T09:45:25.057924129",
+    "entryUpdatedAt": "2024-09-14T09:45:25.057988243",
     "expiryDays": 180
   },
   {
