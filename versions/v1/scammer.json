@@ -104,19 +104,19 @@
     "expiryDays": 180
   },
   {
-    "uuid": "226b2b90-934b-462a-b8e1-1dde297798c7",
-    "name": "Oussagaza",
-    "cause": "https://forum.griefergames.de/forum/thread/450791-pr3ctical-scammt-um-150k/",
-    "entryCreatedAt": "2024-07-07T07:58:25.98842987",
-    "entryUpdatedAt": "2024-07-18T17:33:49.806392481",
-    "expiryDays": 180
-  },
-  {
     "uuid": "8d0225e2-2f75-337e-a6a7-47364ba8e8c7",
     "name": "!Sus8909",
     "cause": "https://forum.griefergames.de/forum/thread/452732-warnung-vor-dem-spieler-sus8909/",
     "entryCreatedAt": "2024-07-18T00:20:11.573946916",
     "entryUpdatedAt": "2024-07-18T00:20:11.573954701",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "226b2b90-934b-462a-b8e1-1dde297798c7",
+    "name": "Oussagaza",
+    "cause": "https://forum.griefergames.de/forum/thread/450791-pr3ctical-scammt-um-150k/",
+    "entryCreatedAt": "2024-07-07T07:58:25.98842987",
+    "entryUpdatedAt": "2024-07-18T17:33:49.806392481",
     "expiryDays": 180
   },
   {
@@ -144,19 +144,19 @@
     "expiryDays": 180
   },
   {
-    "uuid": "d02e0e44-bcca-4a91-bacd-06660f2f7397",
-    "name": "reeaS",
-    "cause": "https://discord.com/channels/1147881225692917780/1256667923737612360/1256667923737612360",
-    "entryCreatedAt": "2024-07-05T12:58:56.929193277",
-    "entryUpdatedAt": "2024-07-05T12:58:56.929203556",
-    "expiryDays": 180
-  },
-  {
     "uuid": "c6c99a6a-26f1-4246-9485-7ff3a3787438",
     "name": "Sriracha1945",
     "cause": "https://forum.griefergames.de/forum/thread/453817-1bananenmilch-scammt-und-gibt-es-zu/",
     "entryCreatedAt": "2024-08-01T22:04:59.565027747",
     "entryUpdatedAt": "2024-08-20T23:16:48.159078334",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d02e0e44-bcca-4a91-bacd-06660f2f7397",
+    "name": "reeaS",
+    "cause": "https://discord.com/channels/1147881225692917780/1256667923737612360/1256667923737612360",
+    "entryCreatedAt": "2024-07-05T12:58:56.929193277",
+    "entryUpdatedAt": "2024-07-05T12:58:56.929203556",
     "expiryDays": 180
   },
   {
@@ -184,19 +184,19 @@
     "expiryDays": 180
   },
   {
-    "uuid": "62ec23f5-181e-47bc-9012-c96f5eb0815f",
-    "name": "apaini",
-    "cause": "https://forum.griefergames.de/forum/thread/444525-ich-wurde-um-3-mio-gescammt-von-ultra-eigesi/",
-    "entryCreatedAt": "2024-05-23T14:20:53.381556535",
-    "entryUpdatedAt": "2024-05-23T20:51:03.139839079",
-    "expiryDays": 180
-  },
-  {
     "uuid": "5d4b82f9-fd57-4adb-a290-3ad583653d37",
     "name": "Retrix_HD",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
     "entryCreatedAt": "2024-08-12T00:53:57.990598176",
     "entryUpdatedAt": "2024-08-12T00:53:57.990606973",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "62ec23f5-181e-47bc-9012-c96f5eb0815f",
+    "name": "apaini",
+    "cause": "https://forum.griefergames.de/forum/thread/444525-ich-wurde-um-3-mio-gescammt-von-ultra-eigesi/",
+    "entryCreatedAt": "2024-05-23T14:20:53.381556535",
+    "entryUpdatedAt": "2024-05-23T20:51:03.139839079",
     "expiryDays": 180
   },
   {
@@ -336,14 +336,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "ec900a37-e12c-4bda-9577-68c3ce202ba6",
-    "name": "bs071083",
-    "cause": "https://forum.griefergames.de/forum/thread/442932-ph-fallen-scammer/",
-    "entryCreatedAt": "2024-05-23T19:00:56.519511537",
-    "entryUpdatedAt": "2024-05-23T20:51:03.139828268",
-    "expiryDays": 180
-  },
-  {
     "uuid": "819b063c-ab44-3746-9221-44327d5bb88e",
     "name": "!Kaola301",
     "cause": "https://forum.griefergames.de/forum/thread/454883-koala301/",
@@ -352,11 +344,11 @@
     "expiryDays": 180
   },
   {
-    "uuid": "11536a5c-8aa2-4de2-8fdb-dc6f251bd889",
-    "name": "Muhi5400",
-    "cause": "https://forum.griefergames.de/forum/thread/448136-muhi5400-scammt-um-200k-xd/",
-    "entryCreatedAt": "2024-06-21T16:39:10.702056501",
-    "entryUpdatedAt": "2024-06-21T16:39:10.702065788",
+    "uuid": "ec900a37-e12c-4bda-9577-68c3ce202ba6",
+    "name": "bs071083",
+    "cause": "https://forum.griefergames.de/forum/thread/442932-ph-fallen-scammer/",
+    "entryCreatedAt": "2024-05-23T19:00:56.519511537",
+    "entryUpdatedAt": "2024-05-23T20:51:03.139828268",
     "expiryDays": 180
   },
   {
@@ -365,6 +357,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/456602-nicoghggoat-scammt-bei-gs-kauf/",
     "entryCreatedAt": "2024-08-27T17:12:07.85778776",
     "entryUpdatedAt": "2024-08-27T17:12:07.857789302",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "11536a5c-8aa2-4de2-8fdb-dc6f251bd889",
+    "name": "Muhi5400",
+    "cause": "https://forum.griefergames.de/forum/thread/448136-muhi5400-scammt-um-200k-xd/",
+    "entryCreatedAt": "2024-06-21T16:39:10.702056501",
+    "entryUpdatedAt": "2024-06-21T16:39:10.702065788",
     "expiryDays": 180
   },
   {
