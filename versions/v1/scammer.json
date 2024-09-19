@@ -88,6 +88,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "c9c6e172-37b4-4635-9857-c3eec08e0813",
+    "name": "RZXVB",
+    "cause": "https://forum.griefergames.de/forum/thread/458118-rzxvb-scammt-und-begeht-danach-rufmord-an-focaccia16/",
+    "entryCreatedAt": "2024-09-19T23:40:49.670849575",
+    "entryUpdatedAt": "2024-09-19T23:40:49.670852481",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a2057463-f707-4190-b3c2-05e10f7c5fbc",
     "name": "ByLyntex",
     "cause": "https://forum.griefergames.de/forum/thread/456850-auktionshaus-fake-supreme-r%C3%A4nge/",
@@ -306,9 +314,9 @@
   {
     "uuid": "a7341b75-cfe2-49c5-b9a8-3405566e1df0",
     "name": "SheeshBroken",
-    "cause": "https://forum.griefergames.de/forum/thread/457897-geld-leih/",
-    "entryCreatedAt": "2024-09-14T09:46:51.569946538",
-    "entryUpdatedAt": "2024-09-14T09:46:51.569955025",
+    "cause": "https://forum.griefergames.de/forum/thread/458191-sheeshbroken-scammt-um-7-5-mio/",
+    "entryCreatedAt": "2024-09-19T23:38:36.280627147",
+    "entryUpdatedAt": "2024-09-19T23:38:36.280631354",
     "expiryDays": 180
   },
   {
@@ -333,6 +341,14 @@
     "cause": "https://cdn.discordapp.com/attachments/1271164212131139654/1271164212621742232/image.png?ex\u003d66ba4bed\u0026is\u003d66b8fa6d\u0026hm\u003d729a4780d43ff673eda3c676da38ee6f74373750b132bffaa2cd76fd5849350a\u0026",
     "entryCreatedAt": "2024-08-12T00:11:37.947269901",
     "entryUpdatedAt": "2024-09-14T11:23:05.419468521",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "b7c0eeb2-4086-3029-8307-6fc69995e8e8",
+    "name": "!TannicOrc628441",
+    "cause": "https://forum.griefergames.de/forum/thread/458284-tannicorc628441/",
+    "entryCreatedAt": "2024-09-19T23:40:00.128288991",
+    "entryUpdatedAt": "2024-09-19T23:40:00.128292707",
     "expiryDays": 180
   },
   {
@@ -365,6 +381,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/448136-muhi5400-scammt-um-200k-xd/",
     "entryCreatedAt": "2024-06-21T16:39:10.702056501",
     "entryUpdatedAt": "2024-06-21T16:39:10.702065788",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "5b6eec6d-e6fc-4ada-bdd1-cef6aea048cd",
+    "name": "xOrzlyy",
+    "cause": "https://forum.griefergames.de/forum/thread/458000-xorzlyy-scammt-bei-800k-als-mm/",
+    "entryCreatedAt": "2024-09-19T23:37:31.042567751",
+    "entryUpdatedAt": "2024-09-19T23:37:31.042570457",
     "expiryDays": 180
   },
   {
