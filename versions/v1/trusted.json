@@ -211,8 +211,8 @@
     "uuid": "6272d78c-cadb-4477-a1c2-7842ab97f76e",
     "name": "ArmyPandaUSA",
     "cause": "CB22",
-    "entryCreatedAt": "2024-07-17T12:37:11.272923182",
-    "entryUpdatedAt": "2024-07-17T12:37:11.2729323",
+    "entryCreatedAt": "2024-09-20T19:52:11.47624049",
+    "entryUpdatedAt": "2024-09-20T19:52:11.476244108",
     "expiryDays": -1
   },
   {
@@ -301,6 +301,14 @@
     "cause": "Cloud",
     "entryCreatedAt": "2024-05-27T00:03:38.102080524",
     "entryUpdatedAt": "2024-05-27T00:03:38.102092807",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "e8378d4f-b415-4d8a-859c-548227d06612",
+    "name": "verbvllert_",
+    "cause": "All",
+    "entryCreatedAt": "2024-09-20T20:35:52.551824228",
+    "entryUpdatedAt": "2024-09-20T20:35:52.551827154",
     "expiryDays": -1
   },
   {
