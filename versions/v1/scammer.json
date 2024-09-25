@@ -554,9 +554,9 @@
   {
     "uuid": "9b9c3528-a5de-3e46-a866-01832a6e6832",
     "name": "!CashToMen",
-    "cause": "https://forum.griefergames.de/forum/thread/457920-cashtomen/",
-    "entryCreatedAt": "2024-09-14T09:45:25.057924129",
-    "entryUpdatedAt": "2024-09-14T09:45:25.057988243",
+    "cause": "https://forum.griefergames.de/forum/thread/458793-cashtomen-scammt-um-12-8-mio/",
+    "entryCreatedAt": "2024-09-25T17:37:05.880314218",
+    "entryUpdatedAt": "2024-09-25T17:37:05.880317684",
     "expiryDays": 180
   },
   {
@@ -992,6 +992,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8822c377-db46-3501-a1ab-5bf1bec7c884",
+    "name": "!Pelfox47",
+    "cause": "https://forum.griefergames.de/forum/thread/458665-pelfox47-grieft-mm-gs/",
+    "entryCreatedAt": "2024-09-25T17:36:34.984698432",
+    "entryUpdatedAt": "2024-09-25T17:36:34.984701889",
+    "expiryDays": 180
+  },
+  {
     "uuid": "193ac261-aeec-4081-843f-239fd129e8b3",
     "name": "xDrag4",
     "cause": "https://forum.griefergames.de/forum/thread/443767-fruzyx-scammt-um-2-3-millionen/",
@@ -1309,6 +1317,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/458512-scammer-p-h-falle/",
     "entryCreatedAt": "2024-09-23T23:47:17.978092636",
     "entryUpdatedAt": "2024-09-23T23:47:17.978096013",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "cba2885b-ca19-3cde-94bb-d58e6124d248",
+    "name": "!LinieBaer836750",
+    "cause": "https://forum.griefergames.de/forum/thread/458814-liniebaer836750-dc-faker-von-mir/",
+    "entryCreatedAt": "2024-09-25T17:37:29.213042823",
+    "entryUpdatedAt": "2024-09-25T17:37:29.213045949",
     "expiryDays": 180
   },
   {
