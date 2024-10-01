@@ -64,6 +64,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d6b43301-6b14-4f1b-8e7e-5993028142da",
+    "name": "Trubs4Life",
+    "cause": "https://discord.com/channels/1147881225692917780/1275147390403215441/1290661146981961840",
+    "entryCreatedAt": "2024-10-01T15:07:15.322804151",
+    "entryUpdatedAt": "2024-10-01T15:07:15.322812217",
+    "expiryDays": 180
+  },
+  {
     "uuid": "f000dc08-4d30-31bb-8d9d-38cd2e0fedd2",
     "name": "!CapitolBot",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
@@ -1746,9 +1754,9 @@
   {
     "uuid": "6c195bc3-a75d-4aa1-b65e-374506a5025a",
     "name": "LukeD1337",
-    "cause": "https://forum.griefergames.de/forum/thread/458588-luked1337-scamming/",
-    "entryCreatedAt": "2024-09-23T23:48:22.703433132",
-    "entryUpdatedAt": "2024-09-23T23:48:22.703436189",
+    "cause": "https://forum.griefergames.de/forum/thread/459650-luked1337-scammt-um-6m-im-casino/",
+    "entryCreatedAt": "2024-10-01T13:54:35.222991512",
+    "entryUpdatedAt": "2024-10-01T13:54:35.222998496",
     "expiryDays": 180
   },
   {
