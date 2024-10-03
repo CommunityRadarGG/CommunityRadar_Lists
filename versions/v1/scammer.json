@@ -1560,6 +1560,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d8830612-fd96-4276-9c3d-94660fbac503",
+    "name": "Angler2017",
+    "cause": "https://forum.griefergames.de/forum/thread/459589-versuchter-scamm-um-980k-von-angler2017/",
+    "entryCreatedAt": "2024-10-03T11:44:21.714318626",
+    "entryUpdatedAt": "2024-10-03T11:44:21.71432608",
+    "expiryDays": 180
+  },
+  {
     "uuid": "fd9ba1a8-5bc1-47b2-871c-974c105f31db",
     "name": "SummeCoolGuy",
     "cause": "https://forum.griefergames.de/forum/thread/451478-pvp-falle/",
@@ -1897,10 +1905,10 @@
   },
   {
     "uuid": "ca8a16da-e891-4201-b764-942fe54fb527",
-    "name": "TheGirlx_x",
+    "name": "wreepyyy",
     "cause": "https://forum.griefergames.de/forum/thread/454531-reaxyyy-scammt-in-blackjack-wenn-er-verliert/",
     "entryCreatedAt": "2024-08-05T13:40:45.211753278",
-    "entryUpdatedAt": "2024-08-29T19:17:11.287768188",
+    "entryUpdatedAt": "2024-10-03T12:28:16.01258986",
     "expiryDays": 180
   },
   {
