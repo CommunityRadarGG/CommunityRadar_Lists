@@ -600,6 +600,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "60278cd5-4829-4be7-b508-b49bcd6d3f57",
+    "name": "SimplyGoodxD",
+    "cause": "https://forum.griefergames.de/forum/thread/460218-simplygoodxd-scammt-mit-fake-items/",
+    "entryCreatedAt": "2024-10-06T15:24:39.875471625",
+    "entryUpdatedAt": "2024-10-06T15:24:39.875479872",
+    "expiryDays": 180
+  },
+  {
     "uuid": "175f41f0-136d-46a4-aeae-c7d0734aedc4",
     "name": "konstruktiv",
     "cause": "https://forum.griefergames.de/forum/thread/451363-kunstruktiv-scammt-mit-fake-money/",
@@ -713,10 +721,10 @@
   },
   {
     "uuid": "0d7147a2-ebc7-44d0-a948-ec98bc7020d0",
-    "name": "Mischaela",
+    "name": "IchFahreBMW",
     "cause": "https://forum.griefergames.de/forum/thread/450426-sven1993-scammt-um-130k-items/?postID\u003d4218121",
     "entryCreatedAt": "2024-07-05T13:02:05.246534488",
-    "entryUpdatedAt": "2024-08-30T19:17:24.29955242",
+    "entryUpdatedAt": "2024-10-06T16:32:17.443220926",
     "expiryDays": 180
   },
   {
