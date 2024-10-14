@@ -66,9 +66,9 @@
   {
     "uuid": "d6b43301-6b14-4f1b-8e7e-5993028142da",
     "name": "Trubs4Life",
-    "cause": "https://forum.griefergames.de/forum/thread/460853-ich-wurde-im-aktionshauasbetrogen/",
-    "entryCreatedAt": "2024-10-13T21:39:26.194883412",
-    "entryUpdatedAt": "2024-10-13T21:39:26.194925098",
+    "cause": "https://forum.griefergames.de/forum/thread/460993-scamming-mit-umbenannten-kisten/",
+    "entryCreatedAt": "2024-10-14T21:11:08.54499122",
+    "entryUpdatedAt": "2024-10-14T21:11:08.545054544",
     "expiryDays": 180
   },
   {
@@ -157,6 +157,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/452035-mxnu027-scam-bei-poseidon-casino/",
     "entryCreatedAt": "2024-07-15T13:52:05.60113571",
     "entryUpdatedAt": "2024-07-15T13:52:05.60114605",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "3ca5731e-730c-47d8-beb8-0aa6371f284f",
+    "name": "4DPommes",
+    "cause": "https://forum.griefergames.de/forum/thread/460911-4dpommes-verkauft-luckykisten-umbenannt/",
+    "entryCreatedAt": "2024-10-14T21:12:24.686773528",
+    "entryUpdatedAt": "2024-10-14T21:12:24.686788807",
     "expiryDays": 180
   },
   {
@@ -450,9 +458,9 @@
   {
     "uuid": "aee231cd-4872-3894-87fd-5c61a8b06095",
     "name": "!PlantedLime6074",
-    "cause": "https://cdn.discordapp.com/attachments/1291814385206956156/1292880472275161160/2024-10-07_18.02.51.png?ex\u003d67055845\u0026is\u003d670406c5\u0026hm\u003dd20f97a3bd5e2db9da1541b4c86b055e1efa1d9d53301ab70a63decb41deda48\u0026",
-    "entryCreatedAt": "2024-10-08T02:26:14.840548455",
-    "entryUpdatedAt": "2024-10-08T02:26:14.840566009",
+    "cause": "https://forum.griefergames.de/forum/thread/460993-scamming-mit-umbenannten-kisten/",
+    "entryCreatedAt": "2024-10-14T21:11:51.282738087",
+    "entryUpdatedAt": "2024-10-14T21:11:51.282746763",
     "expiryDays": 180
   },
   {
@@ -1521,10 +1529,10 @@
   },
   {
     "uuid": "69be9619-ea33-4705-a495-6f70cdadb552",
-    "name": "VeganIstCool",
+    "name": "AbgegrierftHD",
     "cause": "https://forum.griefergames.de/forum/thread/460246-scammen-im-ah-mit-falschem-sign/",
     "entryCreatedAt": "2024-10-06T20:14:15.401080502",
-    "entryUpdatedAt": "2024-10-06T20:14:15.401086013",
+    "entryUpdatedAt": "2024-10-14T22:57:12.135686844",
     "expiryDays": 180
   },
   {
@@ -1660,8 +1668,8 @@
     "name": "Statstoggle",
     "cause": "https://forum.griefergames.de/forum/thread/456585-statstoggle-scammt-um-2mio-lol/",
     "entryCreatedAt": "2024-08-27T17:05:19.51277005",
-    "entryUpdatedAt": "2024-08-27T17:05:19.512771853",
-    "expiryDays": 180
+    "entryUpdatedAt": "2024-10-14T21:15:01.042422351",
+    "expiryDays": 90
   },
   {
     "uuid": "2bac80c0-6622-3607-abb6-7c5d3f0b080f",
