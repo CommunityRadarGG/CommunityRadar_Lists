@@ -282,9 +282,9 @@
   {
     "uuid": "2e49bf50-dc10-4348-8e5c-1e31196c5f03",
     "name": "IchMacheEsNicht",
-    "cause": "https://forum.griefergames.de/forum/thread/444694-ichmacheesnicht-scammversuch-mit-fakemoney-27-5-mio/?postID\u003d4161594#post4161594:red_circle",
-    "entryCreatedAt": "2024-05-25T01:34:21.190874872",
-    "entryUpdatedAt": "2024-05-25T01:34:21.190906361",
+    "cause": "https://forum.griefergames.de/forum/thread/461113-ichmacheesnicht-auktionshaus-scammer/",
+    "entryCreatedAt": "2024-10-15T22:33:25.849912165",
+    "entryUpdatedAt": "2024-10-15T22:33:25.849923987",
     "expiryDays": 180
   },
   {
@@ -829,6 +829,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/456912-fake-money-wird-als-real-money-angezeigt-scamming-durch-toilettenrolle/",
     "entryCreatedAt": "2024-09-01T13:42:37.753860879",
     "entryUpdatedAt": "2024-09-01T13:42:37.753863845",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "3af537a7-458e-44a2-9602-218476c2efea",
+    "name": "SniperShooter_88",
+    "cause": "https://discord.com/channels/1147881225692917780/1295479123195723816",
+    "entryCreatedAt": "2024-10-15T22:32:32.516854269",
+    "entryUpdatedAt": "2024-10-15T22:32:32.516879141",
     "expiryDays": 180
   },
   {
