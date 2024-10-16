@@ -1,0 +1,55 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "RadarList_V2",
+    "description": "The version 2 of the RadarList JSON format.",
+    "type": "array",
+    "items": {
+        "$ref": "#/$defs/RadarListEntry"
+    },
+    "$defs": {
+        "RadarListEntry": {
+            "description": "Represents a entry of a RadarList.",
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "uuid": {
+                    "description": "The player uuid.",
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "name": {
+                    "description": "The player name.",
+                    "type": "string"
+                },
+                "note": {
+                    "description": "The note explaining why this entry exists.",
+                    "type": "string"
+                },
+                "createdAt": {
+                    "description": "The date and time the entry was created.",
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "updatedAt": {
+                    "description": "The date and time the entry was last updated. This will change if the duration or player name changes.",
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "duration": {
+                    "description": "The duration, how long the entry will remain in the list. Negative values indicate that the entry will not be removed automatically, normally '-1' is used.",
+                    "type": "integer",
+                    "minimum": -32768,
+                    "maximum": 32767
+                }
+            },
+            "required": [
+                "createdAt",
+                "duration",
+                "name",
+                "note",
+                "updatedAt",
+                "uuid"
+            ]
+        }
+    }
+}
