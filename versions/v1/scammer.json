@@ -248,6 +248,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "22c7e8ff-a57a-3647-abf9-b280e8b00baf",
+    "name": "!OddClient5945",
+    "cause": "https://discord.community-radar.de/",
+    "entryCreatedAt": "2024-10-17T17:35:23.803131788",
+    "entryUpdatedAt": "2024-10-17T17:35:23.803148679",
+    "expiryDays": 180
+  },
+  {
     "uuid": "25c8d316-66b5-47c3-8d97-c4d070dfc074",
     "name": "justdoit2020",
     "cause": "https://forum.griefergames.de/forum/thread/450938-justdoit2020-scammt-um-175k/",
