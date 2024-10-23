@@ -176,6 +176,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "12dd4197-99bd-4758-8e16-733cf3f24a6e",
+    "name": "Francesco0503",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T14:56:36.799093706",
+    "entryUpdatedAt": "2024-10-23T14:56:36.799117274",
+    "expiryDays": 180
+  },
+  {
     "uuid": "13ce5114-ffae-3004-bba0-37571f0aadb7",
     "name": "!FlaredBog848003",
     "cause": "https://forum.griefergames.de/forum/thread/454921-flaredbog848003-scammt-in-degg-um-10k-xd/",
@@ -488,11 +496,19 @@
     "expiryDays": 180
   },
   {
+    "uuid": "3a5309af-6510-4445-916a-660aaeb0e76e",
+    "name": "PsychoDad2511",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T14:59:18.023747083",
+    "entryUpdatedAt": "2024-10-23T14:59:18.023783135",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3af537a7-458e-44a2-9602-218476c2efea",
     "name": "SniperShooter_88",
-    "cause": "https://discord.com/channels/1147881225692917780/1295479123195723816",
-    "entryCreatedAt": "2024-10-15T22:32:32.516854269",
-    "entryUpdatedAt": "2024-10-15T22:32:32.516879141",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T15:03:23.489057414",
+    "entryUpdatedAt": "2024-10-23T15:03:23.489072075",
     "expiryDays": 180
   },
   {
@@ -645,6 +661,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/453796-scamm-um-zauberwald-invite/",
     "entryCreatedAt": "2024-08-01T22:04:21.609169379",
     "entryUpdatedAt": "2024-08-01T22:04:21.609177023",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "501937b8-cc27-4a3f-8c56-3fd11cf4d0fc",
+    "name": "Simycoke",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T15:02:11.240844596",
+    "entryUpdatedAt": "2024-10-23T15:02:11.240903705",
     "expiryDays": 180
   },
   {
@@ -1275,8 +1299,8 @@
     "uuid": "9338a630-c9dd-472f-a8f9-ffa83d5ee32a",
     "name": "RENEISTBACK",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-10-18T12:26:08.09712168",
-    "entryUpdatedAt": "2024-10-18T12:26:08.097149416",
+    "entryCreatedAt": "2024-10-23T15:01:04.224635897",
+    "entryUpdatedAt": "2024-10-23T15:01:04.224661839",
     "expiryDays": 180
   },
   {
@@ -1592,6 +1616,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "b80904fe-bd97-4212-816d-9dd2428e5d8f",
+    "name": "Mister_Bitcoin",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T14:57:57.541332859",
+    "entryUpdatedAt": "2024-10-23T14:57:57.541352528",
+    "expiryDays": 180
+  },
+  {
     "uuid": "b8491a9d-48dd-487b-a82e-508d77a8ac25",
     "name": "talismanphilipp",
     "cause": "https://forum.griefergames.de/forum/thread/442393-openolat-scammt-um-kleinbetr%C3%A4ge/",
@@ -1898,9 +1930,17 @@
   {
     "uuid": "d6b43301-6b14-4f1b-8e7e-5993028142da",
     "name": "Trubs4Life",
-    "cause": "https://forum.griefergames.de/forum/thread/460993-scamming-mit-umbenannten-kisten/",
-    "entryCreatedAt": "2024-10-14T21:11:08.54499122",
-    "entryUpdatedAt": "2024-10-14T21:11:08.545054544",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T14:53:52.297276399",
+    "entryUpdatedAt": "2024-10-23T14:53:52.297335871",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d729f6ef-717c-341b-8188-a032afa8f2e9",
+    "name": "!GrinningSoap33",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-23T15:05:21.640101478",
+    "entryUpdatedAt": "2024-10-23T15:05:21.640119455",
     "expiryDays": 180
   },
   {
