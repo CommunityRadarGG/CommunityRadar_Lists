@@ -280,14 +280,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "64bcd3fc-6e1a-4531-9ccc-487213d600b3",
-    "name": "Hard2Def",
-    "cause": "CB7",
-    "entryCreatedAt": "2024-05-26T11:34:42.472514095",
-    "entryUpdatedAt": "2024-05-26T11:34:42.472525588",
-    "expiryDays": -1
-  },
-  {
     "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
     "name": "signesagnes",
     "cause": "CB1",
@@ -336,14 +328,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "7a31d051-8955-4bac-8009-aeee2d0bee34",
-    "name": "Siggi2404",
-    "cause": "CB21",
-    "entryCreatedAt": "2024-05-27T00:01:53.555085708",
-    "entryUpdatedAt": "2024-05-27T00:01:53.555098772",
-    "expiryDays": -1
-  },
-  {
     "uuid": "7b097e9c-6269-4f4e-8cad-910bfa64a675",
     "name": "DrInk3653",
     "cause": "CB1",
@@ -373,6 +357,14 @@
     "cause": "CB1",
     "entryCreatedAt": "2024-05-26T11:23:18.156661251",
     "entryUpdatedAt": "2024-05-26T11:23:18.156672282",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "835c408c-8af5-4b3d-bc8c-9d5b3cc5ab64",
+    "name": "Speedlovesme",
+    "cause": "CB21",
+    "entryCreatedAt": "2024-10-24T13:01:21.118088231",
+    "entryUpdatedAt": "2024-10-24T13:01:21.118094456",
     "expiryDays": -1
   },
   {
