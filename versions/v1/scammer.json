@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "01208815-c5e3-4679-aa57-b04129ac4747",
+    "name": "BadElf23",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-27T18:54:44.695913261",
+    "entryUpdatedAt": "2024-10-27T18:54:44.695966352",
+    "expiryDays": 180
+  },
+  {
     "uuid": "01a8b96b-9b0f-449f-8d6b-1f81ab85c5ab",
     "name": "alkqhol",
     "cause": "https://forum.griefergames.de/forum/thread/452977-alkqhol-fake-supreme-items/",
@@ -402,9 +410,9 @@
   {
     "uuid": "2e49bf50-dc10-4348-8e5c-1e31196c5f03",
     "name": "IchMacheEsNicht",
-    "cause": "https://ibb.co/nPL6TN3",
-    "entryCreatedAt": "2024-10-17T14:01:55.350323618",
-    "entryUpdatedAt": "2024-10-17T14:01:55.350354717",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-27T18:56:49.866681141",
+    "entryUpdatedAt": "2024-10-27T18:56:49.866696985",
     "expiryDays": 180
   },
   {
@@ -522,9 +530,9 @@
   {
     "uuid": "3ca5731e-730c-47d8-beb8-0aa6371f284f",
     "name": "4DPommes",
-    "cause": "https://forum.griefergames.de/forum/thread/460946-4dpommes-scammt-mit-auktionshaus-692k-weg/",
-    "entryCreatedAt": "2024-10-18T12:27:06.377327404",
-    "entryUpdatedAt": "2024-10-18T12:27:06.377339505",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-27T18:41:07.967284621",
+    "entryUpdatedAt": "2024-10-27T18:41:07.96730946",
     "expiryDays": 180
   },
   {
@@ -749,6 +757,14 @@
     "cause": "https://discord.com/channels/1147881225692917780/1276846383969730643",
     "entryCreatedAt": "2024-08-25T11:31:30.414032081",
     "entryUpdatedAt": "2024-08-25T11:31:30.414036489",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "55cb91b5-7b2b-4ef6-ae5a-149ef80baa91",
+    "name": "Maytrixx_",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-27T18:55:40.414727526",
+    "entryUpdatedAt": "2024-10-27T18:55:40.414764486",
     "expiryDays": 180
   },
   {
@@ -1170,9 +1186,9 @@
   {
     "uuid": "8963a9d3-f1be-4707-ac6b-3dfad9a4fa5a",
     "name": "nyrion18",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-10-18T12:24:39.985478312",
-    "entryUpdatedAt": "2024-10-18T12:24:39.985488826",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-10-27T19:06:56.543357096",
+    "entryUpdatedAt": "2024-10-27T19:06:56.543361892",
     "expiryDays": 180
   },
   {
@@ -1299,8 +1315,8 @@
     "uuid": "9338a630-c9dd-472f-a8f9-ffa83d5ee32a",
     "name": "RENEISTBACK",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-10-23T15:01:04.224635897",
-    "entryUpdatedAt": "2024-10-23T15:01:04.224661839",
+    "entryCreatedAt": "2024-10-27T18:53:40.45758836",
+    "entryUpdatedAt": "2024-10-27T18:53:40.457612897",
     "expiryDays": 180
   },
   {
@@ -1456,6 +1472,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a77c1f36-c8e9-4d18-9dd8-d00938fd04d5",
+    "name": "JINJIN02",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-10-27T19:00:21.494360942",
+    "entryUpdatedAt": "2024-10-27T19:00:21.49440869",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a7e436ba-d496-48cc-9c1e-2b5d5b5691e3",
     "name": "Schmuse_Susi",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
@@ -1569,10 +1593,10 @@
   },
   {
     "uuid": "afb946d5-4409-4465-a06e-8a9b70cca3c9",
-    "name": "Mr_PikaX",
+    "name": "Lennoxxxx",
     "cause": "https://forum.griefergames.de/forum/thread/454453-lennoxxxx-scammt-mit-fake-items-im-ah/",
     "entryCreatedAt": "2024-08-05T23:40:21.199785018",
-    "entryUpdatedAt": "2024-09-27T22:51:15.373502579",
+    "entryUpdatedAt": "2024-10-27T20:32:18.893061947",
     "expiryDays": 180
   },
   {
@@ -1669,6 +1693,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/441428-nekazuki21-versuchter-scamm-mit-fake-money/",
     "entryCreatedAt": "2024-05-23T19:00:25.775690293",
     "entryUpdatedAt": "2024-09-14T19:23:10.99495768",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "bd9e3266-1e92-3975-88ca-b30d34c8dee3",
+    "name": "!Tabea1996",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-10-27T18:33:04.783475511",
+    "entryUpdatedAt": "2024-10-27T18:33:04.783484776",
     "expiryDays": 180
   },
   {
@@ -2149,6 +2181,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/457526-schiachateifl-scammt-um-22k-f%C3%BCr-kopf/",
     "entryCreatedAt": "2024-09-09T13:50:13.206735806",
     "entryUpdatedAt": "2024-09-09T13:50:13.206737659",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f5c4912d-9e07-41ee-b047-4624250a3f69",
+    "name": "PartyHatGAMEZ",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-10-27T19:03:40.797951566",
+    "entryUpdatedAt": "2024-10-27T19:03:40.797994178",
     "expiryDays": 180
   },
   {
