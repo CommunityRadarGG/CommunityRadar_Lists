@@ -424,6 +424,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "300042b5-bb26-3efc-8018-bf6bc69a5f4e",
+    "name": "!Kengurn",
+    "cause": "https://forum.griefergames.de/forum/thread/462400-kengurn-gibt-nach-auch-nach-expliziter-nachfrage-zu-das-er-scammt/",
+    "entryCreatedAt": "2024-10-28T20:04:12.813684199",
+    "entryUpdatedAt": "2024-10-28T20:04:12.813710104",
+    "expiryDays": 180
+  },
+  {
     "uuid": "315d5362-a456-4283-99f2-bb30063543a2",
     "name": "K2121",
     "cause": "https://forum.griefergames.de/forum/thread/453359-du-el/",
@@ -1077,6 +1085,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/445329-flaphi-hamudinougat-scammer/",
     "entryCreatedAt": "2024-05-25T01:35:00.132348055",
     "entryUpdatedAt": "2024-05-25T01:35:00.132395084",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "75e183c9-96f5-43a1-8845-1df43b4f49c3",
+    "name": "Sn0keMyW33Dx",
+    "cause": "https://forum.griefergames.de/forum/thread/462467-sn0kemyw33dx-scammt-um-75k/",
+    "entryCreatedAt": "2024-10-28T20:06:27.795063631",
+    "entryUpdatedAt": "2024-10-28T20:06:27.79509436",
     "expiryDays": 180
   },
   {
@@ -1970,9 +1986,9 @@
   {
     "uuid": "d6b43301-6b14-4f1b-8e7e-5993028142da",
     "name": "Trubs4Life",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-10-27T17:31:24.205179377",
-    "entryUpdatedAt": "2024-10-27T17:31:24.205188677",
+    "cause": "https://forum.griefergames.de/forum/thread/462603-trubs4life-ah-scammer/",
+    "entryCreatedAt": "2024-10-28T20:09:20.47928904",
+    "entryUpdatedAt": "2024-10-28T20:09:20.479303549",
     "expiryDays": 180
   },
   {
