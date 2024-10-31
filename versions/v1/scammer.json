@@ -416,6 +416,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2e809eab-3e83-4632-9743-d061c119b59f",
+    "name": "Yxlukas_",
+    "cause": "https://forum.griefergames.de/forum/thread/462735-yxlukas-scamm-um-10m-maxi1204-startkick-startjail-abuse-mein-chatverhalten-laby/",
+    "entryCreatedAt": "2024-10-31T11:43:58.462714497",
+    "entryUpdatedAt": "2024-10-31T11:43:58.462718994",
+    "expiryDays": 180
+  },
+  {
     "uuid": "2fc5cd08-a4da-4e49-a51c-f6e4d90069b3",
     "name": "BergbauMeister",
     "cause": "https://forum.griefergames.de/forum/thread/457144-bergbaumeister-scammt-um-21m/",
@@ -797,6 +805,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/451640-bedachte-scammt-mit-bettentrick/",
     "entryCreatedAt": "2024-07-09T09:44:53.703344488",
     "entryUpdatedAt": "2024-07-09T09:44:53.703356351",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "58c46942-ca56-4c46-b40f-3a99d169c561",
+    "name": "wayonna",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-10-31T11:47:13.356932061",
+    "entryUpdatedAt": "2024-10-31T11:47:13.357003588",
     "expiryDays": 180
   },
   {
