@@ -1136,6 +1136,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "7dcbc49d-3136-48a8-a2fc-4851eda95d86",
+    "name": "Erdnoss",
+    "cause": "https://forum.griefergames.de/forum/thread/462906-erdnoss-scammt/",
+    "entryCreatedAt": "2024-11-01T20:53:33.091043116",
+    "entryUpdatedAt": "2024-11-01T20:53:33.091073916",
+    "expiryDays": 180
+  },
+  {
     "uuid": "819b063c-ab44-3746-9221-44327d5bb88e",
     "name": "!Kaola301",
     "cause": "https://forum.griefergames.de/forum/thread/454883-koala301/",
