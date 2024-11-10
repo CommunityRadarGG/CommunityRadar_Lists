@@ -88,6 +88,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0881ba23-0f1d-41e5-8cff-ef1ce7543971",
+    "name": "Carlos_Rocha",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-11-10T22:42:54.56020759",
+    "entryUpdatedAt": "2024-11-10T22:42:54.560216922",
+    "expiryDays": 180
+  },
+  {
     "uuid": "09dcf1a3-ac32-46cd-acd2-93c82eef68ca",
     "name": "Verxey",
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
@@ -1256,6 +1264,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8a7bded3-e11a-3f21-9f91-fd7f48282c1a",
+    "name": "!T3dlex",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-11-10T22:16:24.164874016",
+    "entryUpdatedAt": "2024-11-10T22:16:24.164936505",
+    "expiryDays": 180
+  },
+  {
     "uuid": "8a869f39-c69f-4a3b-ad15-435c2f99bcbb",
     "name": "signasagnes",
     "cause": "https://forum.griefergames.de/forum/thread/443513-bullitkln-scammt-fakemoney-um-1-5mio-versuch-gescheitert/",
@@ -2050,9 +2066,9 @@
   {
     "uuid": "d6b43301-6b14-4f1b-8e7e-5993028142da",
     "name": "Trubs4Life",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-11-05T10:22:43.152350592",
-    "entryUpdatedAt": "2024-11-05T10:22:43.15238436",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-11-10T22:37:37.072230507",
+    "entryUpdatedAt": "2024-11-10T22:37:37.072244146",
     "expiryDays": 180
   },
   {
@@ -2101,6 +2117,14 @@
     "cause": "https://ibb.co/Jzk5fWW",
     "entryCreatedAt": "2024-08-12T00:20:54.012380274",
     "entryUpdatedAt": "2024-08-12T00:20:54.012389883",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "debb4e57-c084-4f13-8d60-b7fd9560ae06",
+    "name": "EisteeMango69",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-11-10T22:27:48.818333697",
+    "entryUpdatedAt": "2024-11-10T22:27:48.818355287",
     "expiryDays": 180
   },
   {
@@ -2267,8 +2291,8 @@
     "uuid": "f5c4912d-9e07-41ee-b047-4624250a3f69",
     "name": "PartyHatGAMEZ",
     "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2024-10-27T19:03:40.797951566",
-    "entryUpdatedAt": "2024-10-27T19:03:40.797994178",
+    "entryCreatedAt": "2024-11-10T22:22:18.365064534",
+    "entryUpdatedAt": "2024-11-10T22:22:18.365107005",
     "expiryDays": 180
   },
   {
