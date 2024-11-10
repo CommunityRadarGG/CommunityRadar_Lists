@@ -99,8 +99,8 @@
     "uuid": "0a228c23-9672-3692-aac7-fd9dc94d3254",
     "name": "!BlurryFoil7930",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-11-05T10:21:30.192018416",
-    "entryUpdatedAt": "2024-11-05T10:21:30.192022456",
+    "entryCreatedAt": "2024-11-10T11:19:28.3222666",
+    "entryUpdatedAt": "2024-11-10T11:19:28.322273748",
     "expiryDays": 180
   },
   {
@@ -333,6 +333,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/441853-frischer-scamm-d/",
     "entryCreatedAt": "2024-05-25T13:24:54.200769546",
     "entryUpdatedAt": "2024-09-21T15:46:10.966519535",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "2821a07e-6619-4938-b108-4d1300b9c497",
+    "name": "dcue",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-11-10T11:16:10.370666556",
+    "entryUpdatedAt": "2024-11-10T11:16:10.370698813",
     "expiryDays": 180
   },
   {
@@ -1042,9 +1050,9 @@
   {
     "uuid": "6cf7e35a-bd35-370b-89c4-4861057aaa43",
     "name": "!AbgeholtHD",
-    "cause": "https://forum.griefergames.de/forum/thread/463491-abgeholthd-scammt-um-200k-bei-degg-game/",
-    "entryCreatedAt": "2024-11-08T04:35:50.457134073",
-    "entryUpdatedAt": "2024-11-08T04:35:50.45718816",
+    "cause": "https://forum.griefergames.de/forum/thread/463680-scam-abgeholthd-um-55k/",
+    "entryCreatedAt": "2024-11-10T11:22:37.020431724",
+    "entryUpdatedAt": "2024-11-10T11:22:37.02044705",
     "expiryDays": 180
   },
   {
@@ -1664,14 +1672,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "b02f52cb-5d61-4c8f-b7aa-dd1aef45f653",
-    "name": "JxstFabiii",
-    "cause": "https://forum.griefergames.de/forum/thread/455563-auktionshaus-scammer/",
-    "entryCreatedAt": "2024-08-16T22:25:11.965363308",
-    "entryUpdatedAt": "2024-08-16T22:25:11.965372035",
-    "expiryDays": 180
-  },
-  {
     "uuid": "b36edc4c-b405-3f5c-9847-85e774d20a0f",
     "name": "!IcyLordSnow5",
     "cause": "https://forum.griefergames.de/forum/thread/458448-icylordsnow5-scammt-mit-fake-items-im-ah/",
@@ -1997,6 +1997,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/441380-edelsteinerbe-40-mio-scam/",
     "entryCreatedAt": "2024-05-23T19:00:42.244895535",
     "entryUpdatedAt": "2024-05-23T20:51:03.139905395",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d15f4c22-6d2e-4599-a8de-1801ce8fba0b",
+    "name": "4964",
+    "cause": "https://forum.griefergames.de/forum/thread/463659-scamming-vom-spieler-4964/",
+    "entryCreatedAt": "2024-11-10T11:22:02.38730683",
+    "entryUpdatedAt": "2024-11-10T11:22:02.387326443",
     "expiryDays": 180
   },
   {
