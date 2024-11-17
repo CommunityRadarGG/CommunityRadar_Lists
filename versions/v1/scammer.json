@@ -2312,6 +2312,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "f1a30216-f2b9-432e-8252-bd36a62287b7",
+    "name": "breylight",
+    "cause": "https://forum.griefergames.de/forum/thread/464117-breylight-scammt/",
+    "entryCreatedAt": "2024-11-17T14:23:18.751655523",
+    "entryUpdatedAt": "2024-11-17T14:23:18.751686074",
+    "expiryDays": 180
+  },
+  {
     "uuid": "f40355a0-ee94-4a09-9042-25877c3efbc2",
     "name": "Coolingdisc3060",
     "cause": "https://forum.griefergames.de/forum/thread/456956-coolingdisc3060/",
