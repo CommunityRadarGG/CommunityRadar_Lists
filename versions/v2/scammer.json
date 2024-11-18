@@ -880,6 +880,14 @@
     "duration": 180
   },
   {
+    "uuid": "5a055f63-9200-48a4-bcd6-76802ad12217",
+    "name": "Tamate453",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2024-11-18T02:12:21.411299562",
+    "updatedAt": "2024-11-18T02:12:21.411304531",
+    "duration": 180
+  },
+  {
     "uuid": "5b19ca63-619a-4d93-81d9-298d982ff5c3",
     "name": "loll_Bot",
     "note": "https://discord.community-radar.de/",
@@ -1610,9 +1618,9 @@
   {
     "uuid": "a77c1f36-c8e9-4d18-9dd8-d00938fd04d5",
     "name": "JINJIN02",
-    "note": "https://beweise.community-radar.de",
-    "createdAt": "2024-10-27T19:00:21.494360942",
-    "updatedAt": "2024-10-27T19:00:21.49440869",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2024-11-18T02:13:01.435527204",
+    "updatedAt": "2024-11-18T02:13:01.435534942",
     "duration": 180
   },
   {
@@ -1645,6 +1653,14 @@
     "note": "https://forum.griefergames.de/forum/thread/447874-tchannis-scammt-um-15-5k/",
     "createdAt": "2024-06-21T16:36:39.004669934",
     "updatedAt": "2024-08-22T19:16:56.111762657",
+    "duration": 180
+  },
+  {
+    "uuid": "a9ea510b-8dd8-4bc0-9748-b1a77d0fb9b2",
+    "name": "1Fredson",
+    "note": "https://forum.griefergames.de/forum/thread/464281-itzfredson-scammer-aufpassen/",
+    "createdAt": "2024-11-18T02:09:59.870006125",
+    "updatedAt": "2024-11-18T02:09:59.870023348",
     "duration": 180
   },
   {
@@ -2096,11 +2112,27 @@
     "duration": 180
   },
   {
+    "uuid": "d34333c0-2451-46fd-bfb7-9d2cc4d7b2a7",
+    "name": "leniiya",
+    "note": "https://forum.griefergames.de/forum/thread/464236-nxah28-aka-leniiya-scammt/",
+    "createdAt": "2024-11-18T02:11:38.3218481",
+    "updatedAt": "2024-11-18T02:11:38.32185491",
+    "duration": 180
+  },
+  {
     "uuid": "d47b1136-5ece-4afd-bf70-896120c05707",
     "name": "Fortnitepro2023",
     "note": "https://forum.griefergames.de/forum/thread/451874-fortnitepro2023/",
     "createdAt": "2024-07-12T19:39:48.64890139",
     "updatedAt": "2024-07-12T19:39:48.648911569",
+    "duration": 180
+  },
+  {
+    "uuid": "d4c9142b-d2d4-4d4b-b0b6-f1830f703ddf",
+    "name": "cheeqyy",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2024-11-18T02:13:31.907404671",
+    "updatedAt": "2024-11-18T02:13:31.907410368",
     "duration": 180
   },
   {
