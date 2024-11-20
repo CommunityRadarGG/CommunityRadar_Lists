@@ -272,14 +272,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "637b55c9-66ca-4500-8251-c7f551ba43d7",
-    "name": "AwesomeSan",
-    "cause": "Cloud",
-    "entryCreatedAt": "2024-05-27T00:03:40.414745417",
-    "entryUpdatedAt": "2024-05-27T00:03:40.414756819",
-    "expiryDays": -1
-  },
-  {
     "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
     "name": "signesagnes",
     "cause": "CB1",
