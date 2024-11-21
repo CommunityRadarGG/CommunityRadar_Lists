@@ -280,14 +280,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "27f0d4b5-3cb2-4624-80b3-94af92978dc1",
-    "name": "Kepppy",
-    "cause": "https://forum.griefergames.de/forum/thread/441853-frischer-scamm-d/",
-    "entryCreatedAt": "2024-05-25T13:24:54.200769546",
-    "entryUpdatedAt": "2024-11-16T01:21:30.960404557",
-    "expiryDays": 180
-  },
-  {
     "uuid": "2821a07e-6619-4938-b108-4d1300b9c497",
     "name": "dcue",
     "cause": "https://beweise.community-radar.de/",
