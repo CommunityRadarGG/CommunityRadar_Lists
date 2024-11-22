@@ -1920,6 +1920,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "ea80f967-0672-4e7c-ad96-8d6f86e04575",
+    "name": "Todesengel_1989",
+    "cause": "https://forum.griefergames.de/forum/thread/464784-fake-item-im-ah/",
+    "entryCreatedAt": "2024-11-22T00:30:35.891700328",
+    "entryUpdatedAt": "2024-11-22T00:30:35.891748005",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ec7c7f6b-7027-43be-8fb3-ffff652e3439",
     "name": "TorahCrafter",
     "cause": "https://discord.com/channels/1147881225692917780/1269584786410700874",
