@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "01e57c1f-79bc-4eed-915d-019b59dedd2c",
+    "name": "Maverick92",
+    "note": "CB6",
+    "createdAt": "2024-11-26T20:24:29.049219277",
+    "updatedAt": "2024-11-26T20:24:29.04922293",
+    "duration": 180
+  },
+  {
     "uuid": "02b20f45-724b-481e-9b7c-705430606fc4",
     "name": "DC1805",
     "note": "CB1",
@@ -14,6 +22,22 @@
     "createdAt": "2024-08-26T21:06:53.004727395",
     "updatedAt": "2024-08-26T21:06:53.004729649",
     "duration": -1
+  },
+  {
+    "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
+    "name": "HBInfinity",
+    "note": "CB10",
+    "createdAt": "2024-11-26T20:25:20.62275712",
+    "updatedAt": "2024-11-26T20:25:20.622768774",
+    "duration": 180
+  },
+  {
+    "uuid": "0abe8a54-a0e2-44db-97c0-3c4d296f5ab9",
+    "name": "STD_qVolt",
+    "note": "CB22",
+    "createdAt": "2024-11-26T20:24:06.023140767",
+    "updatedAt": "2024-11-26T20:24:06.023147236",
+    "duration": 180
   },
   {
     "uuid": "0c9dd86e-7257-4654-b5ac-dc60d50fee2f",
@@ -38,6 +62,14 @@
     "createdAt": "2024-05-26T11:21:31.485784319",
     "updatedAt": "2024-05-26T11:21:31.485795681",
     "duration": -1
+  },
+  {
+    "uuid": "0f04e498-4e1b-4fda-a5b2-476c86190fb6",
+    "name": "Schmorbiii",
+    "note": "CB1",
+    "createdAt": "2024-11-26T20:23:30.296233128",
+    "updatedAt": "2024-11-26T20:23:30.296236549",
+    "duration": 180
   },
   {
     "uuid": "10824e2d-767b-4693-b526-f766d4015d16",
@@ -80,6 +112,14 @@
     "duration": -1
   },
   {
+    "uuid": "218103d9-b278-4aff-8a9f-2e9ab1efd6aa",
+    "name": "GGN_Yoghurtdrink",
+    "note": "CB10",
+    "createdAt": "2024-11-26T20:25:46.246350059",
+    "updatedAt": "2024-11-26T20:25:46.246352228",
+    "duration": 180
+  },
+  {
     "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
     "name": "MR_Mettigel",
     "note": "CB9",
@@ -110,6 +150,14 @@
     "createdAt": "2024-05-27T00:00:38.472235322",
     "updatedAt": "2024-05-27T00:00:38.472244429",
     "duration": -1
+  },
+  {
+    "uuid": "2a654716-bf0a-4fbe-a029-8aacda543c95",
+    "name": "CxdricZ",
+    "note": "CB22",
+    "createdAt": "2024-11-26T20:21:33.194457229",
+    "updatedAt": "2024-11-26T20:21:33.194589",
+    "duration": 180
   },
   {
     "uuid": "315389f9-dec8-4fea-bc01-38f532d41a61",
@@ -184,6 +232,14 @@
     "duration": -1
   },
   {
+    "uuid": "4383c131-bdf9-4470-8f55-eb758832e073",
+    "name": "rockisstillalive",
+    "note": "CB16",
+    "createdAt": "2024-11-26T20:24:52.752452388",
+    "updatedAt": "2024-11-26T20:24:52.752456052",
+    "duration": 180
+  },
+  {
     "uuid": "45bbfee0-4eca-4534-89c7-5f992bdffef4",
     "name": "sL4p90",
     "note": "CBE",
@@ -198,6 +254,14 @@
     "createdAt": "2024-05-27T00:01:34.887110706",
     "updatedAt": "2024-05-27T00:01:34.887118711",
     "duration": -1
+  },
+  {
+    "uuid": "4d0b3e50-e413-4155-a259-53051444fec8",
+    "name": "TheKills",
+    "note": "CB22",
+    "createdAt": "2024-11-26T20:22:22.070240282",
+    "updatedAt": "2024-11-26T20:22:22.070242378",
+    "duration": 180
   },
   {
     "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
@@ -270,6 +334,14 @@
     "createdAt": "2024-09-20T19:52:11.47624049",
     "updatedAt": "2024-09-20T19:52:11.476244108",
     "duration": -1
+  },
+  {
+    "uuid": "679fbe55-e716-4db9-81a5-b27d18d9fd67",
+    "name": "SuperFlummi",
+    "note": "CB1",
+    "createdAt": "2024-11-26T20:23:08.280388628",
+    "updatedAt": "2024-11-26T20:23:08.280391693",
+    "duration": 180
   },
   {
     "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
@@ -430,6 +502,14 @@
     "createdAt": "2024-05-27T00:03:26.972953701",
     "updatedAt": "2024-05-27T00:03:26.972962657",
     "duration": -1
+  },
+  {
+    "uuid": "ae01c6b4-e5c7-4b8f-8798-8927118ca289",
+    "name": "ImnotFishii",
+    "note": "CB5",
+    "createdAt": "2024-11-26T20:21:59.559508639",
+    "updatedAt": "2024-11-26T20:21:59.559511419",
+    "duration": 180
   },
   {
     "uuid": "aebab3e4-c084-40e1-9d99-14311477dc8c",
