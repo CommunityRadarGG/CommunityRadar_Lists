@@ -368,6 +368,14 @@
     "duration": -1
   },
   {
+    "uuid": "730ce59b-a548-4d3e-9b91-96be30a30ad3",
+    "name": "AliAhmedAllah",
+    "note": "CB1",
+    "createdAt": "2024-11-26T20:56:18.19093549",
+    "updatedAt": "2024-11-26T20:56:18.190937616",
+    "duration": 180
+  },
+  {
     "uuid": "77e044d5-34fc-4623-be0b-fa3195050f91",
     "name": "MagierFlamme",
     "note": "CB12",
