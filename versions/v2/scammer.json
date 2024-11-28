@@ -152,6 +152,14 @@
     "duration": 180
   },
   {
+    "uuid": "117a5ccf-1a8e-4e72-8d5a-1139f7040b34",
+    "name": "iHariboo",
+    "note": "https://forum.griefergames.de/forum/thread/465238-ihariboo-scammt-um-20m-100-shopguthaben/",
+    "createdAt": "2024-11-28T16:37:49.240530574",
+    "updatedAt": "2024-11-28T16:37:49.240550125",
+    "duration": 180
+  },
+  {
     "uuid": "11f5dea0-bf1f-4761-907e-77517c8e4cde",
     "name": "Rothschield",
     "note": "https://forum.griefergames.de/forum/thread/455491-rothschield-legesu-scamming-im-auktionshaus/",
@@ -1521,10 +1529,10 @@
   },
   {
     "uuid": "b479bf08-2878-486c-a2ec-d864137dea6d",
-    "name": "ka3f",
+    "name": "LeanOverMoney",
     "note": "https://forum.griefergames.de/forum/thread/455494-ka3f-scammt-um-1-2-millionen-gg/",
     "createdAt": "2024-08-17T17:03:35.903590373",
-    "updatedAt": "2024-08-17T17:03:35.903601435",
+    "updatedAt": "2024-11-28T18:14:16.205415488",
     "duration": 180
   },
   {
@@ -1581,6 +1589,14 @@
     "note": "https://forum.griefergames.de/forum/thread/456681-lm-duo-p-scammt-um-1-8-mio/",
     "createdAt": "2024-08-28T22:09:47.52349673",
     "updatedAt": "2024-08-28T22:09:47.523498985",
+    "duration": 180
+  },
+  {
+    "uuid": "bbce2f12-1d8a-49db-a71c-06d4968b66ed",
+    "name": "SirDingulis",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2024-11-28T16:39:01.700607675",
+    "updatedAt": "2024-11-28T16:39:01.700610804",
     "duration": 180
   },
   {
