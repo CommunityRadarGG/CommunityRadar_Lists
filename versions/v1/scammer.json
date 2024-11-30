@@ -872,6 +872,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "659b3d1e-acd8-3400-baba-f0488ad71360",
+    "name": "!GrieferMaik",
+    "cause": "https://forum.griefergames.de/forum/thread/465330-betrug-von-griefermaik/",
+    "entryCreatedAt": "2024-11-30T10:04:27.105245334",
+    "entryUpdatedAt": "2024-11-30T10:04:27.105257076",
+    "expiryDays": 180
+  },
+  {
     "uuid": "65d7d270-87e4-4502-b0f9-c09b8cba26e4",
     "name": "Apachi16",
     "cause": "https://forum.griefergames.de/forum/thread/447410-apachi16-scammt/",
