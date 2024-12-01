@@ -584,6 +584,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "4ceadcf2-a0fa-44c8-aebe-259972e866c4",
+    "name": "Predict_Games1",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-01T17:37:41.925010017",
+    "entryUpdatedAt": "2024-12-01T17:37:41.925031061",
+    "expiryDays": 180
+  },
+  {
     "uuid": "4d5c2a74-b14d-3623-b678-f6e79a7d059e",
     "name": "!AltAlpaca850325",
     "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
@@ -857,10 +865,10 @@
   },
   {
     "uuid": "643e0fa8-fe27-4a37-ab8f-2650346a696f",
-    "name": "tesqn",
+    "name": "Poseidon_Casinoo",
     "cause": "https://forum.griefergames.de/forum/thread/453866-tesqn-scammt-um-2-4m/",
     "entryCreatedAt": "2024-08-01T22:03:48.388531888",
-    "entryUpdatedAt": "2024-08-01T22:03:48.388541727",
+    "entryUpdatedAt": "2024-12-01T18:33:45.601955816",
     "expiryDays": 180
   },
   {
@@ -1093,6 +1101,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454883-koala301/",
     "entryCreatedAt": "2024-08-12T00:13:15.08288815",
     "entryUpdatedAt": "2024-08-12T00:13:15.082923447",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "8291ee10-ef97-4987-a397-50c74f656195",
+    "name": "Syndr0n",
+    "cause": "https://forum.griefergames.de/forum/thread/465558-syndr0n-scammt-im-ah/",
+    "entryCreatedAt": "2024-12-01T17:35:50.759833748",
+    "entryUpdatedAt": "2024-12-01T17:35:50.759854375",
     "expiryDays": 180
   },
   {
@@ -1810,9 +1826,9 @@
   {
     "uuid": "ccbdb69b-6edd-4ce9-8898-cb2c75508396",
     "name": "myweeed",
-    "cause": "https://forum.griefergames.de/forum/thread/465304-myweeed-scammt-um-2mio-bdt-spawner/",
-    "entryCreatedAt": "2024-11-29T22:25:09.462203892",
-    "entryUpdatedAt": "2024-11-29T22:25:09.462232955",
+    "cause": "https://forum.griefergames.de/forum/thread/465555-myweeed-versuchter-scamm/",
+    "entryCreatedAt": "2024-12-01T17:35:25.616524506",
+    "entryUpdatedAt": "2024-12-01T17:35:25.616530299",
     "expiryDays": 180
   },
   {
