@@ -584,14 +584,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "4ceadcf2-a0fa-44c8-aebe-259972e866c4",
-    "name": "Predict_Games1",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-12-01T17:37:41.925010017",
-    "entryUpdatedAt": "2024-12-01T17:37:41.925031061",
-    "expiryDays": 180
-  },
-  {
     "uuid": "4d5c2a74-b14d-3623-b678-f6e79a7d059e",
     "name": "!AltAlpaca850325",
     "cause": "https://forum.griefergames.de/forum/thread/456854-auktionshaus-fake-payall-rechte/",
