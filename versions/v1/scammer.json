@@ -248,6 +248,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2221cf88-ffcb-42af-87ac-7f07c7d83a12",
+    "name": "Zeyroxmetal",
+    "cause": "https://forum.griefergames.de/forum/thread/466099-zeyroxmetal-scammt-um-110k-32-beacons/?postID\u003d4391262#post4391262",
+    "entryCreatedAt": "2024-12-08T19:54:51.268941493",
+    "entryUpdatedAt": "2024-12-08T19:54:51.268955557",
+    "expiryDays": 180
+  },
+  {
     "uuid": "226b2b90-934b-462a-b8e1-1dde297798c7",
     "name": "Oussagaza",
     "cause": "https://forum.griefergames.de/forum/thread/450791-pr3ctical-scammt-um-150k/",
@@ -269,6 +277,14 @@
     "cause": "https://discord.community-radar.de/",
     "entryCreatedAt": "2024-10-17T17:35:23.803131788",
     "entryUpdatedAt": "2024-10-17T17:35:23.803148679",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "233b0e09-f721-4139-9797-0fd97c988179",
+    "name": "By_Moglii",
+    "cause": "https://forum.griefergames.de/forum/thread/466145-by-moglii-scammt/",
+    "entryCreatedAt": "2024-12-08T19:55:11.982094878",
+    "entryUpdatedAt": "2024-12-08T19:55:11.982099193",
     "expiryDays": 180
   },
   {
@@ -418,9 +434,9 @@
   {
     "uuid": "3268161a-020e-4593-9f06-d5cff6be45eb",
     "name": "EPT_TheGodEmil",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-11-11T12:57:10.00739351",
-    "entryUpdatedAt": "2024-11-11T12:57:10.007400768",
+    "cause": "https://forum.griefergames.de/forum/thread/466125-ept-thegodemil-zahlt-seine-schulden-nicht/",
+    "entryCreatedAt": "2024-12-08T19:52:59.716422766",
+    "entryUpdatedAt": "2024-12-08T19:52:59.716427862",
     "expiryDays": 180
   },
   {
@@ -634,9 +650,9 @@
   {
     "uuid": "525de760-0291-47f9-99cd-a84e7ebbcf14",
     "name": "Citybuildlucky",
-    "cause": "https://forum.griefergames.de/forum/thread/465945-citybuildlucky-aka-fruehlingsprefix-scammt-weiterhin-im-ah/",
-    "entryCreatedAt": "2024-12-06T19:14:39.615901937",
-    "entryUpdatedAt": "2024-12-06T19:14:39.615907129",
+    "cause": "https://forum.griefergames.de/forum/thread/466078-citybuildlucky-scammt-wieder-mit-fake-items/",
+    "entryCreatedAt": "2024-12-08T19:53:22.628345724",
+    "entryUpdatedAt": "2024-12-08T19:53:22.62835137",
     "expiryDays": 180
   },
   {
@@ -885,14 +901,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
     "entryCreatedAt": "2024-08-03T23:02:43.431804589",
     "entryUpdatedAt": "2024-08-03T23:02:43.431808396",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "64d4c317-a227-4822-a38f-8cfb3e679801",
-    "name": "noFearX",
-    "cause": "https://forum.griefergames.de/forum/thread/456708-achtung-der-spieler-nofearx-ist-ein-scammer-wurde-um-750k-gescammt-er-hat-einen/",
-    "entryCreatedAt": "2024-08-28T22:12:46.072178333",
-    "entryUpdatedAt": "2024-08-28T22:12:46.072180116",
     "expiryDays": 180
   },
   {
@@ -1821,6 +1829,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/458118-rzxvb-scammt-und-begeht-danach-rufmord-an-focaccia16/",
     "entryCreatedAt": "2024-09-19T23:40:49.670849575",
     "entryUpdatedAt": "2024-09-19T23:40:49.670852481",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ca250b66-b708-4984-9f84-ccbef26cb914",
+    "name": "AlwaysCan",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-08T19:57:42.445039642",
+    "entryUpdatedAt": "2024-12-08T19:57:42.445045305",
     "expiryDays": 180
   },
   {
