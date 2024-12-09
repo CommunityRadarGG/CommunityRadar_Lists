@@ -650,9 +650,9 @@
   {
     "uuid": "525de760-0291-47f9-99cd-a84e7ebbcf14",
     "name": "Citybuildlucky",
-    "cause": "https://forum.griefergames.de/forum/thread/466078-citybuildlucky-scammt-wieder-mit-fake-items/",
-    "entryCreatedAt": "2024-12-08T19:53:22.628345724",
-    "entryUpdatedAt": "2024-12-08T19:53:22.62835137",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-09T13:20:40.302355556",
+    "entryUpdatedAt": "2024-12-09T13:20:40.302379241",
     "expiryDays": 180
   },
   {
@@ -821,6 +821,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/450812-scamming-rufmord-von-silvermoonlp-nagelschere-florintim-t-saurusrex/",
     "entryCreatedAt": "2024-07-08T19:11:13.086120283",
     "entryUpdatedAt": "2024-09-13T01:22:56.698215756",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "5f197d6e-69e9-3b03-8693-2838e04add20",
+    "name": "!Mieas2585",
+    "cause": "https://forum.griefergames.de/forum/thread/466208-spieler-scammt-bei-bj-runde/",
+    "entryCreatedAt": "2024-12-09T13:21:07.753090869",
+    "entryUpdatedAt": "2024-12-09T13:21:07.753110851",
     "expiryDays": 180
   },
   {
