@@ -248,6 +248,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "217984da-782a-4219-8823-91476e2dd097",
+    "name": "LoroPiana",
+    "cause": "https://forum.griefergames.de/forum/thread/466302-loropiana-scammt-um-235k/",
+    "entryCreatedAt": "2024-12-10T10:42:56.5623379",
+    "entryUpdatedAt": "2024-12-10T10:42:56.562346276",
+    "expiryDays": 180
+  },
+  {
     "uuid": "2221cf88-ffcb-42af-87ac-7f07c7d83a12",
     "name": "Zeyroxmetal",
     "cause": "https://forum.griefergames.de/forum/thread/466099-zeyroxmetal-scammt-um-110k-32-beacons/?postID\u003d4391262#post4391262",
@@ -2141,6 +2149,14 @@
     "cause": "https://beweise.community-radar.de",
     "entryCreatedAt": "2024-11-30T20:01:39.537852466",
     "entryUpdatedAt": "2024-11-30T20:01:39.537925231",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ec324501-1ff5-4d0a-af96-57050aee5d10",
+    "name": "DieMikrowelle",
+    "cause": "https://forum.griefergames.de/forum/thread/466331-200m-scam-von-diemikrowelle/",
+    "entryCreatedAt": "2024-12-10T10:41:33.700260858",
+    "entryUpdatedAt": "2024-12-10T10:41:33.700284476",
     "expiryDays": 180
   },
   {
