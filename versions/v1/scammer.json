@@ -1112,6 +1112,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "7b40cee9-04ba-41e2-a270-9c4085715df4",
+    "name": "AngelFloh2710",
+    "cause": "https://forum.griefergames.de/forum/thread/466411-ich-wurde-um-mein-gs-21-5-mio-gescammt/",
+    "entryCreatedAt": "2024-12-11T13:55:44.006941861",
+    "entryUpdatedAt": "2024-12-11T13:55:44.006946869",
+    "expiryDays": 180
+  },
+  {
     "uuid": "7c83f7b5-e999-4b62-b880-8f611c1fbfc5",
     "name": "Glegggmiree",
     "cause": "https://beweise.community-radar.de/",
@@ -2125,6 +2133,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/458650-bonze-booster-fake-items/",
     "entryCreatedAt": "2024-09-23T23:51:29.36276895",
     "entryUpdatedAt": "2024-10-02T22:05:13.59241926",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "e78ace47-0342-4b7b-a4ba-59e73fd10277",
+    "name": "1Extrem",
+    "cause": "https://forum.griefergames.de/forum/thread/466410-ah-scam/",
+    "entryCreatedAt": "2024-12-11T13:55:22.54308411",
+    "entryUpdatedAt": "2024-12-11T13:55:22.543129037",
     "expiryDays": 180
   },
   {
