@@ -2168,6 +2168,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "eacc4681-e793-458f-bfce-de355a2d2e1e",
+    "name": "freankybanky",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-12-11T22:57:40.288056781",
+    "entryUpdatedAt": "2024-12-11T22:57:40.288066432",
+    "expiryDays": 180
+  },
+  {
     "uuid": "ec324501-1ff5-4d0a-af96-57050aee5d10",
     "name": "DieMikrowelle",
     "cause": "https://forum.griefergames.de/forum/thread/466331-200m-scam-von-diemikrowelle/",
