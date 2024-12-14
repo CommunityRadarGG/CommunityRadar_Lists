@@ -625,10 +625,10 @@
   },
   {
     "uuid": "4f65db82-418f-41ce-9916-d587e411a509",
-    "name": "Yu_TONNE",
+    "name": "Yu_Dino",
     "cause": "https://forum.griefergames.de/forum/thread/453796-scamm-um-zauberwald-invite/",
     "entryCreatedAt": "2024-08-01T22:04:21.609169379",
-    "entryUpdatedAt": "2024-11-13T17:35:32.018954496",
+    "entryUpdatedAt": "2024-12-14T22:14:40.729602318",
     "expiryDays": 180
   },
   {
@@ -917,14 +917,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/466323-cvno03-scammt-um-nen-spawner/",
     "entryCreatedAt": "2024-12-09T16:55:30.588115948",
     "entryUpdatedAt": "2024-12-12T04:08:22.136384506",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "659b3d1e-acd8-3400-baba-f0488ad71360",
-    "name": "!GrieferMaik",
-    "cause": "https://forum.griefergames.de/forum/thread/465330-betrug-von-griefermaik/",
-    "entryCreatedAt": "2024-11-30T10:04:27.105245334",
-    "entryUpdatedAt": "2024-11-30T10:04:27.105257076",
     "expiryDays": 180
   },
   {
