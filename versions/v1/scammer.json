@@ -651,8 +651,8 @@
     "uuid": "525de760-0291-47f9-99cd-a84e7ebbcf14",
     "name": "SnowCasino_CB1",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2024-12-09T13:20:40.302355556",
-    "entryUpdatedAt": "2024-12-14T11:55:10.855461376",
+    "entryCreatedAt": "2024-12-24T19:51:02.913822138",
+    "entryUpdatedAt": "2024-12-24T19:51:02.913823163",
     "expiryDays": 180
   },
   {
@@ -746,9 +746,9 @@
   {
     "uuid": "5a055f63-9200-48a4-bcd6-76802ad12217",
     "name": "Tamate453",
-    "cause": "https://forum.griefergames.de/forum/thread/464635-auktionshaus-scamm-item/",
-    "entryCreatedAt": "2024-11-20T06:43:48.998890357",
-    "entryUpdatedAt": "2024-11-20T06:43:48.998897698",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-24T19:51:33.38201563",
+    "entryUpdatedAt": "2024-12-24T19:51:33.38201755",
     "expiryDays": 180
   },
   {
@@ -1138,9 +1138,9 @@
   {
     "uuid": "812223cf-dbb6-41b6-97f2-c74131f8497f",
     "name": "MikeLKW1978",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2024-12-04T17:55:47.728410869",
-    "entryUpdatedAt": "2024-12-04T17:55:47.728415969",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-24T20:35:02.324748865",
+    "entryUpdatedAt": "2024-12-24T20:35:02.324749817",
     "expiryDays": 180
   },
   {
@@ -2005,6 +2005,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/452090-energyente-scammt-um-1mio-bei-degg-geht-offline/",
     "entryCreatedAt": "2024-07-15T14:26:42.349171015",
     "entryUpdatedAt": "2024-07-15T14:26:42.349183679",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "da76e08e-31b3-49e1-83ab-07c972e9126b",
+    "name": "Truutmats",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2024-12-24T20:35:30.686003144",
+    "entryUpdatedAt": "2024-12-24T21:32:08.249393628",
     "expiryDays": 180
   },
   {
