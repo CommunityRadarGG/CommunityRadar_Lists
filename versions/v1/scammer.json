@@ -1088,6 +1088,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "75ccc6d6-1fd0-4b01-a5c3-bf24e6200e08",
+    "name": "WildEmu379",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-12-28T14:20:07.650919221",
+    "entryUpdatedAt": "2024-12-28T14:20:07.650920741",
+    "expiryDays": 180
+  },
+  {
     "uuid": "75e183c9-96f5-43a1-8845-1df43b4f49c3",
     "name": "Sn0keMyW33Dx",
     "cause": "https://forum.griefergames.de/forum/thread/462467-sn0kemyw33dx-scammt-um-75k/",
@@ -1293,6 +1301,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
     "entryCreatedAt": "2024-08-12T13:07:17.137732391",
     "entryUpdatedAt": "2024-08-12T13:07:17.137741549",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "8dfad20f-6493-4813-a890-faca8d09edec",
+    "name": "blackspoon",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2024-12-28T14:17:29.637002647",
+    "entryUpdatedAt": "2024-12-28T14:17:29.637003786",
     "expiryDays": 180
   },
   {
