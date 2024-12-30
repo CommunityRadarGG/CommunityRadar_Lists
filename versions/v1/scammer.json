@@ -400,6 +400,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2f335e68-1172-40b2-a041-6ff37913520f",
+    "name": "Malishu",
+    "cause": "https://forum.griefergames.de/forum/thread/468174-fake-1-home-item/?postID\u003d4413649#post4413649",
+    "entryCreatedAt": "2024-12-30T04:50:40.092741606",
+    "entryUpdatedAt": "2024-12-30T04:50:40.092757489",
+    "expiryDays": 180
+  },
+  {
     "uuid": "2fc5cd08-a4da-4e49-a51c-f6e4d90069b3",
     "name": "BergbauMeister",
     "cause": "https://forum.griefergames.de/forum/thread/457144-bergbaumeister-scammt-um-21m/",
@@ -1082,9 +1090,9 @@
   {
     "uuid": "75ccc6d6-1fd0-4b01-a5c3-bf24e6200e08",
     "name": "WildEmu379",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2024-12-28T14:20:07.650919221",
-    "entryUpdatedAt": "2024-12-28T14:20:07.650920741",
+    "cause": "https://forum.griefergames.de/forum/thread/468106-mehrfaches-scammen-im-ah/",
+    "entryCreatedAt": "2024-12-30T04:53:24.756706482",
+    "entryUpdatedAt": "2024-12-30T04:53:24.756726739",
     "expiryDays": 180
   },
   {
@@ -1528,6 +1536,22 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a530766d-e677-4d7f-b289-45381c02e667",
+    "name": "SauIGodmann",
+    "cause": "https://forum.griefergames.de/forum/thread/467807-gescammt-um-10k/",
+    "entryCreatedAt": "2024-12-30T04:53:59.516620748",
+    "entryUpdatedAt": "2024-12-30T04:53:59.516625312",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a6568482-7245-4b7f-ba3d-54847f3d9c7f",
+    "name": "einfachsweet",
+    "cause": "https://forum.griefergames.de/forum/thread/467963-ronniemcdog-scammt-um-20k-und-kopf/",
+    "entryCreatedAt": "2024-12-30T04:55:11.109070856",
+    "entryUpdatedAt": "2024-12-30T04:55:11.109096633",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a72938a7-24e1-499c-8822-1b495006a1b0",
     "name": "IchKnabbaNak",
     "cause": "https://forum.griefergames.de/forum/thread/456221-ichknabbanak-unsichtbar-in-bluepearl-slot/",
@@ -1880,6 +1904,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "cc457d85-e398-47c9-abd6-9c709b5dfdbe",
+    "name": "_Empi",
+    "cause": "https://forum.griefergames.de/forum/thread/467943-empi-stellt-fake-items-ins-ah/",
+    "entryCreatedAt": "2024-12-30T04:54:34.288361036",
+    "entryUpdatedAt": "2024-12-30T04:54:34.288371741",
+    "expiryDays": 180
+  },
+  {
     "uuid": "cc61ac4f-62c4-4c9f-bdd9-d21d8efbfacb",
     "name": "Elite_dawuds",
     "cause": "https://forum.griefergames.de/forum/thread/452855-elite-dawuds-scammt-mit-tpa-falle/",
@@ -2125,6 +2157,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/",
     "entryCreatedAt": "2024-08-05T13:51:25.345440789",
     "entryUpdatedAt": "2024-08-05T13:51:25.345444035",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ea47c8ce-a4a1-4602-afc9-7903ddf1f802",
+    "name": "LMFN2020",
+    "cause": "https://forum.griefergames.de/forum/thread/467971-lmfn2020-scammt-um-5mio-schulden/",
+    "entryCreatedAt": "2024-12-30T04:52:47.34650429",
+    "entryUpdatedAt": "2024-12-30T04:52:47.34651098",
     "expiryDays": 180
   },
   {
