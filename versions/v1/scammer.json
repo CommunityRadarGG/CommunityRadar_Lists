@@ -512,6 +512,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "3d869ba0-1f41-4e43-a76a-1bd188fa0917",
+    "name": "1Utek",
+    "cause": "https://forum.griefergames.de/forum/thread/468383-ah-scamm-von-1utek-auch-bekannt-als-julia-2000/",
+    "entryCreatedAt": "2025-01-01T22:44:04.656634034",
+    "entryUpdatedAt": "2025-01-01T22:44:04.656694738",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3dd60cf9-5c49-4b5d-a82c-44a6436125f5",
     "name": "Doppel1Er",
     "cause": "https://forum.griefergames.de/forum/thread/454068-doppel1er-scammt-mit-beacons/",
