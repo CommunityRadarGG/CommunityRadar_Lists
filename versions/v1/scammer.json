@@ -448,6 +448,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "34bc4ba7-68f0-39a7-8a68-69c2af798f9f",
+    "name": "!PeakSquash47328",
+    "cause": "https://forum.griefergames.de/forum/thread/468620-peaksquash47328/",
+    "entryCreatedAt": "2025-01-03T00:42:39.109782747",
+    "entryUpdatedAt": "2025-01-03T00:42:39.109827915",
+    "expiryDays": 180
+  },
+  {
     "uuid": "350d0245-7a8f-316d-bb55-167c329e2e76",
     "name": "!MimicLamp1993",
     "cause": "https://beweise.community-radar.de/",
