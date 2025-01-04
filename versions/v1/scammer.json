@@ -1464,6 +1464,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "a0036380-bc9d-4f71-bf97-7ba886fd0b48",
+    "name": "HamudiAbuTanga",
+    "cause": "https://forum.griefergames.de/forum/thread/468761-hamudiabutanga-scammt-um-10mio/",
+    "entryCreatedAt": "2025-01-04T10:01:00.526121772",
+    "entryUpdatedAt": "2025-01-04T10:01:00.526126709",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a10a50de-bb04-41c5-b039-ccfd4d2b2972",
     "name": "RedgTheEdge",
     "cause": "https://beweise.community-radar.de/",
@@ -1762,9 +1770,9 @@
   {
     "uuid": "c0b57e6d-ea92-4568-9f6e-beaf13cd84e4",
     "name": "Nakogo",
-    "cause": "https://forum.griefergames.de/forum/thread/468755-nakogo-versucht-um-1-spawner-390k-zu-scammen/",
-    "entryCreatedAt": "2025-01-04T00:33:31.794963235",
-    "entryUpdatedAt": "2025-01-04T00:33:31.795019681",
+    "cause": "https://forum.griefergames.de/forum/thread/468740-nakogo-scammt/",
+    "entryCreatedAt": "2025-01-04T09:59:21.738964884",
+    "entryUpdatedAt": "2025-01-04T09:59:21.738975557",
     "expiryDays": 180
   },
   {
