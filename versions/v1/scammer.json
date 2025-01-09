@@ -482,9 +482,9 @@
   {
     "uuid": "3d869ba0-1f41-4e43-a76a-1bd188fa0917",
     "name": "1Utek",
-    "cause": "https://forum.griefergames.de/forum/thread/468383-ah-scamm-von-1utek-auch-bekannt-als-julia-2000/",
-    "entryCreatedAt": "2025-01-01T22:44:04.656634034",
-    "entryUpdatedAt": "2025-01-01T22:44:04.656694738",
+    "cause": "https://forum.griefergames.de/forum/thread/469204-scamm-um-knapp-1-050-mio-auktionshaus/",
+    "entryCreatedAt": "2025-01-09T21:43:15.920480325",
+    "entryUpdatedAt": "2025-01-09T21:43:15.920559714",
     "expiryDays": 180
   },
   {
@@ -1653,6 +1653,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-11-28T16:39:01.700607675",
     "entryUpdatedAt": "2024-11-29T02:28:11.088019892",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "bbfc2522-b7bf-4b80-98ef-30d687fa3164",
+    "name": "Kigashy",
+    "cause": "https://forum.griefergames.de/forum/thread/469139-kigashy-scammt-um-7-millionen-blackjack-runde/",
+    "entryCreatedAt": "2025-01-09T21:40:56.535013551",
+    "entryUpdatedAt": "2025-01-09T21:40:56.535041562",
     "expiryDays": 180
   },
   {
