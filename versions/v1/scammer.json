@@ -1280,14 +1280,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "91164f51-73b9-4272-8287-1a64e5c0996c",
-    "name": "RAZER349",
-    "cause": "https://forum.griefergames.de/forum/thread/452091-razer349-scammt-ganzes-inv-wert-1mio-und-killt-mich/",
-    "entryCreatedAt": "2024-07-15T14:27:38.202227908",
-    "entryUpdatedAt": "2024-07-15T14:27:38.202238739",
-    "expiryDays": 180
-  },
-  {
     "uuid": "916db8dc-87aa-46a5-85d0-eb7304230f88",
     "name": "Leakbad",
     "cause": "https://discord.com/channels/1147881225692917780/1269723622411341846",
@@ -1649,10 +1641,10 @@
   },
   {
     "uuid": "bbce2f12-1d8a-49db-a71c-06d4968b66ed",
-    "name": "JasonBasen",
+    "name": "CoinflipB0t",
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-11-28T16:39:01.700607675",
-    "entryUpdatedAt": "2024-11-29T02:28:11.088019892",
+    "entryUpdatedAt": "2025-01-11T14:35:06.240998131",
     "expiryDays": 180
   },
   {
@@ -1976,27 +1968,11 @@
     "expiryDays": 180
   },
   {
-    "uuid": "d9120a8f-fa46-44f7-8152-d23d207ffd6f",
-    "name": "EnergyEnte",
-    "cause": "https://forum.griefergames.de/forum/thread/452090-energyente-scammt-um-1mio-bei-degg-geht-offline/",
-    "entryCreatedAt": "2024-07-15T14:26:42.349171015",
-    "entryUpdatedAt": "2024-07-15T14:26:42.349183679",
-    "expiryDays": 180
-  },
-  {
     "uuid": "da76e08e-31b3-49e1-83ab-07c972e9126b",
     "name": "Truutmats",
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-12-24T20:35:30.686003144",
     "entryUpdatedAt": "2024-12-24T21:32:08.249393628",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "db53d648-f360-4290-a9a5-cd6bb738553c",
-    "name": "shrkyx",
-    "cause": "https://forum.griefergames.de/forum/thread/452035-mxnu027-scam-bei-poseidon-casino/",
-    "entryCreatedAt": "2024-07-15T13:52:05.60113571",
-    "entryUpdatedAt": "2024-07-15T13:52:05.60114605",
     "expiryDays": 180
   },
   {
