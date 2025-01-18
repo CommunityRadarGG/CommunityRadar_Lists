@@ -464,6 +464,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "3ced5505-9e4c-4f65-b00b-47f33f111342",
+    "name": "1TachTach",
+    "cause": "https://forum.griefergames.de/forum/thread/469627-1tachtach-scammt-bei-auktionshaus/",
+    "entryCreatedAt": "2025-01-18T12:30:47.729985353",
+    "entryUpdatedAt": "2025-01-18T12:30:47.729987497",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3d869ba0-1f41-4e43-a76a-1bd188fa0917",
     "name": "1Utek",
     "cause": "https://forum.griefergames.de/forum/thread/469204-scamm-um-knapp-1-050-mio-auktionshaus/",
@@ -829,6 +837,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/466597-scamming-um-30-spawner-und-10-stack-beacons/",
     "entryCreatedAt": "2024-12-13T22:33:18.339866145",
     "entryUpdatedAt": "2024-12-29T15:58:12.100250381",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "6955a93f-8b50-48ec-885f-f1b8a953fd45",
+    "name": "Allmania",
+    "cause": "https://forum.griefergames.de/forum/thread/469562-allmania-scammt-um-bonze-auf-cb22/",
+    "entryCreatedAt": "2025-01-18T12:29:50.515409809",
+    "entryUpdatedAt": "2025-01-18T12:29:50.515412455",
     "expiryDays": 180
   },
   {
