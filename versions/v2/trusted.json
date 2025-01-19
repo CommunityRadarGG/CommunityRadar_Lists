@@ -264,14 +264,6 @@
     "duration": -1
   },
   {
-    "uuid": "554b9046-4674-4b06-8e7d-7d3bbcba5573",
-    "name": "Officier_Iron",
-    "note": "CB21",
-    "createdAt": "2024-05-27T00:01:50.776635863",
-    "updatedAt": "2024-05-27T00:01:50.776647025",
-    "duration": -1
-  },
-  {
     "uuid": "55577096-ce56-4879-8220-ec636d94c74d",
     "name": "Funtastisch",
     "note": "CBE",
@@ -549,14 +541,6 @@
     "note": "CB3",
     "createdAt": "2024-05-26T11:29:43.270902646",
     "updatedAt": "2024-05-26T11:29:43.270912885",
-    "duration": -1
-  },
-  {
-    "uuid": "ba754c74-3bfd-412f-ae01-61d03843dd9e",
-    "name": "KOPAL1",
-    "note": "CB1",
-    "createdAt": "2024-05-26T11:20:26.825196117",
-    "updatedAt": "2024-05-26T11:20:26.825207198",
     "duration": -1
   },
   {
