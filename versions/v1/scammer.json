@@ -1314,9 +1314,9 @@
   {
     "uuid": "9beef76a-d3cf-4798-9d8a-5d10264f21d1",
     "name": "eruaaaa",
-    "cause": "https://forum.griefergames.de/forum/thread/455278-eruaaaa/",
-    "entryCreatedAt": "2024-08-12T21:24:19.309658013",
-    "entryUpdatedAt": "2024-08-12T21:24:19.309667782",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-01-20T18:33:20.532796203",
+    "entryUpdatedAt": "2025-01-20T18:33:20.532797455",
     "expiryDays": 180
   },
   {
@@ -1477,6 +1477,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-10-27T17:29:26.282099013",
     "entryUpdatedAt": "2024-10-27T17:29:26.282105046",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ab61042f-4775-415a-a847-a4ec69b2ca75",
+    "name": "Kamerad_Fritz",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-01-20T18:30:16.694556041",
+    "entryUpdatedAt": "2025-01-20T18:30:16.694557598",
     "expiryDays": 180
   },
   {
@@ -2133,6 +2141,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/468769-close/",
     "entryCreatedAt": "2025-01-04T00:35:29.062190804",
     "entryUpdatedAt": "2025-01-04T00:35:29.062223788",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "fb44137a-9212-4557-a5cc-b31d4d074b89",
+    "name": "Raais",
+    "cause": "https://forum.griefergames.de/forum/thread/470026-raais-aka-masari45-scammt-um-16-mio/",
+    "entryCreatedAt": "2025-01-20T18:32:01.928050687",
+    "entryUpdatedAt": "2025-01-20T18:32:01.928052173",
     "expiryDays": 180
   },
   {
