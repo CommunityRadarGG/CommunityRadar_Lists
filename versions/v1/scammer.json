@@ -344,14 +344,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "315d5362-a456-4283-99f2-bb30063543a2",
-    "name": "RRdrip",
-    "cause": "https://forum.griefergames.de/forum/thread/453359-du-el/",
-    "entryCreatedAt": "2024-07-24T15:36:50.028375114",
-    "entryUpdatedAt": "2024-11-24T17:29:23.147412349",
-    "expiryDays": 180
-  },
-  {
     "uuid": "3268161a-020e-4593-9f06-d5cff6be45eb",
     "name": "EPT_TheGodEmil",
     "cause": "https://forum.griefergames.de/forum/thread/466125-ept-thegodemil-zahlt-seine-schulden-nicht/",
@@ -1261,14 +1253,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/457103-ah-scammer/",
     "entryCreatedAt": "2024-09-02T10:47:18.562394833",
     "entryUpdatedAt": "2024-09-02T10:47:18.562402909",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "9543e0a2-b646-49a1-af9d-3f50fffe32fc",
-    "name": "ODerScammIsPaydO",
-    "cause": "https://forum.griefergames.de/forum/thread/453383-fakemoney/",
-    "entryCreatedAt": "2024-07-24T15:36:15.04589547",
-    "entryUpdatedAt": "2024-07-24T15:36:15.045904829",
     "expiryDays": 180
   },
   {
