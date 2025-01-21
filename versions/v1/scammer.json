@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "035b5293-e8b9-4191-a270-d7b4df7389bc",
+    "name": "Pluqinuser",
+    "cause": "https://forum.griefergames.de/forum/thread/470232-pluqinuser-macht-tp-fallen/",
+    "entryCreatedAt": "2025-01-21T16:41:51.110050702",
+    "entryUpdatedAt": "2025-01-21T16:41:51.110053433",
+    "expiryDays": 180
+  },
+  {
     "uuid": "03ebff2d-bd99-4a76-a4a9-3074fc7aba82",
     "name": "Slo23ff",
     "cause": "https://forum.griefergames.de/forum/thread/466825-slo23ff-vorher-abdi-161-scammt-cb22-cb1/",
@@ -181,6 +189,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/458609-nicsonlp-tpa-und-kill-scammversuch/",
     "entryCreatedAt": "2024-09-23T23:49:26.24556092",
     "entryUpdatedAt": "2024-09-23T23:49:26.245564226",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "1a572e9c-37d3-482c-b5d9-de4eb6ee97b0",
+    "name": "Xenonmega",
+    "cause": "https://forum.griefergames.de/forum/thread/470199-xenonmega-scammt-um-178-500/",
+    "entryCreatedAt": "2025-01-21T16:42:31.107499678",
+    "entryUpdatedAt": "2025-01-21T16:42:31.107500787",
     "expiryDays": 180
   },
   {
@@ -1882,9 +1898,9 @@
   {
     "uuid": "d8382bdc-c478-4e3a-940b-c37d6bd475f6",
     "name": "ByTeddox",
-    "cause": "https://forum.griefergames.de/forum/thread/454877-byteddox-scammt-um-120k-und-um-54k/",
-    "entryCreatedAt": "2024-08-12T00:51:02.923794613",
-    "entryUpdatedAt": "2025-01-04T20:54:18.399591372",
+    "cause": "https://forum.griefergames.de/forum/thread/470166-byteddox-scammt-um-400k/",
+    "entryCreatedAt": "2025-01-21T16:41:06.971358525",
+    "entryUpdatedAt": "2025-01-21T16:41:06.971360625",
     "expiryDays": 180
   },
   {
