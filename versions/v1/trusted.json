@@ -64,14 +64,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "0f04e498-4e1b-4fda-a5b2-476c86190fb6",
-    "name": "Schmorbiii",
-    "cause": "CB1",
-    "entryCreatedAt": "2024-11-26T20:23:30.296233128",
-    "entryUpdatedAt": "2024-11-26T20:23:30.296236549",
-    "expiryDays": 180
-  },
-  {
     "uuid": "10824e2d-767b-4693-b526-f766d4015d16",
     "name": "SiMaDN",
     "cause": "Cloud",
