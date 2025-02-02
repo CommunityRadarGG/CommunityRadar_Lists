@@ -400,14 +400,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "385c73c6-163d-4b91-9aa6-140c584cc655",
-    "name": "mielosiker",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:41:01.826414685",
-    "entryUpdatedAt": "2024-08-05T23:41:01.826418052",
-    "expiryDays": 180
-  },
-  {
     "uuid": "3af537a7-458e-44a2-9602-218476c2efea",
     "name": "SniperShooter_88",
     "cause": "https://beweise.community-radar.de/",
@@ -1008,14 +1000,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "85bd98cb-0ef1-4c0b-a2ea-0d920a3b1d46",
-    "name": "Ebertto",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:34:50.279070406",
-    "entryUpdatedAt": "2024-12-01T12:22:36.256991952",
-    "expiryDays": 180
-  },
-  {
     "uuid": "85c1c24a-42f6-3653-9788-ab506b521788",
     "name": "!lolcas3042",
     "cause": "https://forum.griefergames.de/forum/thread/470477-nekeis-verkauft-wohl-gerne-fake-items/",
@@ -1088,14 +1072,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "8e978420-6413-461e-9f53-3a2527959599",
-    "name": "ItsTigriss",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:39:35.083161523",
-    "entryUpdatedAt": "2024-08-05T23:39:35.083164608",
-    "expiryDays": 180
-  },
-  {
     "uuid": "8f6d6b8b-d143-4a97-a3b6-9ab405f92eaf",
     "name": "ZEN_Thomas",
     "cause": "https://forum.griefergames.de/forum/thread/458512-scammer-p-h-falle/",
@@ -1133,14 +1109,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/465320-asmodanreloaded-stellt-fakeitems-ins-ah/",
     "entryCreatedAt": "2024-11-29T08:52:46.079581766",
     "entryUpdatedAt": "2024-11-29T08:52:46.079584787",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "916db8dc-87aa-46a5-85d0-eb7304230f88",
-    "name": "Leakbad",
-    "cause": "https://discord.com/channels/1147881225692917780/1269723622411341846",
-    "entryCreatedAt": "2024-08-05T23:34:00.482813405",
-    "entryUpdatedAt": "2024-08-05T23:34:00.482817022",
     "expiryDays": 180
   },
   {
@@ -1221,14 +1189,6 @@
     "cause": "https://beweise.community-radar.de",
     "entryCreatedAt": "2025-01-20T18:33:20.532796203",
     "entryUpdatedAt": "2025-01-20T18:33:20.532797455",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "9d4a054c-833b-4974-8233-3652f7d43050",
-    "name": "Shy_Guy_Red",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:36:11.543689757",
-    "entryUpdatedAt": "2024-11-18T19:24:43.971369608",
     "expiryDays": 180
   },
   {
@@ -1405,14 +1365,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/460993-scamming-mit-umbenannten-kisten/",
     "entryCreatedAt": "2024-10-14T21:11:51.282738087",
     "entryUpdatedAt": "2024-10-14T21:11:51.282746763",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "afb946d5-4409-4465-a06e-8a9b70cca3c9",
-    "name": "Lennoxxxx",
-    "cause": "https://forum.griefergames.de/forum/thread/454453-lennoxxxx-scammt-mit-fake-items-im-ah/",
-    "entryCreatedAt": "2024-08-05T23:40:21.199785018",
-    "entryUpdatedAt": "2024-10-27T20:32:18.893061947",
     "expiryDays": 180
   },
   {
@@ -1848,35 +1800,11 @@
     "expiryDays": 180
   },
   {
-    "uuid": "ec7c7f6b-7027-43be-8fb3-ffff652e3439",
-    "name": "TorahCrafter",
-    "cause": "https://discord.com/channels/1147881225692917780/1269584786410700874",
-    "entryCreatedAt": "2024-08-05T23:38:09.466365888",
-    "entryUpdatedAt": "2024-08-05T23:38:09.466368763",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "ed718e81-5c18-4a96-9048-c88d9bec8a2d",
-    "name": "Gerbjoern",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:43:29.934919438",
-    "entryUpdatedAt": "2024-08-05T23:43:29.934923546",
-    "expiryDays": 180
-  },
-  {
     "uuid": "ef1c8436-b472-4e08-a6bf-43529af26601",
     "name": "Gelbregen",
     "cause": "https://discord.com/channels/1147881225692917780/1291543269804609568",
     "entryCreatedAt": "2024-10-04T21:24:23.653990977",
     "entryUpdatedAt": "2024-10-04T21:24:23.653998071",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "f000dc08-4d30-31bb-8d9d-38cd2e0fedd2",
-    "name": "!CapitolBot",
-    "cause": "https://forum.griefergames.de/forum/thread/454492-sammelbeitrag-alle-auktionshaus-scammer/?pageNo\u003d1",
-    "entryCreatedAt": "2024-08-05T23:42:54.935348842",
-    "entryUpdatedAt": "2024-08-05T23:42:54.935356677",
     "expiryDays": 180
   },
   {
