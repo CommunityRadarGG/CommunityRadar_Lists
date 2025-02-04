@@ -352,14 +352,6 @@
     "duration": 180
   },
   {
-    "uuid": "338723bf-d4c5-3040-b338-ed2781269e1d",
-    "name": "!Jolinka3337",
-    "note": "https://ibb.co/b3FnjhK",
-    "createdAt": "2024-08-08T22:09:46.691751351",
-    "updatedAt": "2024-08-08T22:09:46.691762642",
-    "duration": 180
-  },
-  {
     "uuid": "34432e4a-afce-437c-980a-daba3d7b9cba",
     "name": "Mitski441",
     "note": "https://beweise.community-radar.de/",
@@ -1117,6 +1109,14 @@
     "note": "https://forum.griefergames.de/forum/thread/457103-ah-scammer/",
     "createdAt": "2024-09-02T10:47:18.562394833",
     "updatedAt": "2024-09-02T10:47:18.562402909",
+    "duration": 180
+  },
+  {
+    "uuid": "9603c4ba-ad3d-4b6e-9bd7-d0294dba7796",
+    "name": "WariussWarcraft",
+    "note": "https://forum.griefergames.de/forum/thread/471019-wariusswarcraft-aka-tm-wariussw/",
+    "createdAt": "2025-02-04T20:57:27.537465621",
+    "updatedAt": "2025-02-04T20:57:27.537467784",
     "duration": 180
   },
   {
