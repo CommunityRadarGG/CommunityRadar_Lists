@@ -784,6 +784,14 @@
     "duration": 180
   },
   {
+    "uuid": "704d5523-3148-48a3-a0b3-4096c978b44a",
+    "name": "erzeDotCom",
+    "note": "https://forum.griefergames.de/forum/thread/471447-erzedotcom-scamt-mit-fake-items-im-auktionshaus-4mio-dollar/",
+    "createdAt": "2025-02-09T15:07:42.622561816",
+    "updatedAt": "2025-02-09T15:07:42.622588739",
+    "duration": 180
+  },
+  {
     "uuid": "72786ac4-1db8-4993-b6dc-7b03b72d3cdd",
     "name": "Xmces",
     "note": "https://forum.griefergames.de/forum/thread/462022-xmces/#post4343483",
@@ -922,9 +930,9 @@
   {
     "uuid": "8a7bded3-e11a-3f21-9f91-fd7f48282c1a",
     "name": "!T3dlex",
-    "note": "https://forum.griefergames.de/forum/thread/470004-t3dlex-scammt-mit-fake-item-im-auktionshaus/",
-    "createdAt": "2025-01-19T13:58:02.219065514",
-    "updatedAt": "2025-01-19T13:58:02.219067827",
+    "note": "https://forum.griefergames.de/forum/thread/471505-scammer-im-ah-name-t3dlex/",
+    "createdAt": "2025-02-09T15:07:06.958354963",
+    "updatedAt": "2025-02-09T15:07:06.958362527",
     "duration": 180
   },
   {
@@ -1461,6 +1469,14 @@
     "note": "https://forum.griefergames.de/forum/thread/467943-empi-stellt-fake-items-ins-ah/",
     "createdAt": "2024-12-30T04:54:34.288361036",
     "updatedAt": "2024-12-30T04:54:34.288371741",
+    "duration": 180
+  },
+  {
+    "uuid": "cca27103-475e-4c7e-b883-4de1d3b07b96",
+    "name": "priusa",
+    "note": "https://forum.griefergames.de/forum/thread/471619-priusa-scammt-um-370k-spawner/",
+    "createdAt": "2025-02-09T15:06:34.632343867",
+    "updatedAt": "2025-02-09T15:06:34.632365154",
     "duration": 180
   },
   {
