@@ -128,6 +128,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1038f0a9-4431-490a-b07c-c3b5222b259c",
+    "name": "Um_Justin",
+    "cause": "https://forum.griefergames.de/forum/thread/471968-um-justin-scammt-um-schematic-buildings-in-diesem-fall-um-5mio/",
+    "entryCreatedAt": "2025-02-12T21:35:33.821879357",
+    "entryUpdatedAt": "2025-02-12T21:35:33.821899051",
+    "expiryDays": 180
+  },
+  {
     "uuid": "117a5ccf-1a8e-4e72-8d5a-1139f7040b34",
     "name": "iHariboo",
     "cause": "https://forum.griefergames.de/forum/thread/465238-ihariboo-scammt-um-20m-100-shopguthaben/",
@@ -938,9 +946,9 @@
   {
     "uuid": "8a7bded3-e11a-3f21-9f91-fd7f48282c1a",
     "name": "!T3dlex",
-    "cause": "https://forum.griefergames.de/forum/thread/471505-scammer-im-ah-name-t3dlex/",
-    "entryCreatedAt": "2025-02-09T15:07:06.958354963",
-    "entryUpdatedAt": "2025-02-09T15:07:06.958362527",
+    "cause": "https://forum.griefergames.de/forum/thread/472084-scammt-mit-falsch-sig-items/",
+    "entryCreatedAt": "2025-02-12T21:32:48.448790439",
+    "entryUpdatedAt": "2025-02-12T21:32:48.448848126",
     "expiryDays": 180
   },
   {
@@ -1432,14 +1440,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "c8a5f12d-049a-4d81-844e-cc19b658b702",
-    "name": "AbgegierftHD",
-    "cause": "https://forum.griefergames.de/forum/thread/455606-abgegierfthd-scammt-mit-fake-items/",
-    "entryCreatedAt": "2024-08-16T21:43:47.867573605",
-    "entryUpdatedAt": "2024-08-16T21:43:47.86758159",
-    "expiryDays": 180
-  },
-  {
     "uuid": "c963e4da-2f8d-4d29-a50f-e91596077d77",
     "name": "HugoHughdich",
     "cause": "https://forum.griefergames.de/forum/thread/461865-hugohughdich/",
@@ -1453,6 +1453,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/458118-rzxvb-scammt-und-begeht-danach-rufmord-an-focaccia16/",
     "entryCreatedAt": "2024-09-19T23:40:49.670849575",
     "entryUpdatedAt": "2024-09-19T23:40:49.670852481",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "c9cdfcc6-d5f9-40a5-895c-dd8381ed9480",
+    "name": "zGonii",
+    "cause": "https://forum.griefergames.de/forum/thread/472050-240-mio-scamm-von-zgonii-bonze-2025/",
+    "entryCreatedAt": "2025-02-12T21:41:54.351585346",
+    "entryUpdatedAt": "2025-02-12T21:41:54.351591713",
     "expiryDays": 180
   },
   {
