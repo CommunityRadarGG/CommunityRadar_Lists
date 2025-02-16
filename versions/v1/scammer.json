@@ -856,14 +856,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "8268a31a-a1fe-40f7-bf3e-d76a867cf30e",
-    "name": "PeerOtto",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2024-12-26T20:14:31.489846737",
-    "entryUpdatedAt": "2024-12-26T20:14:31.48984804",
-    "expiryDays": 180
-  },
-  {
     "uuid": "8291ee10-ef97-4987-a397-50c74f656195",
     "name": "Syndr0n",
     "cause": "https://forum.griefergames.de/forum/thread/465558-syndr0n-scammt-im-ah/",
