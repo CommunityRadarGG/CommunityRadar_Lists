@@ -16,14 +16,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "04399c37-70a7-47b0-944e-9369e7f7e173",
-    "name": "RainbowSteven",
-    "cause": "CBN",
-    "entryCreatedAt": "2024-08-26T21:06:53.004727395",
-    "entryUpdatedAt": "2024-08-26T21:06:53.004729649",
-    "expiryDays": -1
-  },
-  {
     "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
     "name": "HBInfinity",
     "cause": "CB10",
@@ -355,9 +347,9 @@
     "uuid": "730ce59b-a548-4d3e-9b91-96be30a30ad3",
     "name": "AliAhmedAllah",
     "cause": "CB1",
-    "entryCreatedAt": "2024-11-26T20:56:18.19093549",
-    "entryUpdatedAt": "2024-11-26T20:56:18.190937616",
-    "expiryDays": 180
+    "entryCreatedAt": "2025-02-20T16:41:44.692229786",
+    "entryUpdatedAt": "2025-02-20T16:41:44.692231729",
+    "expiryDays": -1
   },
   {
     "uuid": "77e044d5-34fc-4623-be0b-fa3195050f91",
@@ -621,14 +613,6 @@
     "cause": "CB22",
     "entryCreatedAt": "2024-05-27T00:02:21.750761559",
     "entryUpdatedAt": "2024-05-27T00:02:21.750782008",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "e0257843-b475-4bb2-803d-6e1d6beb2642",
-    "name": "SY_MarvAP",
-    "cause": "CB10",
-    "entryCreatedAt": "2024-05-26T11:39:33.517438184",
-    "entryUpdatedAt": "2024-05-26T11:39:33.517449135",
     "expiryDays": -1
   },
   {
