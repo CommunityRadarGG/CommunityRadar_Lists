@@ -634,9 +634,9 @@
   {
     "uuid": "6969db83-8ec3-4a6a-8877-349b1f987c19",
     "name": "1Rxcket",
-    "note": "https://forum.griefergames.de/forum/thread/467212-1-lxca-scammt-um-12-8mio/",
-    "createdAt": "2024-12-20T10:31:58.117423467",
-    "updatedAt": "2024-12-22T20:03:48.630216665",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2025-02-21T18:02:26.921799281",
+    "updatedAt": "2025-02-21T18:02:26.921801191",
     "duration": 180
   },
   {
@@ -1061,6 +1061,14 @@
     "note": "https://beweise.community-radar.de/",
     "createdAt": "2024-12-07T06:42:46.837847859",
     "updatedAt": "2024-12-07T06:42:46.837853297",
+    "duration": 180
+  },
+  {
+    "uuid": "a3d6130c-5e24-4d48-9b4a-4e0fb3d22589",
+    "name": "01Riffer",
+    "note": "https://forum.griefergames.de/forum/thread/472511-01riffer-ver%C3%A4ussert-fake-bonzeklinge/",
+    "createdAt": "2025-02-21T18:01:46.306054543",
+    "updatedAt": "2025-02-21T18:01:46.306056628",
     "duration": 180
   },
   {
