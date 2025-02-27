@@ -1344,6 +1344,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d46a9826-5e0f-4748-9a41-043abbfc0279",
+    "name": "kannabispflanze",
+    "cause": "https://forum.griefergames.de/forum/thread/472649-kannabispflanze-scammt-noch-immer/",
+    "entryCreatedAt": "2025-02-27T20:26:38.820712998",
+    "entryUpdatedAt": "2025-02-27T20:26:38.820716083",
+    "expiryDays": 180
+  },
+  {
     "uuid": "d4c9142b-d2d4-4d4b-b0b6-f1830f703ddf",
     "name": "cheeqyy",
     "cause": "https://beweise.community-radar.de/",
