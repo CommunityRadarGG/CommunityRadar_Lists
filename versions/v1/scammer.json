@@ -240,14 +240,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "2fc5cd08-a4da-4e49-a51c-f6e4d90069b3",
-    "name": "BergbauMeister",
-    "cause": "https://forum.griefergames.de/forum/thread/457144-bergbaumeister-scammt-um-21m/",
-    "entryCreatedAt": "2024-09-04T20:55:51.239667491",
-    "entryUpdatedAt": "2024-09-04T20:55:51.239669355",
-    "expiryDays": 180
-  },
-  {
     "uuid": "300042b5-bb26-3efc-8018-bf6bc69a5f4e",
     "name": "!Kengurn",
     "cause": "https://forum.griefergames.de/forum/thread/462400-kengurn-gibt-nach-auch-nach-expliziter-nachfrage-zu-das-er-scammt/",
@@ -1141,14 +1133,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/462610-arschbombe-scammt-um-300mio/",
     "entryCreatedAt": "2024-10-29T03:00:50.361547425",
     "entryUpdatedAt": "2024-12-14T16:02:55.54845103",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "c0400010-ee6b-3b7f-9bd5-76aa0c7025c7",
-    "name": "!Farming1899",
-    "cause": "https://forum.griefergames.de/forum/thread/457146-farming1899-scammt-um-5mio/",
-    "entryCreatedAt": "2024-09-04T20:55:09.562118993",
-    "entryUpdatedAt": "2024-09-04T20:55:09.562120987",
     "expiryDays": 180
   },
   {
