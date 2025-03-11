@@ -120,6 +120,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1782d4fa-ed2a-4b36-822c-38cc19f37dae",
+    "name": "Getriggerter",
+    "cause": "https://forum.griefergames.de/forum/thread/473950-getriggerter-scammt-um-5mio/",
+    "entryCreatedAt": "2025-03-11T19:53:54.509617321",
+    "entryUpdatedAt": "2025-03-11T19:53:54.509619832",
+    "expiryDays": 180
+  },
+  {
     "uuid": "198e4f91-efee-462a-9ea5-98c009b94572",
     "name": "NicsonLP",
     "cause": "https://forum.griefergames.de/forum/thread/458609-nicsonlp-tpa-und-kill-scammversuch/",
