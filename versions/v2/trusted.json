@@ -96,14 +96,6 @@
     "duration": -1
   },
   {
-    "uuid": "218103d9-b278-4aff-8a9f-2e9ab1efd6aa",
-    "name": "GGN_Yoghurtdrink",
-    "note": "CB10",
-    "createdAt": "2024-11-26T20:25:46.246350059",
-    "updatedAt": "2024-11-26T20:25:46.246352228",
-    "duration": 180
-  },
-  {
     "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
     "name": "MR_Mettigel",
     "note": "CB9",
