@@ -368,6 +368,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "4040a2f2-de9a-4d9d-94a1-824a15a6b72f",
+    "name": "Yokunati",
+    "cause": "https://forum.griefergames.de/forum/thread/474990-spieler-vollbluthaendler-yokunati-scammt-mich-mit-poliertem-schwarzstein/",
+    "entryCreatedAt": "2025-03-30T11:58:08.878802554",
+    "entryUpdatedAt": "2025-03-30T11:58:08.878925913",
+    "expiryDays": 180
+  },
+  {
     "uuid": "41f6a33a-dc3f-4ebb-a15b-0c30e8eedbbe",
     "name": "zMegaKartoffel",
     "cause": "https://beweise.community-radar.de/",
