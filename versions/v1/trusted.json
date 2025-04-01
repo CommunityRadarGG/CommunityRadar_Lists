@@ -128,14 +128,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "2a654716-bf0a-4fbe-a029-8aacda543c95",
-    "name": "CxdricZ",
-    "cause": "CB22",
-    "entryCreatedAt": "2024-11-26T20:21:33.194457229",
-    "entryUpdatedAt": "2024-11-26T20:21:33.194589",
-    "expiryDays": 180
-  },
-  {
     "uuid": "315389f9-dec8-4fea-bc01-38f532d41a61",
     "name": "ladyvoice",
     "cause": "CB2",
