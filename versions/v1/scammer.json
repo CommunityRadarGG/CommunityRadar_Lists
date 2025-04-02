@@ -640,6 +640,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "6f5419b1-7716-4bf7-a9be-9599776bbfd4",
+    "name": "zurxckhaltender",
+    "cause": "https://forum.griefergames.de/forum/thread/475133-zurxckhaltender-scammt-um-55mio-bei-bj/",
+    "entryCreatedAt": "2025-04-02T11:44:13.418979972",
+    "entryUpdatedAt": "2025-04-02T11:44:13.41898481",
+    "expiryDays": 180
+  },
+  {
     "uuid": "704d5523-3148-48a3-a0b3-4096c978b44a",
     "name": "erzeDotCom",
     "cause": "https://forum.griefergames.de/forum/thread/471447-erzedotcom-scamt-mit-fake-items-im-auktionshaus-4mio-dollar/",
@@ -869,6 +877,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/465188-fake-admin-items-im-ah-von-fake-abges/",
     "entryCreatedAt": "2024-11-26T20:56:45.047480691",
     "entryUpdatedAt": "2024-11-26T20:56:45.047483757",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
+    "name": "das_Baum",
+    "cause": "https://forum.griefergames.de/forum/thread/475167-um-700k-gescammt-von-das-baum/",
+    "entryCreatedAt": "2025-04-02T11:44:43.821711085",
+    "entryUpdatedAt": "2025-04-02T11:44:43.821715213",
     "expiryDays": 180
   },
   {
@@ -1389,6 +1405,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/464117-breylight-scammt/",
     "entryCreatedAt": "2024-11-17T14:23:18.751655523",
     "entryUpdatedAt": "2024-11-17T14:23:18.751686074",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f24772c9-759f-4a3d-a09e-09f98e6989ff",
+    "name": "uxaxe",
+    "cause": "https://forum.griefergames.de/forum/thread/475146-1baumm-wurde-von-uxaxe-gescammt-um-250k/",
+    "entryCreatedAt": "2025-04-02T11:43:42.666349644",
+    "entryUpdatedAt": "2025-04-02T11:43:42.66639066",
     "expiryDays": 180
   },
   {
