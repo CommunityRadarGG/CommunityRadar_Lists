@@ -1376,14 +1376,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "ef1c8436-b472-4e08-a6bf-43529af26601",
-    "name": "Gelbregen",
-    "cause": "https://discord.com/channels/1147881225692917780/1291543269804609568",
-    "entryCreatedAt": "2024-10-04T21:24:23.653990977",
-    "entryUpdatedAt": "2024-10-04T21:24:23.653998071",
-    "expiryDays": 180
-  },
-  {
     "uuid": "f10352d8-0ce7-449a-80dd-d7b513117fd8",
     "name": "otto551",
     "cause": "https://beweise.community-radar.de/",
