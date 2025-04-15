@@ -168,14 +168,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "22c7e8ff-a57a-3647-abf9-b280e8b00baf",
-    "name": "!OddClient5945",
-    "cause": "https://discord.community-radar.de/",
-    "entryCreatedAt": "2024-10-17T17:35:23.803131788",
-    "entryUpdatedAt": "2024-10-17T17:35:23.803148679",
-    "expiryDays": 180
-  },
-  {
     "uuid": "233b0e09-f721-4139-9797-0fd97c988179",
     "name": "By_Moglii",
     "cause": "https://forum.griefergames.de/forum/thread/466145-by-moglii-scammt/",
@@ -453,14 +445,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/467726-auktionshaus-scam/",
     "entryCreatedAt": "2024-12-25T21:05:43.141647633",
     "entryUpdatedAt": "2024-12-25T21:05:43.141648398",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "5b19ca63-619a-4d93-81d9-298d982ff5c3",
-    "name": "loll_Bot",
-    "cause": "https://discord.community-radar.de/",
-    "entryCreatedAt": "2024-10-17T17:49:41.731141216",
-    "entryUpdatedAt": "2024-10-17T17:49:41.731181729",
     "expiryDays": 180
   },
   {
