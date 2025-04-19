@@ -776,6 +776,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "9b583819-0df2-4971-98d5-a414f05df00d",
+    "name": "Timizda",
+    "cause": "https://forum.griefergames.de/forum/thread/476446-der-spieler-tlmizda-scammt/",
+    "entryCreatedAt": "2025-04-19T17:28:18.261737643",
+    "entryUpdatedAt": "2025-04-19T17:28:18.261746825",
+    "expiryDays": 180
+  },
+  {
     "uuid": "9beef76a-d3cf-4798-9d8a-5d10264f21d1",
     "name": "eruaaaa",
     "cause": "https://beweise.community-radar.de",
@@ -877,6 +885,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-12-06T11:32:50.908450745",
     "entryUpdatedAt": "2024-12-06T11:32:50.908478226",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ab292e32-0de6-4589-b73d-8ea28bbc0366",
+    "name": "St0nedbyW33d",
+    "cause": "https://forum.griefergames.de/forum/thread/476470-scamming-um-50-euro-shopguthaben/",
+    "entryCreatedAt": "2025-04-19T17:28:44.659469092",
+    "entryUpdatedAt": "2025-04-19T17:28:44.659480108",
     "expiryDays": 180
   },
   {
@@ -1125,6 +1141,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2024-11-18T02:13:31.907404671",
     "entryUpdatedAt": "2024-11-18T02:13:31.907410368",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d5848921-a94b-4710-9a71-780cf8652006",
+    "name": "1ZickZack",
+    "cause": "https://forum.griefergames.de/forum/thread/476351-scamming-80k/",
+    "entryCreatedAt": "2025-04-19T17:27:45.869643732",
+    "entryUpdatedAt": "2025-04-19T17:27:45.869739263",
     "expiryDays": 180
   },
   {
