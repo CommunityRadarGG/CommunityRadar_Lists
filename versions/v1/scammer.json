@@ -1168,6 +1168,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "deb85917-4875-47ba-aaba-164f543a1972",
+    "name": "Boergnes",
+    "cause": "https://forum.griefergames.de/forum/thread/476730-boergnes/",
+    "entryCreatedAt": "2025-04-24T20:31:22.199461341",
+    "entryUpdatedAt": "2025-04-24T20:31:22.199545333",
+    "expiryDays": 180
+  },
+  {
     "uuid": "df5fddc7-17ef-4dec-b95b-702e9f48b295",
     "name": "DerWunderman",
     "cause": "https://forum.griefergames.de/forum/thread/470872-auaaaa-scammt-mich-maarius-um-1-68mio-5-stack-beacons/",
