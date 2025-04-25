@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0c1c1f40-2d91-4f9d-9797-5f37871ff043",
+    "name": "ThePhantom23",
+    "cause": "CB5",
+    "entryCreatedAt": "2025-04-25T23:52:11.336012255",
+    "entryUpdatedAt": "2025-04-25T23:52:11.336145779",
+    "expiryDays": -1
+  },
+  {
     "uuid": "0d28010c-4ebe-4712-a9f1-0f1a23c6d919",
     "name": "Leoj2007",
     "cause": "CB21",
