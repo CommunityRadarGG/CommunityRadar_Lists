@@ -568,6 +568,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "748c30d5-d02e-40ae-ac2e-9124ae05f506",
+    "name": "KeksGut",
+    "cause": "https://forum.griefergames.de/forum/thread/476190-hero-scammt-um-ca-10m-keksgut-scammt/",
+    "entryCreatedAt": "2025-04-25T12:10:01.053029903",
+    "entryUpdatedAt": "2025-04-25T12:10:01.053082499",
+    "expiryDays": 180
+  },
+  {
     "uuid": "75ccc6d6-1fd0-4b01-a5c3-bf24e6200e08",
     "name": "WildEmu379",
     "cause": "https://forum.griefergames.de/forum/thread/468106-mehrfaches-scammen-im-ah/",
