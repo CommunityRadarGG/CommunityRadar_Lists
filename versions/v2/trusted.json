@@ -216,14 +216,6 @@
     "duration": -1
   },
   {
-    "uuid": "4d0b3e50-e413-4155-a259-53051444fec8",
-    "name": "TheKills",
-    "note": "CB22",
-    "createdAt": "2024-11-26T20:22:22.070240282",
-    "updatedAt": "2024-11-26T20:22:22.070242378",
-    "duration": 180
-  },
-  {
     "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
     "name": "SkyzeeDRS",
     "note": "CB20",
@@ -597,14 +589,6 @@
     "note": "All",
     "createdAt": "2024-09-20T20:35:52.551824228",
     "updatedAt": "2024-09-20T20:35:52.551827154",
-    "duration": -1
-  },
-  {
-    "uuid": "e8443042-5bb6-4f11-b03d-a02ef0591a3f",
-    "name": "Shichti1",
-    "note": "CB8",
-    "createdAt": "2024-05-26T11:37:37.621068315",
-    "updatedAt": "2024-05-26T11:37:37.621078765",
     "duration": -1
   },
   {
