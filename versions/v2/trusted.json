@@ -16,6 +16,14 @@
     "duration": -1
   },
   {
+    "uuid": "05ce6310-63f8-4c74-8782-41c78f9e312c",
+    "name": "LOL_Helmchen",
+    "note": "Cloud",
+    "createdAt": "2025-05-04T20:27:15.837468322",
+    "updatedAt": "2025-05-04T20:27:15.837514237",
+    "duration": -1
+  },
+  {
     "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
     "name": "GGN_HBInfinity",
     "note": "CB10",
@@ -296,6 +304,14 @@
     "duration": -1
   },
   {
+    "uuid": "6530e32e-dc9c-4247-9e27-d3b6996ac445",
+    "name": "FaultedBowl",
+    "note": "Cloud",
+    "createdAt": "2025-05-04T20:26:30.65969612",
+    "updatedAt": "2025-05-04T20:26:30.659777255",
+    "duration": -1
+  },
+  {
     "uuid": "679fbe55-e716-4db9-81a5-b27d18d9fd67",
     "name": "SuperFlummi",
     "note": "CB1",
@@ -400,6 +416,14 @@
     "duration": -1
   },
   {
+    "uuid": "8513da4c-fc1c-4497-a0ec-c89235a6f6d3",
+    "name": "WHS_GatoYT",
+    "note": "CB1",
+    "createdAt": "2025-05-04T20:25:11.118650741",
+    "updatedAt": "2025-05-04T20:25:11.118884884",
+    "duration": -1
+  },
+  {
     "uuid": "8e9c10de-c4f2-45b6-8219-d794d942779d",
     "name": "x_Fighterboy_x",
     "note": "CB13",
@@ -421,6 +445,14 @@
     "note": "CB20",
     "createdAt": "2024-05-27T00:01:29.957760558",
     "updatedAt": "2024-05-27T00:01:29.957770408",
+    "duration": -1
+  },
+  {
+    "uuid": "9124edc5-d54d-42da-8146-2495843b0492",
+    "name": "DLS_EnterMatrix",
+    "note": "Cb22",
+    "createdAt": "2025-05-04T20:25:44.279234897",
+    "updatedAt": "2025-05-04T20:25:44.279272213",
     "duration": -1
   },
   {
@@ -621,6 +653,14 @@
     "note": "CB21",
     "createdAt": "2024-05-27T00:02:04.871610231",
     "updatedAt": "2024-05-27T00:02:04.871621031",
+    "duration": -1
+  },
+  {
+    "uuid": "f618d5a2-18df-4875-8335-ac745d359561",
+    "name": "ZombieXS",
+    "note": "Cloud",
+    "createdAt": "2025-05-04T20:26:50.810902084",
+    "updatedAt": "2025-05-04T20:26:50.810984234",
     "duration": -1
   },
   {
