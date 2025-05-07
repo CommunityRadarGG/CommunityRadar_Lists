@@ -72,14 +72,6 @@
     "duration": -1
   },
   {
-    "uuid": "112acb04-3bb8-4383-8c4e-31994b9a13a5",
-    "name": "DeutschAbi",
-    "note": "CB22",
-    "createdAt": "2025-02-08T16:54:46.459997997",
-    "updatedAt": "2025-02-08T16:54:46.460016138",
-    "duration": -1
-  },
-  {
     "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
     "name": "LOLCMD",
     "note": "CBE",
@@ -101,14 +93,6 @@
     "note": "CB16",
     "createdAt": "2024-05-27T00:00:56.663778772",
     "updatedAt": "2024-05-27T00:00:56.663787569",
-    "duration": -1
-  },
-  {
-    "uuid": "20ee5955-2a17-4b9c-b9a7-b063662141ea",
-    "name": "KingQuadrix",
-    "note": "CB1",
-    "createdAt": "2024-05-26T11:25:53.900599713",
-    "updatedAt": "2024-05-26T11:25:53.900609001",
     "duration": -1
   },
   {
@@ -256,14 +240,6 @@
     "duration": -1
   },
   {
-    "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
-    "name": "ZopfTropf",
-    "note": "CB2",
-    "createdAt": "2024-05-26T11:28:57.983623846",
-    "updatedAt": "2024-05-26T11:28:57.983633915",
-    "duration": -1
-  },
-  {
     "uuid": "59adf395-b1bd-451a-8405-8af8dfebc3c0",
     "name": "KamoArbeitet",
     "note": "CB1",
@@ -277,14 +253,6 @@
     "note": "CB3",
     "createdAt": "2024-05-26T11:30:23.839622597",
     "updatedAt": "2024-05-26T11:30:23.839632355",
-    "duration": -1
-  },
-  {
-    "uuid": "5e0af1e6-e028-47f3-9fe5-6dac7c3f4f21",
-    "name": "Slowbrass",
-    "note": "CB22",
-    "createdAt": "2024-05-27T00:02:42.106293029",
-    "updatedAt": "2024-05-27T00:02:42.106301965",
     "duration": -1
   },
   {
@@ -517,14 +485,6 @@
     "note": "CB18",
     "createdAt": "2024-05-27T00:01:13.091773459",
     "updatedAt": "2024-05-27T00:01:13.091782407",
-    "duration": -1
-  },
-  {
-    "uuid": "b4318f25-ba14-4853-9257-7d979a1ce473",
-    "name": "ToxxelHD",
-    "note": "CB3",
-    "createdAt": "2024-05-26T11:29:43.270902646",
-    "updatedAt": "2024-05-26T11:29:43.270912885",
     "duration": -1
   },
   {
