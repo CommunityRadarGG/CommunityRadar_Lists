@@ -128,14 +128,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "315389f9-dec8-4fea-bc01-38f532d41a61",
-    "name": "ladyvoice",
-    "cause": "CB2",
-    "entryCreatedAt": "2024-05-26T11:28:21.896265209",
-    "entryUpdatedAt": "2024-05-26T11:28:21.89627651",
-    "expiryDays": -1
-  },
-  {
     "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
     "name": "Toni_der_Erste",
     "cause": "CB1",
