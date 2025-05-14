@@ -1192,6 +1192,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "f9d7b08f-f6c8-4677-8b86-ff238ceb4d79",
+    "name": "NutzerCaps",
+    "cause": "https://forum.griefergames.de/forum/thread/475973-nutzercaps-scammt-um-60m/",
+    "entryCreatedAt": "2025-05-14T08:26:15.040694082",
+    "entryUpdatedAt": "2025-05-14T08:26:15.040745106",
+    "expiryDays": 180
+  },
+  {
     "uuid": "fb44137a-9212-4557-a5cc-b31d4d074b89",
     "name": "MaggiFixTuette",
     "cause": "https://forum.griefergames.de/forum/thread/470026-raais-aka-masari45-scammt-um-16-mio/",
