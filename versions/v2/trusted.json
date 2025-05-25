@@ -1,13 +1,5 @@
 [
   {
-    "uuid": "01e57c1f-79bc-4eed-915d-019b59dedd2c",
-    "name": "Maverick92",
-    "note": "CB6",
-    "createdAt": "2024-11-26T20:24:29.049219277",
-    "updatedAt": "2024-11-26T20:24:29.04922293",
-    "duration": 180
-  },
-  {
     "uuid": "02b20f45-724b-481e-9b7c-705430606fc4",
     "name": "DC1805",
     "note": "CB1",
@@ -22,22 +14,6 @@
     "createdAt": "2025-05-04T20:27:15.837468322",
     "updatedAt": "2025-05-04T20:27:15.837514237",
     "duration": -1
-  },
-  {
-    "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
-    "name": "GGN_HBInfinity",
-    "note": "CB10",
-    "createdAt": "2024-11-26T20:25:20.62275712",
-    "updatedAt": "2025-02-27T13:10:44.871746534",
-    "duration": 180
-  },
-  {
-    "uuid": "0abe8a54-a0e2-44db-97c0-3c4d296f5ab9",
-    "name": "STD_qVolt",
-    "note": "CB22",
-    "createdAt": "2024-11-26T20:24:06.023140767",
-    "updatedAt": "2024-11-26T20:24:06.023147236",
-    "duration": 180
   },
   {
     "uuid": "0c1c1f40-2d91-4f9d-9797-5f37871ff043",
@@ -184,14 +160,6 @@
     "duration": -1
   },
   {
-    "uuid": "4383c131-bdf9-4470-8f55-eb758832e073",
-    "name": "rockisstillalive",
-    "note": "CB16",
-    "createdAt": "2024-11-26T20:24:52.752452388",
-    "updatedAt": "2024-11-26T20:24:52.752456052",
-    "duration": 180
-  },
-  {
     "uuid": "45bbfee0-4eca-4534-89c7-5f992bdffef4",
     "name": "sL4p90",
     "note": "CBE",
@@ -270,14 +238,6 @@
     "createdAt": "2025-05-04T20:26:30.65969612",
     "updatedAt": "2025-05-04T20:26:30.659777255",
     "duration": -1
-  },
-  {
-    "uuid": "679fbe55-e716-4db9-81a5-b27d18d9fd67",
-    "name": "SuperFlummi",
-    "note": "CB1",
-    "createdAt": "2024-11-26T20:23:08.280388628",
-    "updatedAt": "2024-11-26T20:23:08.280391693",
-    "duration": 180
   },
   {
     "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
@@ -446,14 +406,6 @@
     "createdAt": "2024-05-27T00:03:26.972953701",
     "updatedAt": "2024-05-27T00:03:26.972962657",
     "duration": -1
-  },
-  {
-    "uuid": "ae01c6b4-e5c7-4b8f-8798-8927118ca289",
-    "name": "ImnotFishii",
-    "note": "CB5",
-    "createdAt": "2024-11-26T20:21:59.559508639",
-    "updatedAt": "2024-11-26T20:21:59.559511419",
-    "duration": 180
   },
   {
     "uuid": "aebab3e4-c084-40e1-9d99-14311477dc8c",
