@@ -992,14 +992,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "f97d280c-e7a9-4f07-851c-64146cd75e05",
-    "name": "Atoxia",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2024-12-04T17:53:44.073167717",
-    "entryUpdatedAt": "2024-12-04T17:53:44.073228388",
-    "expiryDays": 180
-  },
-  {
     "uuid": "f9d04668-9d36-4eb3-b560-0690fb96bb66",
     "name": "Molikret",
     "cause": "https://forum.griefergames.de/forum/thread/468769-close/",
