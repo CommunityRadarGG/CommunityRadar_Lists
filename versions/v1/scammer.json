@@ -200,14 +200,6 @@
     "expiryDays": 90
   },
   {
-    "uuid": "3ca5731e-730c-47d8-beb8-0aa6371f284f",
-    "name": "4DPommes",
-    "cause": "https://forum.griefergames.de/forum/thread/465856-ah-scamming/",
-    "entryCreatedAt": "2024-12-06T19:14:14.924843882",
-    "entryUpdatedAt": "2024-12-06T19:14:14.924901329",
-    "expiryDays": 180
-  },
-  {
     "uuid": "3cbca52c-bb3e-457c-92ca-664e3e51c43e",
     "name": "V1perOnStation",
     "cause": "https://forum.griefergames.de/forum/thread/470806-v1peronstation-scammt-um-25k/",
@@ -613,14 +605,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/471232-graf-stelz-scammt-um-16-schwarze-lb-on-stream/",
     "entryCreatedAt": "2025-02-04T20:56:36.020658054",
     "entryUpdatedAt": "2025-02-04T20:56:36.020659972",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "9fac7953-3d34-4f22-b28e-3b3c60efc8a3",
-    "name": "2InstaDealer",
-    "cause": "https://forum.griefergames.de/forum/thread/465976-zealousword4177-scam-bei-erebor/",
-    "entryCreatedAt": "2024-12-06T19:15:06.129438956",
-    "entryUpdatedAt": "2024-12-13T21:28:37.951811343",
     "expiryDays": 180
   },
   {
