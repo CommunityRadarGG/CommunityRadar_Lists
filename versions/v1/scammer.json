@@ -96,6 +96,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "303bb0e4-8011-309f-bd48-656bf29b5023",
+    "name": "!GnarlyColt65418",
+    "cause": "https://forum.griefergames.de/forum/thread/479209-gnarlycolt65418-fake-prefix-ah/",
+    "entryCreatedAt": "2025-06-10T14:27:47.281767262",
+    "entryUpdatedAt": "2025-06-10T14:27:47.281778861",
+    "expiryDays": 180
+  },
+  {
     "uuid": "31d0db77-ad86-4171-9498-ff246fd78756",
     "name": "Querstellung",
     "cause": "https://forum.griefergames.de/forum/thread/474783-querstellung-scammt-um-70-dragoneggs/",
@@ -170,9 +178,9 @@
   {
     "uuid": "3d869ba0-1f41-4e43-a76a-1bd188fa0917",
     "name": "1Utek",
-    "cause": "https://forum.griefergames.de/forum/thread/469204-scamm-um-knapp-1-050-mio-auktionshaus/",
-    "entryCreatedAt": "2025-01-09T21:43:15.920480325",
-    "entryUpdatedAt": "2025-01-09T21:43:15.920559714",
+    "cause": "https://forum.griefergames.de/forum/thread/479452-1utek-verkauft-doppel-blau-fake-item-im-ah/",
+    "entryCreatedAt": "2025-06-10T14:28:47.177241253",
+    "entryUpdatedAt": "2025-06-10T14:28:47.177258614",
     "expiryDays": 180
   },
   {
@@ -365,6 +373,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/468106-mehrfaches-scammen-im-ah/",
     "entryCreatedAt": "2024-12-30T04:53:24.756706482",
     "entryUpdatedAt": "2024-12-30T04:53:24.756726739",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "7934f9a7-6fde-44a6-a898-ec821f81ec59",
+    "name": "Nisa_Premium",
+    "cause": "https://forum.griefergames.de/forum/thread/479393-nisa-premium-16k-scam/",
+    "entryCreatedAt": "2025-06-10T14:27:20.617725009",
+    "entryUpdatedAt": "2025-06-10T14:27:20.617788079",
     "expiryDays": 180
   },
   {
