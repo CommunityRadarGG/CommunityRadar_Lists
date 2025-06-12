@@ -232,14 +232,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "59adf395-b1bd-451a-8405-8af8dfebc3c0",
-    "name": "KamoArbeitet",
-    "cause": "CB1",
-    "entryCreatedAt": "2025-03-17T22:37:47.091319107",
-    "entryUpdatedAt": "2025-03-17T22:37:47.091402763",
-    "expiryDays": -1
-  },
-  {
     "uuid": "5ac271d6-08b4-4516-851d-b1a71bd8f842",
     "name": "AngxberLeoooon",
     "cause": "CB3",
