@@ -296,14 +296,6 @@
     "expiryDays": 90
   },
   {
-    "uuid": "75ccc6d6-1fd0-4b01-a5c3-bf24e6200e08",
-    "name": "WildEmu379",
-    "cause": "https://forum.griefergames.de/forum/thread/468106-mehrfaches-scammen-im-ah/",
-    "entryCreatedAt": "2024-12-30T04:53:24.756706482",
-    "entryUpdatedAt": "2024-12-30T04:53:24.756726739",
-    "expiryDays": 180
-  },
-  {
     "uuid": "76a2d72a-410f-42b2-8cdb-268094528d70",
     "name": "Fiery__Angel",
     "cause": "https://forum.griefergames.de/forum/thread/480311-fiery-angel-scammt-um-275k-fake-kristalle-fragment-im-ah/",
@@ -472,22 +464,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "a530766d-e677-4d7f-b289-45381c02e667",
-    "name": "SauIGodmann",
-    "cause": "https://forum.griefergames.de/forum/thread/467807-gescammt-um-10k/",
-    "entryCreatedAt": "2024-12-30T04:53:59.516620748",
-    "entryUpdatedAt": "2024-12-30T04:53:59.516625312",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "a6568482-7245-4b7f-ba3d-54847f3d9c7f",
-    "name": "scurgebtw",
-    "cause": "https://forum.griefergames.de/forum/thread/467963-ronniemcdog-scammt-um-20k-und-kopf/",
-    "entryCreatedAt": "2024-12-30T04:55:11.109070856",
-    "entryUpdatedAt": "2025-01-28T16:10:26.033268275",
-    "expiryDays": 180
-  },
-  {
     "uuid": "a7341b75-cfe2-49c5-b9a8-3405566e1df0",
     "name": "BPLuca",
     "cause": "https://beweise.community-radar.de/",
@@ -581,14 +557,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/472050-240-mio-scamm-von-zgonii-bonze-2025/",
     "entryCreatedAt": "2025-02-12T21:41:54.351585346",
     "entryUpdatedAt": "2025-05-30T15:11:49.172322729",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "cc457d85-e398-47c9-abd6-9c709b5dfdbe",
-    "name": "_Empi",
-    "cause": "https://forum.griefergames.de/forum/thread/467943-empi-stellt-fake-items-ins-ah/",
-    "entryCreatedAt": "2024-12-30T04:54:34.288361036",
-    "entryUpdatedAt": "2024-12-30T04:54:34.288371741",
     "expiryDays": 180
   },
   {
