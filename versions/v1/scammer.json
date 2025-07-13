@@ -80,6 +80,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2f335e68-1172-40b2-a041-6ff37913520f",
+    "name": "Malishu",
+    "cause": "https://forum.griefergames.de/forum/thread/480865-fake-item-im-ah/?postID\u003d4542415#post4542415",
+    "entryCreatedAt": "2025-07-13T20:26:24.722429743",
+    "entryUpdatedAt": "2025-07-13T20:26:24.722434385",
+    "expiryDays": 180
+  },
+  {
     "uuid": "303bb0e4-8011-309f-bd48-656bf29b5023",
     "name": "!GnarlyColt65418",
     "cause": "https://forum.griefergames.de/forum/thread/479209-gnarlycolt65418-fake-prefix-ah/",
