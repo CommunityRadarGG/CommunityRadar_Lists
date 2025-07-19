@@ -384,14 +384,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "9beef76a-d3cf-4798-9d8a-5d10264f21d1",
-    "name": "eruaaaa",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2025-01-20T18:33:20.532796203",
-    "entryUpdatedAt": "2025-01-20T18:33:20.532797455",
-    "expiryDays": 180
-  },
-  {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
     "cause": "https://forum.griefergames.de/forum/thread/475167-um-700k-gescammt-von-das-baum/",
@@ -429,14 +421,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/476470-scamming-um-50-euro-shopguthaben/",
     "entryCreatedAt": "2025-04-19T17:28:44.659469092",
     "entryUpdatedAt": "2025-04-19T17:28:44.659480108",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "ab61042f-4775-415a-a847-a4ec69b2ca75",
-    "name": "Kamerad_Fritz",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2025-01-20T18:30:16.694556041",
-    "entryUpdatedAt": "2025-01-20T18:30:16.694557598",
     "expiryDays": 180
   },
   {
@@ -653,14 +637,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/475973-nutzercaps-scammt-um-60m/",
     "entryCreatedAt": "2025-05-14T08:26:15.040694082",
     "entryUpdatedAt": "2025-05-14T08:26:15.040745106",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "fb44137a-9212-4557-a5cc-b31d4d074b89",
-    "name": "MaggiFixTuette",
-    "cause": "https://forum.griefergames.de/forum/thread/470026-raais-aka-masari45-scammt-um-16-mio/",
-    "entryCreatedAt": "2025-01-20T18:32:01.928050687",
-    "entryUpdatedAt": "2025-02-21T01:24:35.835987882",
     "expiryDays": 180
   },
   {
