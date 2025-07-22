@@ -152,14 +152,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "3328aa28-d229-4c98-9388-6e13ca9e0623",
-    "name": "Toni_der_Erste",
-    "cause": "CB1",
-    "entryCreatedAt": "2024-07-24T22:25:09.283096059",
-    "entryUpdatedAt": "2024-07-24T22:25:09.283106771",
-    "expiryDays": -1
-  },
-  {
     "uuid": "33299d1c-d549-4dff-947b-9289d80d3f5c",
     "name": "AlmazXx",
     "cause": "CBE",
@@ -213,6 +205,14 @@
     "cause": "CB16",
     "entryCreatedAt": "2025-05-26T23:26:57.420821474",
     "entryUpdatedAt": "2025-05-26T23:26:57.420834441",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "45838f79-78d4-4e85-a5d8-d0a73319548a",
+    "name": "Niki1324",
+    "cause": "CB2",
+    "entryCreatedAt": "2025-07-22T22:19:11.340461987",
+    "entryUpdatedAt": "2025-07-22T22:19:11.340465509",
     "expiryDays": -1
   },
   {
@@ -325,14 +325,6 @@
     "cause": "CB12",
     "entryCreatedAt": "2024-05-26T11:42:22.57248602",
     "entryUpdatedAt": "2024-05-26T11:42:22.572497862",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "722d6587-853b-48c3-bfcb-f61e5c691c83",
-    "name": "xTerrahn",
-    "cause": "CB15",
-    "entryCreatedAt": "2024-05-27T00:00:49.567181619",
-    "entryUpdatedAt": "2024-05-27T00:00:49.567191408",
     "expiryDays": -1
   },
   {
@@ -693,6 +685,14 @@
     "cause": "Cloud",
     "entryCreatedAt": "2025-05-04T20:26:50.810902084",
     "entryUpdatedAt": "2025-05-04T20:26:50.810984234",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "f774dd34-3962-40ec-8771-a6ead3797f5b",
+    "name": "Eulehund99",
+    "cause": "CB3",
+    "entryCreatedAt": "2025-07-22T22:19:45.290108753",
+    "entryUpdatedAt": "2025-07-22T22:19:45.290110683",
     "expiryDays": -1
   },
   {
