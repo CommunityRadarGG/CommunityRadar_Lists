@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "0037ba44-a7ab-4dc3-ba0c-757db0cf595b",
+    "name": "Magicmatze86",
+    "note": "CB2",
+    "createdAt": "2025-07-22T21:09:04.07327927",
+    "updatedAt": "2025-07-22T21:09:04.073282542",
+    "duration": -1
+  },
+  {
     "uuid": "01e57c1f-79bc-4eed-915d-019b59dedd2c",
     "name": "Maverick92",
     "note": "CB6",
@@ -61,6 +69,14 @@
     "note": "CB1",
     "createdAt": "2024-05-26T11:21:31.485784319",
     "updatedAt": "2024-05-26T11:21:31.485795681",
+    "duration": -1
+  },
+  {
+    "uuid": "0f04e498-4e1b-4fda-a5b2-476c86190fb6",
+    "name": "Schmorbiii",
+    "note": "CB1",
+    "createdAt": "2025-07-22T21:35:38.264293839",
+    "updatedAt": "2025-07-22T21:35:38.264296677",
     "duration": -1
   },
   {
@@ -280,6 +296,14 @@
     "duration": -1
   },
   {
+    "uuid": "66b74f63-1f86-491f-8e73-61ce77afd514",
+    "name": "Papa_Abge",
+    "note": "CB1",
+    "createdAt": "2025-07-22T21:09:42.609350998",
+    "updatedAt": "2025-07-22T21:09:42.609354674",
+    "duration": -1
+  },
+  {
     "uuid": "679fbe55-e716-4db9-81a5-b27d18d9fd67",
     "name": "SuperFlummi",
     "note": "-1",
@@ -400,6 +424,14 @@
     "duration": -1
   },
   {
+    "uuid": "8c0b90b9-c931-4be9-a3ea-cd64394e0a36",
+    "name": "Dramonius",
+    "note": "CB2",
+    "createdAt": "2025-07-22T21:07:52.099319899",
+    "updatedAt": "2025-07-22T21:07:52.099323062",
+    "duration": -1
+  },
+  {
     "uuid": "8e9c10de-c4f2-45b6-8219-d794d942779d",
     "name": "x_Fighterboy_x",
     "note": "CB13",
@@ -456,11 +488,27 @@
     "duration": -1
   },
   {
+    "uuid": "ad8083fe-506a-42c9-a0a0-f2a87d35e65b",
+    "name": "Linkin55O",
+    "note": "Cloud",
+    "createdAt": "2025-07-22T21:11:11.616043081",
+    "updatedAt": "2025-07-22T21:11:11.616045225",
+    "duration": -1
+  },
+  {
     "uuid": "ae01c6b4-e5c7-4b8f-8798-8927118ca289",
     "name": "ImnotFishii",
     "note": "CB5",
     "createdAt": "2025-05-26T23:29:05.179025822",
     "updatedAt": "2025-05-26T23:29:05.179036081",
+    "duration": -1
+  },
+  {
+    "uuid": "ae429973-a1ca-4438-a1f2-57732c74ccfa",
+    "name": "Leqit_Veltix",
+    "note": "CB2",
+    "createdAt": "2025-07-22T21:08:17.296663906",
+    "updatedAt": "2025-07-22T21:08:17.296665546",
     "duration": -1
   },
   {
@@ -501,6 +549,14 @@
     "note": "CB2",
     "createdAt": "2025-02-08T16:54:27.154302542",
     "updatedAt": "2025-02-08T16:54:27.154377936",
+    "duration": -1
+  },
+  {
+    "uuid": "bbf7dce7-0b66-46c0-99ad-178b08dde0e8",
+    "name": "xGeniex",
+    "note": "Cloud",
+    "createdAt": "2025-07-22T21:10:38.803030186",
+    "updatedAt": "2025-07-22T21:10:38.803031972",
     "duration": -1
   },
   {
@@ -581,6 +637,14 @@
     "note": "CB22",
     "createdAt": "2024-05-27T00:02:21.750761559",
     "updatedAt": "2024-05-27T00:02:21.750782008",
+    "duration": -1
+  },
+  {
+    "uuid": "e51d1ac5-a54b-437d-bc78-3201ebf6519e",
+    "name": "passiver",
+    "note": "CB22",
+    "createdAt": "2025-07-22T21:10:17.295968585",
+    "updatedAt": "2025-07-22T21:10:17.295970888",
     "duration": -1
   },
   {
