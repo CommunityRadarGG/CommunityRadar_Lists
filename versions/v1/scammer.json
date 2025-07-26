@@ -208,6 +208,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "42ac9635-5159-483f-80a3-6e9d2b8cd7e3",
+    "name": "27568",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-07-27T00:58:51.423383459",
+    "entryUpdatedAt": "2025-07-27T00:58:51.423386264",
+    "expiryDays": 180
+  },
+  {
     "uuid": "4dd583ae-3374-4265-826d-e2c85de8152e",
     "name": "KistenKobold",
     "cause": "https://forum.griefergames.de/forum/thread/473544-kistenkobold-scammt-um-40-mio-und-andere-um-spawn-gs-und-150-mio/",
@@ -365,6 +373,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/474307-poweremilie-fake-supreme-item/",
     "entryCreatedAt": "2025-03-18T00:40:47.98554548",
     "entryUpdatedAt": "2025-03-18T00:40:47.98557239",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "920e849f-737d-4c2e-8566-0dd9a13b122d",
+    "name": "nichsogut",
+    "cause": "https://forum.griefergames.de/forum/thread/481842-nichsogut-50k-scam/",
+    "entryCreatedAt": "2025-07-27T00:59:35.467724218",
+    "entryUpdatedAt": "2025-07-27T00:59:35.467726478",
     "expiryDays": 180
   },
   {
@@ -589,6 +605,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/473370-shawtyalina-tpahere-scammer/",
     "entryCreatedAt": "2025-03-04T15:45:15.127689087",
     "entryUpdatedAt": "2025-03-04T15:45:15.127690868",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "e4031fbc-6c9c-410d-8500-86cadb9f8f1a",
+    "name": "Bob2Fishing",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-07-27T00:41:48.028645397",
+    "entryUpdatedAt": "2025-07-27T00:41:48.028647956",
     "expiryDays": 180
   },
   {
