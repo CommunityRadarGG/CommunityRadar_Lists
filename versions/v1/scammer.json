@@ -176,14 +176,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "3cbca52c-bb3e-457c-92ca-664e3e51c43e",
-    "name": "V1perOnStation",
-    "cause": "https://forum.griefergames.de/forum/thread/470806-v1peronstation-scammt-um-25k/",
-    "entryCreatedAt": "2025-02-04T20:57:00.527772631",
-    "entryUpdatedAt": "2025-02-04T20:57:00.527773751",
-    "expiryDays": 180
-  },
-  {
     "uuid": "3d869ba0-1f41-4e43-a76a-1bd188fa0917",
     "name": "1Utek",
     "cause": "https://forum.griefergames.de/forum/thread/479452-1utek-verkauft-doppel-blau-fake-item-im-ah/",
@@ -416,14 +408,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "9603c4ba-ad3d-4b6e-9bd7-d0294dba7796",
-    "name": "wariusswarcraft",
-    "cause": "https://forum.griefergames.de/forum/thread/471019-wariusswarcraft-aka-tm-wariussw/",
-    "entryCreatedAt": "2025-02-04T20:57:27.537465621",
-    "entryUpdatedAt": "2025-05-06T22:17:40.180603647",
-    "expiryDays": 180
-  },
-  {
     "uuid": "9a115ee3-904c-4407-8b96-d7cec4a98ce9",
     "name": "MisterGodz",
     "cause": "https://beweise.community-radar.de/",
@@ -437,14 +421,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/475167-um-700k-gescammt-von-das-baum/",
     "entryCreatedAt": "2025-04-02T11:44:43.821711085",
     "entryUpdatedAt": "2025-05-11T10:33:04.425601594",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "9f454163-831d-40d4-a19e-55c2a2cf259c",
-    "name": "Graf_Stelz",
-    "cause": "https://forum.griefergames.de/forum/thread/471232-graf-stelz-scammt-um-16-schwarze-lb-on-stream/",
-    "entryCreatedAt": "2025-02-04T20:56:36.020658054",
-    "entryUpdatedAt": "2025-02-04T20:56:36.020659972",
     "expiryDays": 180
   },
   {
@@ -517,14 +493,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/478358-blackjack-scamm-um-1-mio-videobeweis-12berliner/",
     "entryCreatedAt": "2025-05-20T21:52:34.361365627",
     "entryUpdatedAt": "2025-05-20T21:52:34.361395208",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "c45f9654-3dbb-4e4a-8eaa-e6d1e4213797",
-    "name": "1Obito",
-    "cause": "https://forum.griefergames.de/forum/thread/471206-wurde-um-schlappe-21mio-gescammt-d/",
-    "entryCreatedAt": "2025-02-04T20:56:05.941219199",
-    "entryUpdatedAt": "2025-02-05T17:31:30.731737001",
     "expiryDays": 180
   },
   {
@@ -621,22 +589,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/476730-boergnes/",
     "entryCreatedAt": "2025-04-24T20:31:22.199461341",
     "entryUpdatedAt": "2025-04-24T20:31:22.199545333",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "df5fddc7-17ef-4dec-b95b-702e9f48b295",
-    "name": "PlayBoyJonas",
-    "cause": "https://forum.griefergames.de/forum/thread/470872-auaaaa-scammt-mich-maarius-um-1-68mio-5-stack-beacons/",
-    "entryCreatedAt": "2025-02-04T20:54:58.206607891",
-    "entryUpdatedAt": "2025-06-03T11:40:21.570587033",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "e0e590a9-6f73-41c6-91fb-65c1ec4d89b1",
-    "name": "LennoxMcDonalds",
-    "cause": "https://forum.griefergames.de/forum/thread/470882-meekfeek-scammt-um-32-becons/",
-    "entryCreatedAt": "2025-02-04T20:55:38.676812409",
-    "entryUpdatedAt": "2025-06-22T01:42:39.335434269",
     "expiryDays": 180
   },
   {
