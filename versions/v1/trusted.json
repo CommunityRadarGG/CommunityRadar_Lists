@@ -112,14 +112,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "218103d9-b278-4aff-8a9f-2e9ab1efd6aa",
-    "name": "GGN_Yoghurtdrink",
-    "cause": "CB10",
-    "entryCreatedAt": "2025-06-20T21:02:48.247052713",
-    "entryUpdatedAt": "2025-06-20T21:02:48.247249668",
-    "expiryDays": -1
-  },
-  {
     "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
     "name": "MR_Mettigel",
     "cause": "CB9",
