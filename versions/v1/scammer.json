@@ -48,6 +48,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1bce5488-bd99-48d9-8a50-55de9ec46b8a",
+    "name": "Zornbote",
+    "cause": "https://forum.griefergames.de/forum/thread/480672-30mio-scamm-achtung-vor-lugiuss-gyomber301-squexderflipflop/",
+    "entryCreatedAt": "2025-08-23T22:37:35.05281637",
+    "entryUpdatedAt": "2025-08-23T22:37:35.052825951",
+    "expiryDays": 180
+  },
+  {
     "uuid": "23eb685c-ac4a-4851-a88e-681b0e63959c",
     "name": "bekriegen",
     "cause": "https://forum.griefergames.de/forum/thread/476054-luc1306tv-jetzt-bekriegen-scammt-um-schulden/",
@@ -613,6 +621,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/475146-1baumm-wurde-von-uxaxe-gescammt-um-250k/",
     "entryCreatedAt": "2025-04-02T11:43:42.666349644",
     "entryUpdatedAt": "2025-05-05T19:43:14.077401275",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f5fa2565-e0a3-4ff9-98ec-dc174af7f5b2",
+    "name": "EineMaschine",
+    "cause": "https://forum.griefergames.de/forum/thread/483106-einemaschine-scam-2-5-mio/",
+    "entryCreatedAt": "2025-08-23T22:42:23.216730296",
+    "entryUpdatedAt": "2025-08-23T22:42:23.216733738",
     "expiryDays": 180
   },
   {
