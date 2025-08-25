@@ -114,9 +114,9 @@
   {
     "uuid": "3056f1c7-0b06-462f-a67a-e95a98954bc4",
     "name": "Luc1941",
-    "cause": "https://forum.griefergames.de/forum/thread/482953-luc1941-scammt-mit-auktionshaus-fake-items/",
-    "entryCreatedAt": "2025-08-19T17:11:47.622579704",
-    "entryUpdatedAt": "2025-08-19T17:11:47.622653523",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-08-25T15:58:16.798153224",
+    "entryUpdatedAt": "2025-08-25T15:58:16.798157566",
     "expiryDays": 180
   },
   {
@@ -245,6 +245,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/473544-kistenkobold-scammt-um-40-mio-und-andere-um-spawn-gs-und-150-mio/",
     "entryCreatedAt": "2025-03-05T21:08:39.628729519",
     "entryUpdatedAt": "2025-03-05T21:08:39.628731044",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "4ff7db5d-eed2-47ba-a37d-3df1c98da1fc",
+    "name": "LozeTTV",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-08-25T16:00:52.8982327",
+    "entryUpdatedAt": "2025-08-25T16:00:52.898235384",
     "expiryDays": 180
   },
   {
@@ -389,6 +397,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/482601-zsaskey-scammt-mit-fake-money/",
     "entryCreatedAt": "2025-08-10T22:11:43.196325195",
     "entryUpdatedAt": "2025-08-10T22:11:43.196327791",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "92db7cc0-8215-4341-88db-2060982b745c",
+    "name": "skinnyCHAINS",
+    "cause": "https://forum.griefergames.de/forum/thread/483241-fake-supreme-item/",
+    "entryCreatedAt": "2025-08-25T16:01:58.991233429",
+    "entryUpdatedAt": "2025-08-25T16:01:58.991236011",
     "expiryDays": 180
   },
   {
