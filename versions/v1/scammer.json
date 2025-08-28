@@ -552,6 +552,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d1efc9fd-9105-4682-8bf4-4bd2406f3a14",
+    "name": "Server_data",
+    "cause": "https://forum.griefergames.de/forum/thread/483371-server-data-scamm-um-75m/",
+    "entryCreatedAt": "2025-08-28T00:11:03.027427062",
+    "entryUpdatedAt": "2025-08-28T00:11:03.027442126",
+    "expiryDays": 180
+  },
+  {
     "uuid": "d307f653-a9ae-302b-a2d2-ab7f1fa93f68",
     "name": "!SummerCard08714",
     "cause": "https://forum.griefergames.de/forum/thread/474287-summercard08714/",
