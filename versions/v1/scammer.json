@@ -24,6 +24,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0b94f4e3-2f1a-45ad-9ea1-d2b83e881783",
+    "name": "7Kristalle",
+    "cause": "https://forum.griefergames.de/forum/thread/483503-7kristalle-scammt-um-3-mio/",
+    "entryCreatedAt": "2025-09-05T17:40:23.681475401",
+    "entryUpdatedAt": "2025-09-05T17:40:23.681566573",
+    "expiryDays": 180
+  },
+  {
     "uuid": "1782d4fa-ed2a-4b36-822c-38cc19f37dae",
     "name": "verhxsster",
     "cause": "https://forum.griefergames.de/forum/thread/474085-getriggerter-fakesupreme-rang/",
@@ -477,6 +485,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-05-29T18:02:12.335133924",
     "entryUpdatedAt": "2025-05-29T18:02:12.335182094",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a8a6b046-b6d2-49aa-9f4b-65c820166fef",
+    "name": "ArgyFlare",
+    "cause": "https://forum.griefergames.de/forum/thread/483704-argyflare-scammt/",
+    "entryCreatedAt": "2025-09-05T17:40:54.575572851",
+    "entryUpdatedAt": "2025-09-05T17:40:54.575586202",
     "expiryDays": 180
   },
   {
