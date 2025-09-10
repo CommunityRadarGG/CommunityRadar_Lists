@@ -1,13 +1,5 @@
 [
   {
-    "uuid": "03c7b102-021c-4669-babe-039b01222fbc",
-    "name": "WodkaUranov",
-    "cause": "https://forum.griefergames.de/forum/thread/473978-wodkauranov-scammt-live-im-stream/",
-    "entryCreatedAt": "2025-03-14T21:29:21.115708603",
-    "entryUpdatedAt": "2025-03-14T21:29:21.115710114",
-    "expiryDays": 180
-  },
-  {
     "uuid": "06945fba-7714-4dad-963c-0aa4e5bcab8f",
     "name": "Kebab072",
     "cause": "https://forum.griefergames.de/forum/thread/478964-kebab072-scammt-1-degg-um-25k/",
@@ -29,14 +21,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/483503-7kristalle-scammt-um-3-mio/",
     "entryCreatedAt": "2025-09-05T17:40:23.681475401",
     "entryUpdatedAt": "2025-09-05T17:40:23.681566573",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "1782d4fa-ed2a-4b36-822c-38cc19f37dae",
-    "name": "verhxsster",
-    "cause": "https://forum.griefergames.de/forum/thread/474085-getriggerter-fakesupreme-rang/",
-    "entryCreatedAt": "2025-03-14T21:21:57.460924493",
-    "entryUpdatedAt": "2025-03-23T10:15:29.258597723",
     "expiryDays": 180
   },
   {
@@ -533,14 +517,6 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-07-06T17:17:10.555231623",
     "entryUpdatedAt": "2025-07-06T17:17:10.555257969",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "af5268dd-6f86-4a0f-b775-ebb15feb5fb3",
-    "name": "Cetasko",
-    "cause": "https://forum.griefergames.de/forum/thread/474128-heltictm-fakesupreme-rang/",
-    "entryCreatedAt": "2025-03-14T21:18:37.205452271",
-    "entryUpdatedAt": "2025-03-14T21:18:37.205454145",
     "expiryDays": 180
   },
   {
