@@ -576,6 +576,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "ccbdb69b-6edd-4ce9-8898-cb2c75508396",
+    "name": "mainMap",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-09-15T19:27:17.695154862",
+    "entryUpdatedAt": "2025-09-15T19:27:17.695207971",
+    "expiryDays": 180
+  },
+  {
     "uuid": "cd9c2d82-deca-4b52-8d6d-3995049db48d",
     "name": "NinjaCookie2600",
     "cause": "https://forum.griefergames.de/forum/thread/479626-ninjacookie2600-scammt-um-44-spawner-und-22-kaninchen-eggs/",
