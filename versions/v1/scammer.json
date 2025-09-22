@@ -472,6 +472,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "9df47261-8d7e-4d76-83a8-c928250a0fb6",
+    "name": "OachlPlz92",
+    "cause": "https://forum.griefergames.de/forum/thread/484302-oachlplz92-scammt-um-20-500/",
+    "entryCreatedAt": "2025-09-22T12:33:58.712762056",
+    "entryUpdatedAt": "2025-09-22T12:33:58.712772361",
+    "expiryDays": 180
+  },
+  {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
     "cause": "https://forum.griefergames.de/forum/thread/475167-um-700k-gescammt-von-das-baum/",
@@ -597,6 +605,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/483371-server-data-scamm-um-75m/",
     "entryCreatedAt": "2025-08-28T00:11:03.027427062",
     "entryUpdatedAt": "2025-08-28T00:11:03.027442126",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d2541b5d-e403-4070-be8a-e24c0c4cda7d",
+    "name": "ByLevinGHG",
+    "cause": "https://forum.griefergames.de/forum/thread/484303-bylevinghg-scammt-um-70k/",
+    "entryCreatedAt": "2025-09-22T12:33:00.486305885",
+    "entryUpdatedAt": "2025-09-22T12:33:00.486332572",
     "expiryDays": 180
   },
   {
