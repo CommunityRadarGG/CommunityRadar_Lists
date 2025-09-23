@@ -648,6 +648,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d8868234-d715-3b72-825d-3acbbf214da3",
+    "name": "!MiniTobias2041",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-09-23T20:38:00.680703501",
+    "entryUpdatedAt": "2025-09-23T20:38:00.680865017",
+    "expiryDays": 180
+  },
+  {
     "uuid": "deb85917-4875-47ba-aaba-164f543a1972",
     "name": "Boergnes",
     "cause": "https://forum.griefergames.de/forum/thread/476730-boergnes/",
