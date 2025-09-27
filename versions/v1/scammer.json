@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "103fe7fe-44ab-4c1b-9cf1-ce926db79f8c",
+    "name": "yukozmc",
+    "cause": "https://forum.griefergames.de/forum/thread/484537-mrsigma007-scammt-ph-falle/",
+    "entryCreatedAt": "2025-09-27T00:26:01.555589958",
+    "entryUpdatedAt": "2025-09-27T00:26:01.555603891",
+    "expiryDays": 180
+  },
+  {
     "uuid": "18819ce3-1fb2-3aa3-89da-0f310618c52b",
     "name": "!Gnkk+Goat",
     "cause": "https://beweise.community-radar.de/",
@@ -336,6 +344,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "75b1c097-962a-48ec-b45e-818659e6a9cd",
+    "name": "InK0mpetent",
+    "cause": "https://forum.griefergames.de/forum/thread/484545-ink0mpetent-scammt-um-280k/",
+    "entryCreatedAt": "2025-09-27T00:25:07.553927162",
+    "entryUpdatedAt": "2025-09-27T00:25:07.553936926",
+    "expiryDays": 180
+  },
+  {
     "uuid": "76a2d72a-410f-42b2-8cdb-268094528d70",
     "name": "Gelber_Phoenix",
     "cause": "https://forum.griefergames.de/forum/thread/480311-fiery-angel-scammt-um-275k-fake-kristalle-fragment-im-ah/",
@@ -629,6 +645,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/484054-1panda9-scammt-um-1-000-000/",
     "entryCreatedAt": "2025-09-14T12:14:42.670346475",
     "entryUpdatedAt": "2025-09-14T12:14:42.670361234",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d34c366a-f9a1-45d5-8ff4-df379906ee33",
+    "name": "MrSigma007",
+    "cause": "https://forum.griefergames.de/forum/thread/484537-mrsigma007-scammt-ph-falle/",
+    "entryCreatedAt": "2025-09-27T00:24:22.803145815",
+    "entryUpdatedAt": "2025-09-27T00:24:22.803157593",
     "expiryDays": 180
   },
   {
