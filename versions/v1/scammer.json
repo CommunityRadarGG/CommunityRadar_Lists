@@ -352,6 +352,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "6ff73979-f361-4331-b5e2-ffaf7de2eadf",
+    "name": "UrpilZ",
+    "cause": "https://forum.griefergames.de/forum/thread/484834-scammer-warnung-gegen-urpilz/",
+    "entryCreatedAt": "2025-10-04T19:03:45.722713717",
+    "entryUpdatedAt": "2025-10-04T19:03:45.722866279",
+    "expiryDays": 180
+  },
+  {
     "uuid": "704d5523-3148-48a3-a0b3-4096c978b44a",
     "name": "erzeDotCom",
     "cause": "https://beweise.community-radar.de",
