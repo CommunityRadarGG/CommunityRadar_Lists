@@ -136,6 +136,14 @@
     "duration": 180
   },
   {
+    "uuid": "2d08c994-12a0-33d8-a6fa-1319a9f56144",
+    "name": "!HoseGreif449419",
+    "note": "https://beweise.community-radar.de",
+    "createdAt": "2025-10-05T23:18:27.224762945",
+    "updatedAt": "2025-10-05T23:18:27.22478025",
+    "duration": 180
+  },
+  {
     "uuid": "2d5f0703-082a-3e95-89d9-1a5ea32e49fc",
     "name": "!TitanThanos333",
     "note": "https://forum.griefergames.de/forum/thread/479601-titantahnos333-scammt-um-2-spawner/?postID\u003d4527581#post4527581",
@@ -277,6 +285,14 @@
     "note": "https://beweise.community-radar.de/",
     "createdAt": "2025-07-27T00:58:51.423383459",
     "updatedAt": "2025-07-27T00:58:51.423386264",
+    "duration": 180
+  },
+  {
+    "uuid": "44294cc9-7f28-4d3f-a7df-e1e142876caa",
+    "name": "Marvin55",
+    "note": "https://forum.griefergames.de/forum/thread/484895-marvin55-scamt-um-13-2k-um-ep-rahmen/",
+    "createdAt": "2025-10-05T21:41:00.515718282",
+    "updatedAt": "2025-10-05T21:41:00.515726458",
     "duration": 180
   },
   {
@@ -520,6 +536,14 @@
     "duration": 90
   },
   {
+    "uuid": "9628fbc5-a0c1-4651-bd04-7c2e15caeb96",
+    "name": "XautismuskurtX",
+    "note": "https://forum.griefergames.de/forum/thread/484936-scammerwarnung-user-xautismuskurtx/",
+    "createdAt": "2025-10-05T21:37:08.742239335",
+    "updatedAt": "2025-10-05T21:37:08.742254345",
+    "duration": 180
+  },
+  {
     "uuid": "962fbbbd-61a4-45ff-9599-89bc456641d5",
     "name": "StillTheGreatest",
     "note": "https://forum.griefergames.de/forum/thread/484050-stillthegreatest-scammt-um-270k/",
@@ -632,11 +656,27 @@
     "duration": 180
   },
   {
+    "uuid": "b0821815-aba6-4e2f-84fb-b11777f59aa4",
+    "name": "Kurumi7016",
+    "note": "https://forum.griefergames.de/forum/thread/484961-kurumi7016-scammt-um-300mio/",
+    "createdAt": "2025-10-05T21:31:25.586291696",
+    "updatedAt": "2025-10-05T21:31:25.586322462",
+    "duration": 180
+  },
+  {
     "uuid": "ba984a4e-1714-4808-9346-b5bd6c0c06e8",
     "name": "Chrizz42MC",
     "note": "https://forum.griefergames.de/forum/thread/484614-chrizz42mc-scammt-um-160-000/",
     "createdAt": "2025-09-28T00:42:38.799938308",
     "updatedAt": "2025-09-28T00:42:38.799945923",
+    "duration": 180
+  },
+  {
+    "uuid": "bee09641-d53b-3519-acde-b37bd5f5c513",
+    "name": "!EliPro662313",
+    "note": "https://beweise.community-radar.de",
+    "createdAt": "2025-10-05T23:17:37.029730333",
+    "updatedAt": "2025-10-05T23:17:37.02982321",
     "duration": 180
   },
   {
@@ -821,6 +861,14 @@
     "note": "https://beweise.community-radar.de/",
     "createdAt": "2025-09-30T22:36:25.262307786",
     "updatedAt": "2025-09-30T22:36:25.262310056",
+    "duration": 180
+  },
+  {
+    "uuid": "ff144db5-ba68-47d1-b60d-be292334ec23",
+    "name": "WirdNichtGeladen",
+    "note": "https://forum.griefergames.de/forum/thread/484787-warnung-gegen-wirdnichtgeladen/?postID\u003d4584772#post4584772",
+    "createdAt": "2025-10-05T21:38:03.764908609",
+    "updatedAt": "2025-10-05T21:38:03.764921175",
     "duration": 180
   }
 ]
