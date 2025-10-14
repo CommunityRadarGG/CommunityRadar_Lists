@@ -742,5 +742,13 @@
     "entryCreatedAt": "2024-08-26T20:58:24.11016553",
     "entryUpdatedAt": "2024-08-26T20:58:24.110168174",
     "expiryDays": -1
+  },
+  {
+    "uuid": "fd866908-e611-43db-8679-48ead0c23e91",
+    "name": "FAL_Vinni_",
+    "cause": "CB1",
+    "entryCreatedAt": "2025-10-14T19:11:42.818363047",
+    "entryUpdatedAt": "2025-10-14T19:11:42.818438269",
+    "expiryDays": -1
   }
 ]
