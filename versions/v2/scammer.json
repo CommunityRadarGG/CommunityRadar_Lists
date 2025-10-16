@@ -264,6 +264,14 @@
     "duration": 180
   },
   {
+    "uuid": "3e9a8049-ece7-4a58-9305-d273900f0e43",
+    "name": "7drox",
+    "note": "https://www.youtube.com/watch?v\u003dstAspMfnQ9M",
+    "createdAt": "2025-10-16T06:29:36.59610299",
+    "updatedAt": "2025-10-16T06:29:36.596112233",
+    "duration": 180
+  },
+  {
     "uuid": "3ebbedd2-2b66-4123-8e75-d1e6c516cf74",
     "name": "Axtari",
     "note": "https://forum.griefergames.de/forum/thread/481796-axtari-mit-fake-perk-im-ah",
@@ -565,6 +573,14 @@
     "note": "https://forum.griefergames.de/forum/thread/484050-stillthegreatest-scammt-um-270k/",
     "createdAt": "2025-09-14T11:45:53.779993557",
     "updatedAt": "2025-09-14T11:45:53.780003315",
+    "duration": 180
+  },
+  {
+    "uuid": "966e7c53-3d7c-47da-ad07-579dd8429224",
+    "name": "Der_M4r4bu",
+    "note": "https://forum.griefergames.de/forum/thread/485402-peinlicher-scam",
+    "createdAt": "2025-10-16T06:29:13.015958445",
+    "updatedAt": "2025-10-16T06:29:13.015991305",
     "duration": 180
   },
   {
@@ -893,6 +909,14 @@
     "note": "https://beweise.community-radar.de/",
     "createdAt": "2025-09-28T00:44:09.710110821",
     "updatedAt": "2025-09-28T00:44:09.710116805",
+    "duration": 180
+  },
+  {
+    "uuid": "fd77ec2c-adc8-3c41-8ec9-ef9044809401",
+    "name": "!dieyxung",
+    "note": "https://forum.griefergames.de/forum/thread/485361-dieyxung-scammt-um-500-000/",
+    "createdAt": "2025-10-16T06:27:44.674630877",
+    "updatedAt": "2025-10-16T06:27:44.674712855",
     "duration": 180
   },
   {
