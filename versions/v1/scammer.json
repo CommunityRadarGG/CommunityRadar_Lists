@@ -704,14 +704,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "b0821815-aba6-4e2f-84fb-b11777f59aa4",
-    "name": "pain2rain",
-    "cause": "https://forum.griefergames.de/forum/thread/484961-kurumi7016-scammt-um-300mio/",
-    "entryCreatedAt": "2025-10-05T21:31:25.586291696",
-    "entryUpdatedAt": "2025-10-12T19:29:45.506886848",
-    "expiryDays": 180
-  },
-  {
     "uuid": "ba984a4e-1714-4808-9346-b5bd6c0c06e8",
     "name": "Chrizz42MC",
     "cause": "https://forum.griefergames.de/forum/thread/484614-chrizz42mc-scammt-um-160-000/",
@@ -845,6 +837,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-10-14T21:00:19.042844657",
     "entryUpdatedAt": "2025-10-14T21:00:19.042924025",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f5ec4946-97a7-3aa9-9e7f-b5b661b36a58",
+    "name": "!Phantomrawy",
+    "cause": "https://forum.griefergames.de/forum/thread/485600-phantomrawy-scammt-um-2-640/",
+    "entryCreatedAt": "2025-10-19T19:50:46.090624679",
+    "entryUpdatedAt": "2025-10-19T19:50:46.090717919",
     "expiryDays": 180
   },
   {
