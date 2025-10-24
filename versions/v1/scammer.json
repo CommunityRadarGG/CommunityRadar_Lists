@@ -320,6 +320,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "4b45ab08-0d9b-477d-9c28-bccca04ba271",
+    "name": "Mflash09",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-10-24T23:40:28.064501091",
+    "entryUpdatedAt": "2025-10-24T23:40:28.064545242",
+    "expiryDays": 180
+  },
+  {
     "uuid": "4fd3d821-a610-3ad2-babc-c28ffa86f097",
     "name": "!OxKxAxN",
     "cause": "https://forum.griefergames.de/forum/thread/485164-oxkxaxn-scammt-um-290k/",
@@ -352,6 +360,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "585f228a-12f7-405d-b612-591544cec3ef",
+    "name": "HamudeLP",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-10-24T23:41:20.580030095",
+    "entryUpdatedAt": "2025-10-24T23:41:20.580041479",
+    "expiryDays": 180
+  },
+  {
     "uuid": "5b90658a-7697-4ad9-9984-64138db90ab3",
     "name": "Live2_ItzTim",
     "cause": "https://forum.griefergames.de/forum/thread/483002-live2-itztim-scamming-um-schulden-5mio-11-5mio/?postID\u003d4565678#post4565678",
@@ -381,6 +397,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/484616-pofyhase-scammt-um-1-100-000/",
     "entryCreatedAt": "2025-09-28T00:43:21.883314126",
     "entryUpdatedAt": "2025-09-28T00:43:21.883320027",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "69a2adf8-774a-3295-af8d-8207135c3f76",
+    "name": "!GibMalPeps",
+    "cause": "https://forum.griefergames.de/forum/thread/485725-gibmalpeps-verkauft-fake-supreme-rang-item/",
+    "entryCreatedAt": "2025-10-24T23:42:04.906855808",
+    "entryUpdatedAt": "2025-10-24T23:42:04.906868236",
     "expiryDays": 180
   },
   {
@@ -497,10 +521,10 @@
   },
   {
     "uuid": "82d5ab65-9c11-491f-9c52-57d5ae6085f7",
-    "name": "V3rstrahlter",
+    "name": "Handelsman",
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-10-14T21:01:25.045762439",
-    "entryUpdatedAt": "2025-10-14T21:01:25.045834556",
+    "entryUpdatedAt": "2025-10-25T00:17:18.227312031",
     "expiryDays": 180
   },
   {
@@ -733,6 +757,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/479626-ninjacookie2600-scammt-um-44-spawner-und-22-kaninchen-eggs/",
     "entryCreatedAt": "2025-06-13T20:46:33.440756836",
     "entryUpdatedAt": "2025-06-13T20:46:33.440769434",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "cf4492fc-e6e2-4a99-8661-314f14c75798",
+    "name": "LC21_Audi",
+    "cause": "https://forum.griefergames.de/forum/thread/485813-lc21-audi-grieft-gs-perk-ausnutzung/",
+    "entryCreatedAt": "2025-10-24T23:43:17.31090724",
+    "entryUpdatedAt": "2025-10-24T23:43:17.31091535",
     "expiryDays": 180
   },
   {
