@@ -32,6 +32,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "140d90c3-0cb4-470e-bf84-ad5182d84bfd",
+    "name": "Kxrtoffelmann",
+    "cause": "https://forum.griefergames.de/forum/thread/486260-kxrtoffelmann-mit-2acc-allprefixitem/",
+    "entryCreatedAt": "2025-11-06T22:14:44.133311377",
+    "entryUpdatedAt": "2025-11-06T22:14:44.133423413",
+    "expiryDays": 180
+  },
+  {
     "uuid": "18819ce3-1fb2-3aa3-89da-0f310618c52b",
     "name": "!Gnkk+Goat",
     "cause": "https://beweise.community-radar.de/",
@@ -82,9 +90,9 @@
   {
     "uuid": "20ee744f-c2d4-4d4f-8e52-becb68c37175",
     "name": "Cornman21",
-    "cause": "https://forum.griefergames.de/forum/thread/485942-cornman21-scammt-um-125k/",
-    "entryCreatedAt": "2025-10-30T22:10:17.604150724",
-    "entryUpdatedAt": "2025-10-30T22:10:17.604172674",
+    "cause": "https://forum.griefergames.de/forum/thread/486204-cornman21-supreme-rang-ah-faker/",
+    "entryCreatedAt": "2025-11-06T22:17:41.834665376",
+    "entryUpdatedAt": "2025-11-06T22:17:41.834716552",
     "expiryDays": 180
   },
   {
@@ -853,6 +861,22 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-10-14T21:00:19.042844657",
     "entryUpdatedAt": "2025-10-14T21:00:19.042924025",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ebbcca86-5b83-4ffa-81ed-49f30899b602",
+    "name": "Jxstlouqa",
+    "cause": "https://forum.griefergames.de/forum/thread/486283-jxstlouqa/",
+    "entryCreatedAt": "2025-11-06T22:18:52.074271767",
+    "entryUpdatedAt": "2025-11-06T22:18:52.074298773",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f2a895c3-c634-3bd1-b5b8-2af3dd12d45f",
+    "name": "!DerKevin1237836",
+    "cause": "https://forum.griefergames.de/forum/thread/486244-derkevin1237836-ah-scammer/",
+    "entryCreatedAt": "2025-11-06T22:15:27.515242025",
+    "entryUpdatedAt": "2025-11-06T22:15:27.515277954",
     "expiryDays": 180
   },
   {
