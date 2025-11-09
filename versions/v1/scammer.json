@@ -56,6 +56,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "192c89fb-88cd-44f0-aa23-d0eba9799b1f",
+    "name": "ThreeDragoon800",
+    "cause": "https://forum.griefergames.de/forum/thread/486379-threedragoon800-scammt-20k/",
+    "entryCreatedAt": "2025-11-09T14:46:48.478954633",
+    "entryUpdatedAt": "2025-11-09T14:46:48.478974058",
+    "expiryDays": 180
+  },
+  {
     "uuid": "1b1956cc-bf17-3ab8-a59b-d5c231a2207d",
     "name": "!HoodedCord7059",
     "cause": "https://forum.griefergames.de/forum/thread/480122-fake-fly-recht-item-im-ah/",
@@ -544,6 +552,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "8cc0d2c5-873b-45a1-ba99-5ccfbbfb4cd4",
+    "name": "AusdemNix05",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2025-11-09T14:42:16.133013131",
+    "entryUpdatedAt": "2025-11-09T14:42:16.133106068",
+    "expiryDays": 180
+  },
+  {
     "uuid": "8d23f225-d9a8-4af0-99f9-08c450dd1de2",
     "name": "eliasmtr",
     "cause": "https://forum.griefergames.de/forum/thread/485446-eliasmtr-scammt-um-l%C3%A4cherliche-350k/?postID\u003d4591669#post4591669",
@@ -605,6 +621,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/485246-metrotarsier807-scammt-um-306k/",
     "entryCreatedAt": "2025-10-12T19:06:32.888523986",
     "entryUpdatedAt": "2025-10-12T19:06:32.888586194",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "9c57db4c-5488-4a3a-9e8a-726f8275738e",
+    "name": "Kazuma1402",
+    "cause": "https://forum.griefergames.de/forum/thread/486414-kazuma1402/",
+    "entryCreatedAt": "2025-11-09T14:47:33.015491057",
+    "entryUpdatedAt": "2025-11-09T14:47:33.015501547",
     "expiryDays": 180
   },
   {
@@ -685,6 +709,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/483704-argyflare-scammt/",
     "entryCreatedAt": "2025-09-05T17:40:54.575572851",
     "entryUpdatedAt": "2025-09-05T17:40:54.575586202",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a91fe5e9-5fa6-3065-a05b-7bc0beef841a",
+    "name": "!JeriPlayzz22",
+    "cause": "https://forum.griefergames.de/forum/thread/486482-jeriplayzz22-auktionshaus-scam/",
+    "entryCreatedAt": "2025-11-09T14:51:19.551354974",
+    "entryUpdatedAt": "2025-11-09T14:51:19.551398832",
     "expiryDays": 180
   },
   {
@@ -832,6 +864,22 @@
     "expiryDays": 180
   },
   {
+    "uuid": "e04c5fd5-4873-4278-9e69-d2331409b2ec",
+    "name": "AbgegriefIHD",
+    "cause": "https://forum.griefergames.de/forum/thread/486495-scamm-mit-hero-rang/",
+    "entryCreatedAt": "2025-11-09T14:43:51.200952357",
+    "entryUpdatedAt": "2025-11-09T14:43:51.201004099",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "e3989afe-9d66-4c16-93e6-3498bb720672",
+    "name": "_SPAK",
+    "cause": "https://forum.griefergames.de/forum/thread/486557-spak-scammt/",
+    "entryCreatedAt": "2025-11-09T14:44:56.114565714",
+    "entryUpdatedAt": "2025-11-09T14:44:56.114574677",
+    "expiryDays": 180
+  },
+  {
     "uuid": "e4031fbc-6c9c-410d-8500-86cadb9f8f1a",
     "name": "Bob2Fishing",
     "cause": "https://beweise.community-radar.de/",
@@ -933,6 +981,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/484787-warnung-gegen-wirdnichtgeladen/?postID\u003d4584772#post4584772",
     "entryCreatedAt": "2025-10-05T21:38:03.764908609",
     "entryUpdatedAt": "2025-10-05T21:38:03.764921175",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ff23b00f-91af-4fc3-8d62-d1c5021fdccd",
+    "name": "ImDmnq22",
+    "cause": "https://forum.griefergames.de/forum/thread/486489-scammer/",
+    "entryCreatedAt": "2025-11-09T14:49:00.202954515",
+    "entryUpdatedAt": "2025-11-09T14:49:00.202970375",
     "expiryDays": 180
   }
 ]
