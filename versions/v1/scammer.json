@@ -944,14 +944,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "f9d7b08f-f6c8-4677-8b86-ff238ceb4d79",
-    "name": "NutzerCaps",
-    "cause": "https://forum.griefergames.de/forum/thread/475973-nutzercaps-scammt-um-60m/",
-    "entryCreatedAt": "2025-05-14T08:26:15.040694082",
-    "entryUpdatedAt": "2025-05-14T08:26:15.040745106",
-    "expiryDays": 180
-  },
-  {
     "uuid": "fd63edb9-fd13-49bb-bee4-58abe84fa4d1",
     "name": "InjectorMain",
     "cause": "https://beweise.community-radar.de/",
