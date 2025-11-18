@@ -232,6 +232,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "35bcf127-a127-3ad9-b42b-c1f92a453565",
+    "name": "!LordLown",
+    "cause": "https://forum.griefergames.de/forum/thread/486777-lordlown-lown420-scammt-in-ah-um-80k/",
+    "entryCreatedAt": "2025-11-18T19:22:37.143870593",
+    "entryUpdatedAt": "2025-11-18T19:22:37.143875633",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3642df00-7cbf-34ce-81c4-a0a29d7f1530",
     "name": "!IBims1Depp",
     "cause": "https://forum.griefergames.de/forum/thread/479563-botshop-manipulation-eyeliner425-bei-p-h-schwarzmarkt-auf-cb21/",
@@ -576,6 +584,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "92291541-1e89-3585-b851-be9f4d35928a",
+    "name": "!ExactBear071030",
+    "cause": "https://forum.griefergames.de/forum/thread/486837-ah-scam-mit-x-fachen-fake-items/?postID\u003d4608008#post4608008",
+    "entryCreatedAt": "2025-11-18T19:25:26.530950396",
+    "entryUpdatedAt": "2025-11-18T19:25:26.530954939",
+    "expiryDays": 180
+  },
+  {
     "uuid": "92db7cc0-8215-4341-88db-2060982b745c",
     "name": "skinnyCHAINS",
     "cause": "https://forum.griefergames.de/forum/thread/483241-fake-supreme-item/",
@@ -629,6 +645,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/485246-metrotarsier807-scammt-um-306k/",
     "entryCreatedAt": "2025-10-12T19:06:32.888523986",
     "entryUpdatedAt": "2025-10-12T19:06:32.888586194",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "9bb35ef0-cf32-4e87-880d-acbe4e4b39d1",
+    "name": "Syndr0n_",
+    "cause": "https://forum.griefergames.de/forum/thread/486896-ah-scam-mit-fake-items/",
+    "entryCreatedAt": "2025-11-18T19:24:58.485711407",
+    "entryUpdatedAt": "2025-11-18T19:24:58.485715863",
     "expiryDays": 180
   },
   {
@@ -824,6 +848,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "d2016446-ec0f-47ad-b341-8c7f58be7d58",
+    "name": "rqxd",
+    "cause": "https://forum.griefergames.de/forum/thread/486912-codeinfanta-rqxd-aka-lelosa-feierabend/",
+    "entryCreatedAt": "2025-11-18T19:22:08.699297552",
+    "entryUpdatedAt": "2025-11-18T19:22:08.6993439",
+    "expiryDays": 180
+  },
+  {
     "uuid": "d2541b5d-e403-4070-be8a-e24c0c4cda7d",
     "name": "ByLevinGHG",
     "cause": "https://forum.griefergames.de/forum/thread/484303-bylevinghg-scammt-um-70k/",
@@ -874,9 +906,9 @@
   {
     "uuid": "e04c5fd5-4873-4278-9e69-d2331409b2ec",
     "name": "AbgegriefIHD",
-    "cause": "https://forum.griefergames.de/forum/thread/486495-scamm-mit-hero-rang/",
-    "entryCreatedAt": "2025-11-09T14:43:51.200952357",
-    "entryUpdatedAt": "2025-11-09T14:43:51.201004099",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-11-18T19:24:23.797340927",
+    "entryUpdatedAt": "2025-11-18T19:24:23.79734517",
     "expiryDays": 180
   },
   {
