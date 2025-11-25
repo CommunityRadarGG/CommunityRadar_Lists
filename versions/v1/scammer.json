@@ -744,14 +744,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "a7341b75-cfe2-49c5-b9a8-3405566e1df0",
-    "name": "BPLuca",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2025-05-29T18:02:12.335133924",
-    "entryUpdatedAt": "2025-05-29T18:02:12.335182094",
-    "expiryDays": 180
-  },
-  {
     "uuid": "a8a6b046-b6d2-49aa-9f4b-65c820166fef",
     "name": "ArgyFlare",
     "cause": "https://forum.griefergames.de/forum/thread/483704-argyflare-scammt/",
