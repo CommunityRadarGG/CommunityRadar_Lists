@@ -328,14 +328,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "730ce59b-a548-4d3e-9b91-96be30a30ad3",
-    "name": "AliAhmedAllah",
-    "cause": "CB1",
-    "entryCreatedAt": "2025-02-20T16:41:44.692229786",
-    "entryUpdatedAt": "2025-02-20T16:41:44.692231729",
-    "expiryDays": -1
-  },
-  {
     "uuid": "77e044d5-34fc-4623-be0b-fa3195050f91",
     "name": "MagierFlamme",
     "cause": "CB12",
