@@ -600,6 +600,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "932c6cd1-704d-4c49-be93-d2845c9cee65",
+    "name": "Nature88",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2025-11-29T13:21:43.111096462",
+    "entryUpdatedAt": "2025-11-29T13:21:43.111126334",
+    "expiryDays": 180
+  },
+  {
     "uuid": "93f054be-a0cc-4b42-831f-78a1c651732c",
     "name": "MaliaDieRiesige",
     "cause": "https://forum.griefergames.de/forum/thread/482557-maliadieriesige-geiler-11m-scam/",
