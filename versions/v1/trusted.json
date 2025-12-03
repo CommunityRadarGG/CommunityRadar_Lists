@@ -32,14 +32,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
-    "name": "GGN_HBInfinity",
-    "cause": "CB10",
-    "entryCreatedAt": "2025-05-26T23:28:36.578623436",
-    "entryUpdatedAt": "2025-05-26T23:28:36.578634124",
-    "expiryDays": -1
-  },
-  {
     "uuid": "0abe8a54-a0e2-44db-97c0-3c4d296f5ab9",
     "name": "STD_qVolt",
     "cause": "CB22",
@@ -101,14 +93,6 @@
     "cause": "CB16",
     "entryCreatedAt": "2024-05-27T00:00:56.663778772",
     "entryUpdatedAt": "2024-05-27T00:00:56.663787569",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
-    "name": "MR_Mettigel",
-    "cause": "CB9",
-    "entryCreatedAt": "2024-05-26T11:38:06.444902847",
-    "entryUpdatedAt": "2024-05-26T11:38:06.444913457",
     "expiryDays": -1
   },
   {

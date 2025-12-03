@@ -32,14 +32,6 @@
     "duration": -1
   },
   {
-    "uuid": "0724debd-51af-427d-b2b1-cee766c3bc1c",
-    "name": "GGN_HBInfinity",
-    "note": "CB10",
-    "createdAt": "2025-05-26T23:28:36.578623436",
-    "updatedAt": "2025-05-26T23:28:36.578634124",
-    "duration": -1
-  },
-  {
     "uuid": "0abe8a54-a0e2-44db-97c0-3c4d296f5ab9",
     "name": "STD_qVolt",
     "note": "CB22",
@@ -101,14 +93,6 @@
     "note": "CB16",
     "createdAt": "2024-05-27T00:00:56.663778772",
     "updatedAt": "2024-05-27T00:00:56.663787569",
-    "duration": -1
-  },
-  {
-    "uuid": "220f8573-3c80-469e-92af-55449a6b8deb",
-    "name": "MR_Mettigel",
-    "note": "CB9",
-    "createdAt": "2024-05-26T11:38:06.444902847",
-    "updatedAt": "2024-05-26T11:38:06.444913457",
     "duration": -1
   },
   {
