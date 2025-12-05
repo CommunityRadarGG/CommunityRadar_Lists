@@ -304,14 +304,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "40e4be45-2c39-4610-9bb0-c335274ab975",
-    "name": "WQueze",
-    "cause": "https://forum.griefergames.de/forum/thread/479173-wqueze-scammt-achtung/",
-    "entryCreatedAt": "2025-06-08T01:58:08.366925907",
-    "entryUpdatedAt": "2025-06-08T01:58:08.366996498",
-    "expiryDays": 180
-  },
-  {
     "uuid": "42ac9635-5159-483f-80a3-6e9d2b8cd7e3",
     "name": "27568",
     "cause": "https://beweise.community-radar.de/",
@@ -901,14 +893,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/482418-timylol-scammt-um-240k/",
     "entryCreatedAt": "2025-08-10T22:10:14.985907623",
     "entryUpdatedAt": "2025-11-02T13:44:51.854938835",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "df11a45d-adfc-4fd1-b03a-4f87ca706075",
-    "name": "Mayfish",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2025-11-30T19:37:08.613408639",
-    "entryUpdatedAt": "2025-11-30T19:37:08.613429358",
     "expiryDays": 180
   },
   {
