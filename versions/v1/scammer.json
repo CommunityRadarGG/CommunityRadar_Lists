@@ -8,6 +8,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0ad93863-5924-4312-acda-3e863a9f9e08",
+    "name": "EnteSkillss",
+    "cause": "https://forum.griefergames.de/forum/thread/487918-scamm-von-enteskillss/",
+    "entryCreatedAt": "2025-12-16T15:33:33.05614461",
+    "entryUpdatedAt": "2025-12-16T15:33:33.056154013",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0b343487-a710-4e41-acf3-cb612d1019ac",
     "name": "s_xlier",
     "cause": "https://forum.griefergames.de/forum/thread/484051-y-ra-scammt-um-2-850-000/",
@@ -402,9 +410,9 @@
   {
     "uuid": "67641dcd-91cd-40ac-9421-26d0a1ffcf4c",
     "name": "yAbsent",
-    "cause": "https://forum.griefergames.de/forum/thread/484616-pofyhase-scammt-um-1-100-000/",
-    "entryCreatedAt": "2025-09-28T00:43:21.883314126",
-    "entryUpdatedAt": "2025-12-14T12:53:37.606076185",
+    "cause": "https://forum.griefergames.de/forum/thread/487885-pofyhase-scammt-um-46-5m/",
+    "entryCreatedAt": "2025-12-16T15:33:09.13526268",
+    "entryUpdatedAt": "2025-12-16T15:33:09.13530818",
     "expiryDays": 180
   },
   {
@@ -477,14 +485,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/483869-wurde-um-3-mio-gescamt/",
     "entryCreatedAt": "2025-09-08T07:17:33.89320143",
     "entryUpdatedAt": "2025-09-08T07:17:33.893344718",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "7e9774da-dd78-3fde-bbbb-61b84a5c979d",
-    "name": "!RobLoxxGhosT",
-    "cause": "https://forum.griefergames.de/forum/thread/479898-robloxxghost/",
-    "entryCreatedAt": "2025-06-19T14:17:51.752934224",
-    "entryUpdatedAt": "2025-06-19T14:17:51.753047146",
     "expiryDays": 180
   },
   {
@@ -701,6 +701,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-09-30T22:37:24.376890766",
     "entryUpdatedAt": "2025-09-30T22:37:24.376893346",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a79cdffd-04f5-45e8-8ae2-db0d52c657e9",
+    "name": "xxtentaken1",
+    "cause": "https://forum.griefergames.de/forum/thread/487811-xxtentaken1-scammt-um-10m-item/",
+    "entryCreatedAt": "2025-12-16T15:33:58.495116852",
+    "entryUpdatedAt": "2025-12-16T15:33:58.495128731",
     "expiryDays": 180
   },
   {
