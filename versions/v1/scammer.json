@@ -128,14 +128,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "2c957d1d-615c-483d-bd12-89ac8020d996",
-    "name": "Moralfraud",
-    "cause": "https://forum.griefergames.de/forum/thread/480221-moralfraud-fake-item-in-ah/",
-    "entryCreatedAt": "2025-06-22T23:35:05.50261338",
-    "entryUpdatedAt": "2025-06-22T23:35:05.502624106",
-    "expiryDays": 180
-  },
-  {
     "uuid": "2d08c994-12a0-33d8-a6fa-1319a9f56144",
     "name": "!HoseGreif449419",
     "cause": "https://beweise.community-radar.de",
