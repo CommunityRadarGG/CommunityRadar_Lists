@@ -40,6 +40,14 @@
     "duration": 180
   },
   {
+    "uuid": "10ced8d1-7b1c-44ad-8e93-a5f45a336923",
+    "name": "KillerMeteoroid",
+    "note": "https://forum.griefergames.de/forum/thread/489282-killermeteoroid/?pageNo\u003d1",
+    "createdAt": "2026-01-06T06:37:07.369463923",
+    "updatedAt": "2026-01-06T06:37:07.369469784",
+    "duration": 180
+  },
+  {
     "uuid": "1310d4d3-4926-3e66-8af1-22a088c0523a",
     "name": "!maja0604",
     "note": "https://beweise.community-radar.de/",
@@ -821,6 +829,14 @@
     "note": "https://beweise.community-radar.de",
     "createdAt": "2025-10-05T23:17:37.029730333",
     "updatedAt": "2025-10-05T23:17:37.02982321",
+    "duration": 180
+  },
+  {
+    "uuid": "c125cd7a-cdbd-461d-894d-3811e3b26e4f",
+    "name": "pr3oximateUxpen",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2026-01-06T06:38:05.551722291",
+    "updatedAt": "2026-01-06T06:38:05.551728935",
     "duration": 180
   },
   {
