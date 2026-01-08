@@ -76,8 +76,8 @@
     "name": "KillerMeteoroid",
     "cause": "https://forum.griefergames.de/forum/thread/489282-killermeteoroid/?pageNo\u003d1",
     "entryCreatedAt": "2026-01-06T06:37:07.369463923",
-    "entryUpdatedAt": "2026-01-06T06:37:07.369469784",
-    "expiryDays": 180
+    "entryUpdatedAt": "2026-01-08T17:43:10.909743644",
+    "expiryDays": 90
   },
   {
     "uuid": "12206b15-038c-393d-893c-f569f26aee8d",
@@ -520,6 +520,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "69a41346-d767-4340-b407-bec64ef746de",
+    "name": "eXXnn",
+    "cause": "https://forum.griefergames.de/forum/thread/489401-verkauft-plot-f%C3%BCr-20k-und-gibt-nicht/",
+    "entryCreatedAt": "2026-01-08T17:41:05.922132391",
+    "entryUpdatedAt": "2026-01-08T17:41:05.92213521",
+    "expiryDays": 180
+  },
+  {
     "uuid": "6b05d851-712b-4560-872d-e547435b913a",
     "name": "Txhaaa",
     "cause": "https://forum.griefergames.de/forum/thread/489219-txhaaa-scammt-bei-5mio-blackjack-runde/",
@@ -650,9 +658,17 @@
   {
     "uuid": "85d5498b-6963-4c5b-aace-2429a06cd63a",
     "name": "Lyqv",
-    "cause": "https://forum.griefergames.de/forum/thread/489230-auktionshaus-83m-scamm/",
-    "entryCreatedAt": "2026-01-06T16:15:55.849447317",
-    "entryUpdatedAt": "2026-01-06T16:15:55.849451046",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-08T17:40:37.276866933",
+    "entryUpdatedAt": "2026-01-08T17:40:37.276876189",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "86afeb73-0a15-4d34-bf2b-21414c3358df",
+    "name": "nomad7116",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-08T17:42:05.342702874",
+    "entryUpdatedAt": "2026-01-08T17:42:05.342716183",
     "expiryDays": 180
   },
   {
@@ -810,9 +826,9 @@
   {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
-    "cause": "https://forum.griefergames.de/forum/thread/489218-calvertonix-scammt-mit-gs-um-4m/",
-    "entryCreatedAt": "2026-01-06T16:15:11.185291101",
-    "entryUpdatedAt": "2026-01-06T16:15:11.185294014",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-08T17:42:38.726849845",
+    "entryUpdatedAt": "2026-01-08T17:42:38.726860876",
     "expiryDays": 180
   },
   {
