@@ -72,6 +72,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "112acb04-3bb8-4383-8c4e-31994b9a13a5",
+    "name": "DeutschAbi",
+    "cause": "CB22",
+    "entryCreatedAt": "2026-01-08T00:28:55.204330213",
+    "entryUpdatedAt": "2026-01-08T00:28:55.204345923",
+    "expiryDays": -1
+  },
+  {
     "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
     "name": "LOLCMD",
     "cause": "CBE",
