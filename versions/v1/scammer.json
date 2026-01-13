@@ -440,6 +440,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "52d6fc11-5d3c-48f1-8c5f-e0ed656f9624",
+    "name": "iCriminalz",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-13T05:12:37.230266124",
+    "entryUpdatedAt": "2026-01-13T05:12:37.230269066",
+    "expiryDays": 180
+  },
+  {
     "uuid": "561b3f0a-56e9-4cb4-9599-742da7f8e1ad",
     "name": "Marc0003",
     "cause": "https://forum.griefergames.de/forum/thread/486000-marc0003-scammt/",
@@ -1133,6 +1141,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/487555-unterxtrich-faker-scammt-um-35mio/",
     "entryCreatedAt": "2025-12-07T00:43:35.656431106",
     "entryUpdatedAt": "2025-12-07T00:43:35.656450456",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "de26efe5-1607-41d0-97f0-ddb0e9f5e34a",
+    "name": "Jingeltin",
+    "cause": "https://forum.griefergames.de/forum/thread/489633-jingeltin-scammt-um-40m-schulden/?pageNo\u003d1",
+    "entryCreatedAt": "2026-01-13T05:11:48.638995137",
+    "entryUpdatedAt": "2026-01-13T05:11:48.639009824",
     "expiryDays": 180
   },
   {
