@@ -67,8 +67,8 @@
     "uuid": "0c4e46e1-26d3-3fab-a6a5-b4ea9e32235f",
     "name": "!ZappyAlloy8096",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2026-01-12T19:31:32.574687948",
-    "entryUpdatedAt": "2026-01-12T19:31:32.574692976",
+    "entryCreatedAt": "2026-01-16T23:22:16.819872321",
+    "entryUpdatedAt": "2026-01-16T23:22:16.819876478",
     "expiryDays": 180
   },
   {
@@ -368,6 +368,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "403bc9f1-5d2f-4d5f-bc1a-63f70e7a6c16",
+    "name": "0qw",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-16T23:21:36.085924018",
+    "entryUpdatedAt": "2026-01-16T23:21:36.085931227",
+    "expiryDays": 180
+  },
+  {
     "uuid": "42ac9635-5159-483f-80a3-6e9d2b8cd7e3",
     "name": "27568",
     "cause": "https://beweise.community-radar.de/",
@@ -453,6 +461,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2026-01-13T05:12:37.230266124",
     "entryUpdatedAt": "2026-01-13T05:12:37.230269066",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "544ad3d7-696d-4de5-bbf6-7232fed5b781",
+    "name": "Fomfai",
+    "cause": "https://forum.griefergames.de/forum/thread/490036-fomfai-scammt-um-1-5mios-f%C3%BCr-4-spawner/",
+    "entryCreatedAt": "2026-01-16T23:23:20.144243112",
+    "entryUpdatedAt": "2026-01-16T23:23:20.14424829",
     "expiryDays": 180
   },
   {
@@ -589,6 +605,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/486012-20-mio-scam-gibt-vor-unterxtrich-zu-sein/",
     "entryCreatedAt": "2025-12-29T19:09:41.634852885",
     "entryUpdatedAt": "2025-12-29T19:09:41.634863871",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "6f01bab2-3731-38e1-85be-590ea296c6ba",
+    "name": "!gamer00205623",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-16T23:23:53.562538183",
+    "entryUpdatedAt": "2026-01-16T23:23:53.562541822",
     "expiryDays": 180
   },
   {
@@ -1013,6 +1037,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/484614-chrizz42mc-scammt-um-160-000/",
     "entryCreatedAt": "2025-09-28T00:42:38.799938308",
     "entryUpdatedAt": "2025-09-28T00:42:38.799945923",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "be35c47b-7970-49a3-8a97-f29016238e64",
+    "name": "Schlagzeugnis",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-16T23:24:35.007488932",
+    "entryUpdatedAt": "2026-01-16T23:24:35.007491929",
     "expiryDays": 180
   },
   {
