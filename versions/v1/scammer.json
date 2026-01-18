@@ -786,9 +786,9 @@
   {
     "uuid": "9194d6f6-a1e0-402f-82e2-e472f3299bd7",
     "name": "juicysalsa",
-    "cause": "https://forum.griefergames.de/forum/thread/488558-juicysalsa-ah-fakeitem/",
-    "entryCreatedAt": "2025-12-29T23:45:02.245435355",
-    "entryUpdatedAt": "2025-12-29T23:45:02.245446162",
+    "cause": "https://forum.griefergames.de/forum/thread/490160-juicysalsa-scammt-um-1-152-000/",
+    "entryCreatedAt": "2026-01-18T21:14:57.612529101",
+    "entryUpdatedAt": "2026-01-18T21:14:57.612532248",
     "expiryDays": 180
   },
   {
@@ -914,9 +914,9 @@
   {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2026-01-08T17:42:38.726849845",
-    "entryUpdatedAt": "2026-01-08T17:42:38.726860876",
+    "cause": "https://forum.griefergames.de/forum/thread/490167-calvertronix-scammt-um-sein-4-mio-plot/",
+    "entryCreatedAt": "2026-01-18T21:15:42.146273003",
+    "entryUpdatedAt": "2026-01-18T21:15:42.146275595",
     "expiryDays": 180
   },
   {
@@ -1157,6 +1157,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/487740-kannabispflanze-scammt-um-13-500/",
     "entryCreatedAt": "2025-12-14T06:57:33.921680634",
     "entryUpdatedAt": "2025-12-14T06:57:33.92172405",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d77348df-2e2f-428b-b168-c0ab100964da",
+    "name": "FreeStylerMarco",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-01-18T21:14:05.436157978",
+    "entryUpdatedAt": "2026-01-18T21:14:05.436166198",
     "expiryDays": 180
   },
   {
