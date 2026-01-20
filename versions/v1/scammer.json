@@ -72,6 +72,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0d7147a2-ebc7-44d0-a948-ec98bc7020d0",
+    "name": "MamaAbge",
+    "cause": "https://forum.griefergames.de/forum/thread/490212-mamaabge-aka-nurnochrechts-scammt/",
+    "entryCreatedAt": "2026-01-20T19:22:15.196438279",
+    "entryUpdatedAt": "2026-01-20T19:22:15.19645193",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0e62f55d-6376-4bae-b860-2c68a83d5b09",
     "name": "BaumhausAffe",
     "cause": "https://forum.griefergames.de/forum/thread/488855-fleischhunger-scammt-in-blackjack/?postID\u003d4630721#post4630721",
@@ -482,9 +490,9 @@
   {
     "uuid": "5a84be31-d784-4a70-80df-f211894e3d51",
     "name": "LeLosa_",
-    "cause": "https://forum.griefergames.de/forum/thread/489731-lelosa-scammt-mit-fakeitem-im-ah/",
-    "entryCreatedAt": "2026-01-12T19:32:06.329448407",
-    "entryUpdatedAt": "2026-01-12T19:32:06.329451843",
+    "cause": "https://forum.griefergames.de/forum/thread/490270-lelosa-scammt-mit-fake-items-im-ah/",
+    "entryCreatedAt": "2026-01-20T19:23:58.704537787",
+    "entryUpdatedAt": "2026-01-20T19:23:58.7045401",
     "expiryDays": 180
   },
   {
@@ -541,6 +549,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/487885-pofyhase-scammt-um-46-5m/",
     "entryCreatedAt": "2025-12-16T15:33:09.13526268",
     "entryUpdatedAt": "2025-12-16T15:33:09.13530818",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "67f95700-94c1-4c25-abc3-de55e0e38989",
+    "name": "Lukas_mvp",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-20T19:23:26.741512488",
+    "entryUpdatedAt": "2026-01-20T19:23:26.741515742",
     "expiryDays": 180
   },
   {
