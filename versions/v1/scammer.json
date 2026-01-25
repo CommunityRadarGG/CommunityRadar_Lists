@@ -568,6 +568,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "69b48faa-926a-46f4-999c-516e0eff19a4",
+    "name": "Frau_von_Urbex",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-25T14:01:13.056827931",
+    "entryUpdatedAt": "2026-01-25T14:01:13.056863984",
+    "expiryDays": 180
+  },
+  {
     "uuid": "6b05d851-712b-4560-872d-e547435b913a",
     "name": "Txhaaa",
     "cause": "https://forum.griefergames.de/forum/thread/489219-txhaaa-scammt-bei-5mio-blackjack-runde/",
@@ -898,9 +906,9 @@
   {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
-    "cause": "https://forum.griefergames.de/forum/thread/490167-calvertronix-scammt-um-sein-4-mio-plot/",
-    "entryCreatedAt": "2026-01-18T21:15:42.146273003",
-    "entryUpdatedAt": "2026-01-18T21:15:42.146275595",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-25T14:00:05.631298157",
+    "entryUpdatedAt": "2026-01-25T14:00:05.631379867",
     "expiryDays": 180
   },
   {
@@ -1226,9 +1234,9 @@
   {
     "uuid": "e72efde2-726e-4700-bb2d-294512c5efbb",
     "name": "1J0nny",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2026-01-17T16:18:49.125671414",
-    "entryUpdatedAt": "2026-01-17T16:18:49.125682062",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-25T14:00:45.975745512",
+    "entryUpdatedAt": "2026-01-25T14:00:45.975760534",
     "expiryDays": 180
   },
   {
