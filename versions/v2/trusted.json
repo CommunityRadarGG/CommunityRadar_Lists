@@ -80,14 +80,6 @@
     "duration": -1
   },
   {
-    "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
-    "name": "LOLCMD",
-    "note": "CBE",
-    "createdAt": "2024-05-27T00:03:09.027795331",
-    "updatedAt": "2025-02-10T12:35:53.306026175",
-    "duration": -1
-  },
-  {
     "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
     "name": "Wiese2007",
     "note": "CB11",
@@ -101,6 +93,14 @@
     "note": "CB16",
     "createdAt": "2024-05-27T00:00:56.663778772",
     "updatedAt": "2024-05-27T00:00:56.663787569",
+    "duration": -1
+  },
+  {
+    "uuid": "1e19ea83-a509-4db2-bb86-c882faae1857",
+    "name": "Zitro___",
+    "note": "CB22",
+    "createdAt": "2026-01-26T16:22:35.529764893",
+    "updatedAt": "2026-01-26T16:22:35.529835582",
     "duration": -1
   },
   {
@@ -168,35 +168,11 @@
     "duration": -1
   },
   {
-    "uuid": "3dca8e76-f788-4612-b5a6-8a29f56dbc7b",
-    "name": "Segenesch",
-    "note": "CB6",
-    "createdAt": "2024-05-26T11:34:08.776222775",
-    "updatedAt": "2024-05-26T11:34:08.77623079",
-    "duration": -1
-  },
-  {
-    "uuid": "42d1a8c5-6bb2-4f16-833e-210b491009fb",
-    "name": "Blauregen",
-    "note": "CB9",
-    "createdAt": "2024-05-26T11:38:46.346572848",
-    "updatedAt": "2024-05-26T11:38:46.346581946",
-    "duration": -1
-  },
-  {
     "uuid": "4368fc7a-bc45-403f-9f26-4aeb71f5281f",
     "name": "xTheRealBlue",
     "note": "CB1",
     "createdAt": "2024-05-26T11:19:57.75926461",
     "updatedAt": "2024-05-26T11:19:57.759273707",
-    "duration": -1
-  },
-  {
-    "uuid": "45838f79-78d4-4e85-a5d8-d0a73319548a",
-    "name": "Niki1324",
-    "note": "CB2",
-    "createdAt": "2025-07-22T22:19:11.340461987",
-    "updatedAt": "2025-07-22T22:19:11.340465509",
     "duration": -1
   },
   {
@@ -288,14 +264,6 @@
     "duration": -1
   },
   {
-    "uuid": "6a7fea0c-f09b-45a6-9558-7898b741ac90",
-    "name": "signesagnes",
-    "note": "CB1",
-    "createdAt": "2024-05-26T11:20:56.60194925",
-    "updatedAt": "2024-05-26T11:20:56.601958057",
-    "duration": -1
-  },
-  {
     "uuid": "6fb141fa-7f50-48b5-b113-013f4a1826bf",
     "name": "Ein_W1k1nger",
     "note": "CB12",
@@ -339,16 +307,8 @@
     "uuid": "7c2c9bf3-bf84-37a0-848b-1a93ba8b675b",
     "name": "!GeheimerMann429",
     "note": "CB6",
-    "createdAt": "2025-12-13T23:07:04.738562863",
-    "updatedAt": "2025-12-13T23:07:04.738643542",
-    "duration": -1
-  },
-  {
-    "uuid": "7efa8fb6-3080-4d4b-bac5-6983c4769d42",
-    "name": "kingwawa187",
-    "note": "CB5",
-    "createdAt": "2024-05-26T11:31:37.241215",
-    "updatedAt": "2024-05-26T11:31:37.241224598",
+    "createdAt": "2026-01-26T16:25:17.202715432",
+    "updatedAt": "2026-01-26T16:25:17.202724592",
     "duration": -1
   },
   {
@@ -520,14 +480,6 @@
     "duration": -1
   },
   {
-    "uuid": "bbf7dce7-0b66-46c0-99ad-178b08dde0e8",
-    "name": "xGeniex",
-    "note": "Cloud",
-    "createdAt": "2025-07-22T21:10:38.803030186",
-    "updatedAt": "2025-07-22T21:10:38.803031972",
-    "duration": -1
-  },
-  {
     "uuid": "c7866ce3-da64-4986-874f-2147b3eb0e19",
     "name": "BigPennywise",
     "note": "CB8",
@@ -557,14 +509,6 @@
     "note": "CB2",
     "createdAt": "2025-10-17T07:59:09.54966347",
     "updatedAt": "2025-10-17T07:59:09.549673006",
-    "duration": -1
-  },
-  {
-    "uuid": "d3807982-bd66-4f26-b860-57eb1c76886f",
-    "name": "KirschenXD",
-    "note": "CB11",
-    "createdAt": "2024-05-26T11:41:05.133733433",
-    "updatedAt": "2024-05-26T11:41:05.133742651",
     "duration": -1
   },
   {
@@ -608,11 +552,27 @@
     "duration": -1
   },
   {
+    "uuid": "e3ff2254-7975-4595-81fd-f42a811dd993",
+    "name": "Esarune",
+    "note": "CB8",
+    "createdAt": "2026-01-26T16:23:00.420299309",
+    "updatedAt": "2026-01-26T16:23:00.420314298",
+    "duration": -1
+  },
+  {
     "uuid": "e51d1ac5-a54b-437d-bc78-3201ebf6519e",
     "name": "passiver",
     "note": "CB22",
     "createdAt": "2025-07-22T21:10:17.295968585",
     "updatedAt": "2025-07-22T21:10:17.295970888",
+    "duration": -1
+  },
+  {
+    "uuid": "e80420c1-36c7-4786-8663-96234efd514d",
+    "name": "MrAlwaysHigh",
+    "note": "CB1",
+    "createdAt": "2026-01-26T16:20:58.785008817",
+    "updatedAt": "2026-01-26T16:20:58.785054711",
     "duration": -1
   },
   {
@@ -653,14 +613,6 @@
     "note": "Cloud",
     "createdAt": "2025-05-04T20:26:50.810902084",
     "updatedAt": "2025-05-04T20:26:50.810984234",
-    "duration": -1
-  },
-  {
-    "uuid": "f774dd34-3962-40ec-8771-a6ead3797f5b",
-    "name": "Eulehund99",
-    "note": "CB3",
-    "createdAt": "2025-07-22T22:19:45.290108753",
-    "updatedAt": "2025-07-22T22:19:45.290110683",
     "duration": -1
   },
   {
