@@ -224,6 +224,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "2d28a7cb-87bd-46f7-b5d3-3a5c05a60472",
+    "name": "MagicJonas",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-01-27T21:14:24.465665982",
+    "entryUpdatedAt": "2026-01-27T21:14:24.46571608",
+    "expiryDays": 180
+  },
+  {
     "uuid": "2ef1ea7a-5cfb-48c5-bed8-501b470198f3",
     "name": "kyaizuro",
     "cause": "https://forum.griefergames.de/forum/thread/488620-2-sc%C3%A4mma/",
