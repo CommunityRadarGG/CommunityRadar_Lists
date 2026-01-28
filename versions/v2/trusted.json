@@ -80,6 +80,14 @@
     "duration": -1
   },
   {
+    "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
+    "name": "LOLCMD",
+    "note": "CBE",
+    "createdAt": "2026-01-28T22:18:34.837701318",
+    "updatedAt": "2026-01-28T22:18:34.837745569",
+    "duration": -1
+  },
+  {
     "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
     "name": "Wiese2007",
     "note": "CB11",
@@ -509,6 +517,14 @@
     "note": "CB2",
     "createdAt": "2025-10-17T07:59:09.54966347",
     "updatedAt": "2025-10-17T07:59:09.549673006",
+    "duration": -1
+  },
+  {
+    "uuid": "d3807982-bd66-4f26-b860-57eb1c76886f",
+    "name": "KirschenXD",
+    "note": "CB11",
+    "createdAt": "2026-01-28T22:18:55.473010032",
+    "updatedAt": "2026-01-28T22:18:55.473023968",
     "duration": -1
   },
   {

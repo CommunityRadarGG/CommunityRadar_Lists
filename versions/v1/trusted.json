@@ -80,6 +80,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
+    "name": "LOLCMD",
+    "cause": "CBE",
+    "entryCreatedAt": "2026-01-28T22:18:34.837701318",
+    "entryUpdatedAt": "2026-01-28T22:18:34.837745569",
+    "expiryDays": -1
+  },
+  {
     "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
     "name": "Wiese2007",
     "cause": "CB11",
@@ -509,6 +517,14 @@
     "cause": "CB2",
     "entryCreatedAt": "2025-10-17T07:59:09.54966347",
     "entryUpdatedAt": "2025-10-17T07:59:09.549673006",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "d3807982-bd66-4f26-b860-57eb1c76886f",
+    "name": "KirschenXD",
+    "cause": "CB11",
+    "entryCreatedAt": "2026-01-28T22:18:55.473010032",
+    "entryUpdatedAt": "2026-01-28T22:18:55.473023968",
     "expiryDays": -1
   },
   {
