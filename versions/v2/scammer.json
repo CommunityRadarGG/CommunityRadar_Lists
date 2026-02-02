@@ -248,6 +248,14 @@
     "duration": 180
   },
   {
+    "uuid": "2f2e16a7-ea45-4883-8720-2e30677c1ee7",
+    "name": "01Findus",
+    "note": "https://forum.griefergames.de/forum/thread/490848-01findus-exit-scamm-vielleicht/",
+    "createdAt": "2026-02-02T17:16:28.491376423",
+    "updatedAt": "2026-02-02T17:16:28.491421097",
+    "duration": 180
+  },
+  {
     "uuid": "3056f1c7-0b06-462f-a67a-e95a98954bc4",
     "name": "Luc1941",
     "note": "https://beweise.community-radar.de",
@@ -1069,6 +1077,14 @@
     "note": "https://forum.griefergames.de/forum/thread/485813-lc21-audi-grieft-gs-perk-ausnutzung/",
     "createdAt": "2025-10-24T23:43:17.31090724",
     "updatedAt": "2025-10-31T23:05:08.117416437",
+    "duration": 180
+  },
+  {
+    "uuid": "cfe51e4c-977f-3819-8f3c-4d8b6b9bd442",
+    "name": "!MilanBerlin",
+    "note": "https://forum.griefergames.de/forum/thread/490780-850-mio-scamm/",
+    "createdAt": "2026-02-02T17:16:44.274646846",
+    "updatedAt": "2026-02-02T17:16:44.274669845",
     "duration": 180
   },
   {
