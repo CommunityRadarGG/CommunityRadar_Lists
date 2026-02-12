@@ -256,14 +256,6 @@
     "duration": 180
   },
   {
-    "uuid": "2f2e16a7-ea45-4883-8720-2e30677c1ee7",
-    "name": "01Findus",
-    "note": "https://forum.griefergames.de/forum/thread/490848-01findus-exit-scamm-vielleicht/",
-    "createdAt": "2026-02-02T17:16:28.491376423",
-    "updatedAt": "2026-02-02T17:16:28.491421097",
-    "duration": 180
-  },
-  {
     "uuid": "3056f1c7-0b06-462f-a67a-e95a98954bc4",
     "name": "Luc1941",
     "note": "https://beweise.community-radar.de",
@@ -285,6 +277,14 @@
     "note": "https://forum.griefergames.de/forum/thread/485146-spieler-absafter-hat-mit-bettentrick-mich-um-meine-items-gescammt/",
     "createdAt": "2025-10-11T21:21:28.368386067",
     "updatedAt": "2025-10-11T21:21:28.36842881",
+    "duration": 180
+  },
+  {
+    "uuid": "34432e4a-afce-437c-980a-daba3d7b9cba",
+    "name": "Pundi594",
+    "note": "https://forum.griefergames.de/forum/thread/491513-2m-scamm/",
+    "createdAt": "2026-02-12T19:18:29.40426619",
+    "updatedAt": "2026-02-12T19:18:29.404280928",
     "duration": 180
   },
   {
@@ -816,6 +816,14 @@
     "duration": 180
   },
   {
+    "uuid": "95e945bf-8b93-4c95-8e60-68063750b1ab",
+    "name": "Elmicaa",
+    "note": "https://forum.griefergames.de/forum/thread/491519-elmicaa-elmicaa14-scammt-um-20m/",
+    "createdAt": "2026-02-12T19:18:02.116696332",
+    "updatedAt": "2026-02-12T19:18:02.116806909",
+    "duration": 180
+  },
+  {
     "uuid": "9628fbc5-a0c1-4651-bd04-7c2e15caeb96",
     "name": "XautismuskurtX",
     "note": "https://forum.griefergames.de/forum/thread/485165-xautismuskurtx-scammt-um-235k/",
@@ -1172,8 +1180,8 @@
     "name": "Jingeltin",
     "note": "https://forum.griefergames.de/forum/thread/489633-jingeltin-scammt-um-40m-schulden/?pageNo\u003d1",
     "createdAt": "2026-01-13T05:11:48.638995137",
-    "updatedAt": "2026-01-13T05:11:48.639009824",
-    "duration": 180
+    "updatedAt": "2026-02-12T17:58:19.16940264",
+    "duration": 90
   },
   {
     "uuid": "deb85917-4875-47ba-aaba-164f543a1972",
