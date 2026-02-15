@@ -432,14 +432,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "a1f28b2c-c337-4864-b3cc-dcc3cd8b0257",
-    "name": "blaueranruf",
-    "cause": "CB22",
-    "entryCreatedAt": "2025-10-22T22:06:45.489774502",
-    "entryUpdatedAt": "2025-10-22T22:06:45.489788233",
-    "expiryDays": -1
-  },
-  {
     "uuid": "a4472f85-a3b8-479a-a232-e13424a4d9f1",
     "name": "TML_Daywalker",
     "cause": "Cloud",
@@ -608,27 +600,11 @@
     "expiryDays": -1
   },
   {
-    "uuid": "e9cc7cb9-87b3-457b-b9c8-a4b4a9627397",
-    "name": "SchaunMaMal",
-    "cause": "CB8",
-    "entryCreatedAt": "2024-05-26T11:36:44.689407499",
-    "entryUpdatedAt": "2024-05-26T11:36:44.689416505",
-    "expiryDays": -1
-  },
-  {
     "uuid": "ed7a4c5d-d2b2-40c6-9317-adfc9ce87c32",
     "name": "Schichtsteiger",
     "cause": "CB8",
     "entryCreatedAt": "2024-05-26T11:37:12.40757907",
     "entryUpdatedAt": "2024-05-26T11:37:12.407590762",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "ef5f95dc-01a3-41dd-9d42-b707161f7a5b",
-    "name": "SkaBone",
-    "cause": "CB2",
-    "entryCreatedAt": "2024-05-26T11:27:47.847360742",
-    "entryUpdatedAt": "2024-05-26T11:27:47.847374418",
     "expiryDays": -1
   },
   {
