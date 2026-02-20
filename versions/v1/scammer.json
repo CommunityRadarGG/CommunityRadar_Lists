@@ -387,8 +387,8 @@
     "uuid": "4f205ca4-c758-4a16-a04e-afea33b31d36",
     "name": "Bambusziege",
     "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2026-02-16T22:23:52.656213126",
-    "entryUpdatedAt": "2026-02-16T22:23:52.656269717",
+    "entryCreatedAt": "2026-02-20T19:40:07.854941104",
+    "entryUpdatedAt": "2026-02-20T19:40:07.854982606",
     "expiryDays": 180
   },
   {
@@ -888,6 +888,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "9e71baa6-99a1-481c-b35c-bbe2fbf0dca9",
+    "name": "zRazzyy",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-02-20T19:36:01.221324021",
+    "entryUpdatedAt": "2026-02-20T19:36:01.22137832",
+    "expiryDays": 180
+  },
+  {
     "uuid": "9f3ecae3-618d-40fe-8f8c-575403789c3d",
     "name": "Calvertonix",
     "cause": "https://beweise.community-radar.de/",
@@ -965,6 +973,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/485157-degg-game-scam/",
     "entryCreatedAt": "2025-10-11T21:22:02.980022917",
     "entryUpdatedAt": "2025-10-11T21:22:02.980084314",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ac630353-63df-4346-b687-4e873fdeec2b",
+    "name": "Frost__Giant",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-02-20T19:37:40.734511884",
+    "entryUpdatedAt": "2026-02-20T19:37:40.734520852",
     "expiryDays": 180
   },
   {
@@ -1165,6 +1181,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/487555-unterxtrich-faker-scammt-um-35mio/",
     "entryCreatedAt": "2025-12-07T00:43:35.656431106",
     "entryUpdatedAt": "2025-12-07T00:43:35.656450456",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ddd5a7b4-91fa-4d38-9049-59024df0a7bd",
+    "name": "alpiman2009",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-02-20T19:36:52.969543655",
+    "entryUpdatedAt": "2026-02-20T19:36:52.969552438",
     "expiryDays": 180
   },
   {
