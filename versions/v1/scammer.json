@@ -968,6 +968,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "bc6c4017-8173-4b2e-abad-b746bcb847e3",
+    "name": "Bars112",
+    "cause": "https://medal.tv/de/games/minecraft/clips/mabsZrs5Y7NFGkbsQ?invite\u003dcr-MSxNWE4sODc1NzUwNTY\u0026v\u003d68",
+    "entryCreatedAt": "2026-02-26T19:22:12.085411097",
+    "entryUpdatedAt": "2026-02-26T19:22:12.085548402",
+    "expiryDays": 180
+  },
+  {
     "uuid": "be35c47b-7970-49a3-8a97-f29016238e64",
     "name": "Schlagzeugnis",
     "cause": "https://beweise.community-radar.de/",
