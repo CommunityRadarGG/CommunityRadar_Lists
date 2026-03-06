@@ -600,14 +600,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "704d5523-3148-48a3-a0b3-4096c978b44a",
-    "name": "erzeDotCom",
-    "cause": "https://beweise.community-radar.de",
-    "entryCreatedAt": "2025-09-07T21:08:38.013382354",
-    "entryUpdatedAt": "2025-09-07T21:08:38.013441655",
-    "expiryDays": 180
-  },
-  {
     "uuid": "70e45c05-4b41-4193-91ea-db9770201d91",
     "name": "TibatoRabt",
     "cause": "https://forum.griefergames.de/forum/thread/484550-therapgod1-scammt-mit-2-acc-mit-breakblock/",
