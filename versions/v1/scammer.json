@@ -136,6 +136,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1720b59e-5d4b-404a-8c26-ce2758b2306e",
+    "name": "Hiqhnachten",
+    "cause": "https://forum.griefergames.de/forum/thread/492550-hiqhnachten-scammt/",
+    "entryCreatedAt": "2026-03-08T22:21:31.324014991",
+    "entryUpdatedAt": "2026-03-08T22:21:31.324025562",
+    "expiryDays": 180
+  },
+  {
     "uuid": "18c5a02e-9cc1-464d-89a4-2b3aa661dfde",
     "name": "Veriooxx",
     "cause": "https://beweise.community-radar.de/",
