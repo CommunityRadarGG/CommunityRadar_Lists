@@ -168,6 +168,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "208e745c-6abd-4187-a36e-2c903bc478d3",
+    "name": "Bonzenbaby",
+    "cause": "https://forum.griefergames.de/forum/thread/492624-bonzenbaby-scammt-um-1m/",
+    "entryCreatedAt": "2026-03-10T17:00:40.202257859",
+    "entryUpdatedAt": "2026-03-10T17:00:40.202317218",
+    "expiryDays": 180
+  },
+  {
     "uuid": "20ee744f-c2d4-4d4f-8e52-becb68c37175",
     "name": "Cornman21",
     "cause": "https://beweise.community-radar.de",
