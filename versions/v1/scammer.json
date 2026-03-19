@@ -856,6 +856,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "9f8f67e7-adf2-455b-83fa-4c02dbe38f54",
+    "name": "Hungriges_Brot",
+    "cause": "https://forum.griefergames.de/forum/thread/493266-hungriges-brot-scammt-um-9-5m/",
+    "entryCreatedAt": "2026-03-19T21:08:06.623710832",
+    "entryUpdatedAt": "2026-03-19T21:08:06.623730434",
+    "expiryDays": 180
+  },
+  {
     "uuid": "a17eadf5-d748-4d73-aea0-e08b3518d52c",
     "name": "718467",
     "cause": "https://forum.griefergames.de/forum/thread/486053-scamming-von-krajewskirsc-aka-718467/?postID\u003d4597840#post4597840",
