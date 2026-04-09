@@ -72,6 +72,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "0d375f60-d908-4233-a6d7-9abf06b3f2b8",
+    "name": "BatuLover81",
+    "cause": "https://forum.griefergames.de/forum/thread/494406-batulover81-scammt-um-5mio/",
+    "entryCreatedAt": "2026-04-09T22:15:15.545047652",
+    "entryUpdatedAt": "2026-04-09T22:15:15.545049997",
+    "expiryDays": 180
+  },
+  {
     "uuid": "0d7147a2-ebc7-44d0-a948-ec98bc7020d0",
     "name": "MamaAbge",
     "cause": "https://forum.griefergames.de/forum/thread/490212-mamaabge-aka-nurnochrechts-scammt/",
@@ -989,6 +997,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/487555-unterxtrich-faker-scammt-um-35mio/",
     "entryCreatedAt": "2025-12-07T00:43:35.656431106",
     "entryUpdatedAt": "2025-12-07T00:43:35.656450456",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "dcd8256e-8ef0-42a0-b96d-5b644cc5db86",
+    "name": "qMesh",
+    "cause": "https://forum.griefergames.de/forum/thread/494495-qmesh-scammt-gg-mauspad/",
+    "entryCreatedAt": "2026-04-09T22:16:15.233295593",
+    "entryUpdatedAt": "2026-04-09T22:16:15.233297485",
     "expiryDays": 180
   },
   {
