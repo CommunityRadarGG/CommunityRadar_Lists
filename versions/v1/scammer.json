@@ -820,8 +820,8 @@
     "name": "999_Keyzix",
     "cause": "https://forum.griefergames.de/forum/thread/491913-1-mio-scamm/",
     "entryCreatedAt": "2026-02-23T15:05:42.647820759",
-    "entryUpdatedAt": "2026-02-23T15:05:42.647886828",
-    "expiryDays": 180
+    "entryUpdatedAt": "2026-04-17T21:18:55.912191402",
+    "expiryDays": 90
   },
   {
     "uuid": "c53e644c-ef0a-4b0d-b803-dd6b7c37bf1c",
@@ -901,6 +901,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/491738-111mio-scamm-von-1schlumpf-02hp-und-vexamar/",
     "entryCreatedAt": "2026-02-16T22:24:28.935296918",
     "entryUpdatedAt": "2026-02-16T22:24:28.935312544",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "d3aa28de-f2a6-3efb-9211-2eaec1d4775e",
+    "name": "!Bauchkrebs",
+    "cause": "https://forum.griefergames.de/forum/thread/494577-bauchkrebs-scammt-mich-um-viel-geld-weil-ich-dumm-war/",
+    "entryCreatedAt": "2026-04-17T21:56:05.926894873",
+    "entryUpdatedAt": "2026-04-17T21:56:05.926941764",
     "expiryDays": 180
   },
   {
