@@ -344,14 +344,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "4b45ab08-0d9b-477d-9c28-bccca04ba271",
-    "name": "Mflash09",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2025-10-24T23:40:28.064501091",
-    "entryUpdatedAt": "2025-10-24T23:40:28.064545242",
-    "expiryDays": 180
-  },
-  {
     "uuid": "4f205ca4-c758-4a16-a04e-afea33b31d36",
     "name": "Lenkradheizung",
     "cause": "https://beweise.community-radar.de/",
@@ -501,14 +493,6 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2026-01-20T19:23:26.741512488",
     "entryUpdatedAt": "2026-03-08T20:36:18.887905471",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "69a2adf8-774a-3295-af8d-8207135c3f76",
-    "name": "!GibMalPeps",
-    "cause": "https://forum.griefergames.de/forum/thread/485725-gibmalpeps-verkauft-fake-supreme-rang-item/",
-    "entryCreatedAt": "2025-10-24T23:42:04.906855808",
-    "entryUpdatedAt": "2025-10-24T23:42:04.906868236",
     "expiryDays": 180
   },
   {
@@ -885,14 +869,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/493174-wurde-um-430k-gescammt/",
     "entryCreatedAt": "2026-03-17T16:08:22.864948158",
     "entryUpdatedAt": "2026-03-17T16:08:22.864954748",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "cf4492fc-e6e2-4a99-8661-314f14c75798",
-    "name": "ghtdichnichan",
-    "cause": "https://forum.griefergames.de/forum/thread/485813-lc21-audi-grieft-gs-perk-ausnutzung/",
-    "entryCreatedAt": "2025-10-24T23:43:17.31090724",
-    "entryUpdatedAt": "2026-02-24T00:46:55.506099957",
     "expiryDays": 180
   },
   {
