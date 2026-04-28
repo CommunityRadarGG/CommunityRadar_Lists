@@ -240,14 +240,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "32162494-ed8f-4cd2-ac88-64f676c57992",
-    "name": "KrajewskiRSC",
-    "cause": "https://forum.griefergames.de/forum/thread/486053-scamming-von-krajewskirsc-aka-718467/?postID\u003d4597840#post4597840",
-    "entryCreatedAt": "2025-10-30T22:06:41.002516564",
-    "entryUpdatedAt": "2025-10-30T22:06:41.002588725",
-    "expiryDays": 180
-  },
-  {
     "uuid": "32eb6b2e-4d9e-4376-a832-9ff90552c79d",
     "name": "leo2nico",
     "cause": "https://forum.griefergames.de/forum/thread/495046-leo2nico-scammt-um-10-5m/",
@@ -397,14 +389,6 @@
     "cause": "https://youtu.be/DzR-aYx08ts",
     "entryCreatedAt": "2025-11-16T22:12:33.594744508",
     "entryUpdatedAt": "2025-12-13T16:33:35.601221569",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "585f228a-12f7-405d-b612-591544cec3ef",
-    "name": "HamudeLP",
-    "cause": "https://forum.griefergames.de/forum/thread/485958-fake-supremerang-von-hamudelp-im-ah/",
-    "entryCreatedAt": "2025-10-30T22:09:16.315326984",
-    "entryUpdatedAt": "2025-10-30T22:09:16.315338991",
     "expiryDays": 180
   },
   {
@@ -584,14 +568,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "82962229-5d5a-4998-b82a-1047f7233276",
-    "name": "Yihat",
-    "cause": "https://forum.griefergames.de/forum/thread/485941-yihat-scammt-um-315k/",
-    "entryCreatedAt": "2025-10-30T22:09:54.477710262",
-    "entryUpdatedAt": "2025-10-30T22:09:54.477724959",
-    "expiryDays": 180
-  },
-  {
     "uuid": "82ef19d3-6b4e-44a4-8e6a-41e6002d175a",
     "name": "cheftimme",
     "cause": "https://beweise.community-radar.de/",
@@ -709,14 +685,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/493266-hungriges-brot-scammt-um-9-5m/",
     "entryCreatedAt": "2026-03-19T21:08:06.623710832",
     "entryUpdatedAt": "2026-03-31T21:55:37.805040936",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "a17eadf5-d748-4d73-aea0-e08b3518d52c",
-    "name": "718467",
-    "cause": "https://forum.griefergames.de/forum/thread/486053-scamming-von-krajewskirsc-aka-718467/?postID\u003d4597840#post4597840",
-    "entryCreatedAt": "2025-10-30T22:07:30.485142222",
-    "entryUpdatedAt": "2025-10-30T22:07:30.485152396",
     "expiryDays": 180
   },
   {
