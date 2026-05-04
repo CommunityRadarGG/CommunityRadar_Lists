@@ -616,11 +616,19 @@
     "duration": 180
   },
   {
+    "uuid": "93f054be-a0cc-4b42-831f-78a1c651732c",
+    "name": "DieWieSieLorie",
+    "note": "https://forum.griefergames.de/forum/thread/495481-diewiesielorie-scammt-bei-25x-150-kristall-fragmente/",
+    "createdAt": "2026-05-04T20:27:53.200486694",
+    "updatedAt": "2026-05-04T20:27:53.200550515",
+    "duration": 180
+  },
+  {
     "uuid": "945a7737-2d64-345b-b5ce-35b3409ee9fe",
     "name": "!CoatedLamp6566",
-    "note": "https://forum.griefergames.de/forum/thread/495528-coatedlamp6566-fake-votestreak-retter/",
-    "createdAt": "2026-05-04T13:19:48.639153905",
-    "updatedAt": "2026-05-04T13:19:48.639161767",
+    "note": "https://forum.griefergames.de/forum/thread/495467-fake-lordvarus-troll%C3%A4xte-im-auktiionshaus/",
+    "createdAt": "2026-05-04T20:29:21.297842658",
+    "updatedAt": "2026-05-04T20:29:21.297854889",
     "duration": 180
   },
   {
@@ -757,6 +765,14 @@
     "note": "https://forum.griefergames.de/forum/thread/495100-m-lauxtermann-stellt-fake-supreme-r%C3%A4nge-im-ah/",
     "createdAt": "2026-04-24T23:59:30.260652262",
     "updatedAt": "2026-04-24T23:59:30.26066699",
+    "duration": 180
+  },
+  {
+    "uuid": "b7b1bdec-718c-325d-bc3f-e33a5f03c64f",
+    "name": "!WristyTie3343",
+    "note": "https://forum.griefergames.de/forum/thread/495453-wristytie3343-scammt-im-ah/",
+    "createdAt": "2026-05-04T20:29:54.687620819",
+    "updatedAt": "2026-05-04T20:29:54.687628188",
     "duration": 180
   },
   {
