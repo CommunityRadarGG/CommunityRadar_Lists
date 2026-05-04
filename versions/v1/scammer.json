@@ -170,9 +170,9 @@
   {
     "uuid": "208e745c-6abd-4187-a36e-2c903bc478d3",
     "name": "Bonzenbaby",
-    "cause": "https://forum.griefergames.de/forum/thread/492624-bonzenbaby-scammt-um-1m/",
-    "entryCreatedAt": "2026-03-10T17:00:40.202257859",
-    "entryUpdatedAt": "2026-03-10T17:00:40.202317218",
+    "cause": "https://forum.griefergames.de/forum/thread/495330-bonzenbaby-scammt-um-30m-35-kristallfragmente-in-bj/",
+    "entryCreatedAt": "2026-05-04T13:19:09.896034999",
+    "entryUpdatedAt": "2026-05-04T13:19:09.896064491",
     "expiryDays": 180
   },
   {
@@ -613,6 +613,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/486837-ah-scam-mit-x-fachen-fake-items/?postID\u003d4608008#post4608008",
     "entryCreatedAt": "2025-11-18T19:25:26.530950396",
     "entryUpdatedAt": "2025-11-18T19:25:26.530954939",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "945a7737-2d64-345b-b5ce-35b3409ee9fe",
+    "name": "!CoatedLamp6566",
+    "cause": "https://forum.griefergames.de/forum/thread/495528-coatedlamp6566-fake-votestreak-retter/",
+    "entryCreatedAt": "2026-05-04T13:19:48.639153905",
+    "entryUpdatedAt": "2026-05-04T13:19:48.639161767",
     "expiryDays": 180
   },
   {
