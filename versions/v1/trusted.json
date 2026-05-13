@@ -96,6 +96,22 @@
     "expiryDays": -1
   },
   {
+    "uuid": "14193e11-a825-45b5-b250-4351fdde1957",
+    "name": "Warrior__YT",
+    "cause": "CB22",
+    "entryCreatedAt": "2026-05-13T22:51:19.371204018",
+    "entryUpdatedAt": "2026-05-13T22:51:19.371295553",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "19d3da72-65f5-4dd1-9cb8-ddf8b17c58ca",
+    "name": "reaxyy",
+    "cause": "CB1",
+    "entryCreatedAt": "2026-05-13T22:50:06.606052242",
+    "entryUpdatedAt": "2026-05-13T22:50:06.606130882",
+    "expiryDays": -1
+  },
+  {
     "uuid": "1a7c6861-3e6d-4fe5-aa02-700cf7f0b8d9",
     "name": "Wiese2007",
     "cause": "CB11",
@@ -133,6 +149,14 @@
     "cause": "CB15",
     "entryCreatedAt": "2024-05-27T00:00:38.472235322",
     "entryUpdatedAt": "2024-05-27T00:00:38.472244429",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "2a654716-bf0a-4fbe-a029-8aacda543c95",
+    "name": "CxdricZ",
+    "cause": "CB22",
+    "entryCreatedAt": "2026-05-13T22:50:24.387197899",
+    "entryUpdatedAt": "2026-05-13T22:50:24.387205208",
     "expiryDays": -1
   },
   {
@@ -232,6 +256,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "5c60b7bb-840f-44c2-a3d7-f6a2a6e527de",
+    "name": "M1n3r_Girl",
+    "cause": "Cloud",
+    "entryCreatedAt": "2026-05-13T22:51:02.611418764",
+    "entryUpdatedAt": "2026-05-13T22:51:02.611433436",
+    "expiryDays": -1
+  },
+  {
     "uuid": "5fef9455-cc39-438d-bee4-d54dedb97870",
     "name": "Schwarz_1989",
     "cause": "CB21",
@@ -277,6 +309,14 @@
     "cause": "-1",
     "entryCreatedAt": "2025-05-27T18:58:08.333085136",
     "entryUpdatedAt": "2025-05-27T18:58:08.33313472",
+    "expiryDays": -1
+  },
+  {
+    "uuid": "67da9ce1-b83d-49ae-9df6-146d26212f22",
+    "name": "Silberjason",
+    "cause": "CB21",
+    "entryCreatedAt": "2026-05-13T22:50:42.296457645",
+    "entryUpdatedAt": "2026-05-13T22:50:42.296466603",
     "expiryDays": -1
   },
   {
