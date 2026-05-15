@@ -560,6 +560,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "858c8ac5-dfde-4f3a-869b-ed537e341775",
+    "name": "Valentin_xx1",
+    "cause": "https://forum.griefergames.de/forum/thread/495668-valentin-xx1-scammt-um-310m/?postID\u003d4711137#post4711137",
+    "entryCreatedAt": "2026-05-15T15:18:40.790222411",
+    "entryUpdatedAt": "2026-05-15T15:18:40.790358263",
+    "expiryDays": 180
+  },
+  {
     "uuid": "85d5498b-6963-4c5b-aace-2429a06cd63a",
     "name": "Lyqv",
     "cause": "https://beweise.community-radar.de/",
@@ -584,6 +592,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "91dd8e3a-9ce7-4be9-a6e4-4e1302675ed3",
+    "name": "riveissa",
+    "cause": "https://forum.griefergames.de/forum/thread/495766-riveissa/?postID\u003d4712057#post4712057",
+    "entryCreatedAt": "2026-05-15T15:19:30.158488274",
+    "entryUpdatedAt": "2026-05-15T15:19:30.158494398",
+    "expiryDays": 180
+  },
+  {
     "uuid": "92291541-1e89-3585-b851-be9f4d35928a",
     "name": "!ExactBear071030",
     "cause": "https://forum.griefergames.de/forum/thread/486837-ah-scam-mit-x-fachen-fake-items/?postID\u003d4608008#post4608008",
@@ -602,9 +618,9 @@
   {
     "uuid": "945a7737-2d64-345b-b5ce-35b3409ee9fe",
     "name": "!CoatedLamp6566",
-    "cause": "https://forum.griefergames.de/forum/thread/495588-mehrere-fake-items-seit-tagen-im-ah/",
-    "entryCreatedAt": "2026-05-05T12:50:00.565030654",
-    "entryUpdatedAt": "2026-05-05T12:50:00.565041009",
+    "cause": "https://forum.griefergames.de/forum/thread/495632-coatedlamp6566-scammt-mit-fakeitems/",
+    "entryCreatedAt": "2026-05-15T15:19:54.204092186",
+    "entryUpdatedAt": "2026-05-15T15:19:54.204100272",
     "expiryDays": 180
   },
   {
@@ -701,6 +717,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2025-12-29T23:44:19.073168149",
     "entryUpdatedAt": "2025-12-29T23:44:19.073227508",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ab61042f-4775-415a-a847-a4ec69b2ca75",
+    "name": "Kamerad_Fritz",
+    "cause": "https://forum.griefergames.de/forum/thread/495882-fake-birth-kline-1/",
+    "entryCreatedAt": "2026-05-15T15:20:18.313368881",
+    "entryUpdatedAt": "2026-05-15T15:20:18.313381252",
     "expiryDays": 180
   },
   {
@@ -813,6 +837,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/486942-gabimaru7776448-scamming-um-6mio/",
     "entryCreatedAt": "2025-11-24T18:19:35.853857176",
     "entryUpdatedAt": "2025-11-24T18:19:35.853896932",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ce90f0de-d015-4939-b74d-896713b73218",
+    "name": "VeinyyD",
+    "cause": "https://forum.griefergames.de/forum/thread/495652-veinyyyd-scammt-um-4-34mio/",
+    "entryCreatedAt": "2026-05-15T15:19:05.964368137",
+    "entryUpdatedAt": "2026-05-15T15:19:05.964390398",
     "expiryDays": 180
   },
   {
