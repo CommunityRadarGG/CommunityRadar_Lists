@@ -1048,6 +1048,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "f75c1969-a5dc-4acd-a739-4d9ac14884c7",
+    "name": "maxksb",
+    "cause": "https://forum.griefergames.de/forum/thread/495704-maxksb-scammt-um-500k/",
+    "entryCreatedAt": "2026-05-15T19:06:08.758574371",
+    "entryUpdatedAt": "2026-05-15T19:06:08.758615036",
+    "expiryDays": 180
+  },
+  {
     "uuid": "f8209630-1e61-4c9f-a894-4ac375a4451c",
     "name": "NatalieMonster",
     "cause": "https://beweise.community-radar.de/",
