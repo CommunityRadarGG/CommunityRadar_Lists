@@ -728,14 +728,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "c50f91ed-a728-4058-bb65-0cbab051e3a5",
-    "name": "999_Keyzix",
-    "cause": "https://forum.griefergames.de/forum/thread/491913-1-mio-scamm/",
-    "entryCreatedAt": "2026-02-23T15:05:42.647820759",
-    "entryUpdatedAt": "2026-04-17T21:18:55.912191402",
-    "expiryDays": 90
-  },
-  {
     "uuid": "c53e644c-ef0a-4b0d-b803-dd6b7c37bf1c",
     "name": "julian147456",
     "cause": "https://beweise.community-radar.de/",
