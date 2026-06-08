@@ -16,22 +16,6 @@
     "duration": -1
   },
   {
-    "uuid": "02b20f45-724b-481e-9b7c-705430606fc4",
-    "name": "DC1805",
-    "note": "CB1",
-    "createdAt": "2024-05-26T11:18:51.246469084",
-    "updatedAt": "2024-05-26T11:18:51.246478763",
-    "duration": -1
-  },
-  {
-    "uuid": "05ce6310-63f8-4c74-8782-41c78f9e312c",
-    "name": "LOL_Helmchen",
-    "note": "Cloud",
-    "createdAt": "2025-05-04T20:27:15.837468322",
-    "updatedAt": "2025-05-04T20:27:15.837514237",
-    "duration": -1
-  },
-  {
     "uuid": "0abe8a54-a0e2-44db-97c0-3c4d296f5ab9",
     "name": "STD_qVolt",
     "note": "CB22",
@@ -333,14 +317,6 @@
     "note": "CB12",
     "createdAt": "2024-05-26T11:41:32.646832634",
     "updatedAt": "2024-05-26T11:41:32.646852733",
-    "duration": -1
-  },
-  {
-    "uuid": "783569bc-45e3-4f74-aead-ab2f39e9495e",
-    "name": "TMB_DonUlli",
-    "note": "CB7",
-    "createdAt": "2024-05-26T11:35:21.530173364",
-    "updatedAt": "2024-05-26T11:35:21.530184606",
     "duration": -1
   },
   {
