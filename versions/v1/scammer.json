@@ -88,6 +88,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "11535226-4901-459f-bfe0-00b2550d18df",
+    "name": "AslanBestermann",
+    "cause": "https://forum.griefergames.de/forum/thread/497179-aslanbestermann-scammt/?postID\u003d4729003#post4729003",
+    "entryCreatedAt": "2026-06-23T13:16:27.602165464",
+    "entryUpdatedAt": "2026-06-23T13:16:27.602175086",
+    "expiryDays": 180
+  },
+  {
     "uuid": "12206b15-038c-393d-893c-f569f26aee8d",
     "name": "!PlayBoyKrebs",
     "cause": "https://forum.griefergames.de/forum/thread/488764-playboykrebs-stellt-fake-skelettegg-ins-ah/",
@@ -789,6 +797,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/490319-vhuba-ah-scam/",
     "entryCreatedAt": "2026-01-21T19:36:53.313445978",
     "entryUpdatedAt": "2026-01-21T19:36:53.313459365",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "ef5f9132-8f71-4261-821d-2f3b50765cc6",
+    "name": "EPT_Leon_",
+    "cause": "https://forum.griefergames.de/forum/thread/497024-ept-leon-scammt-um-streaming-gewinne/?pageNo\u003d1",
+    "entryCreatedAt": "2026-06-23T13:15:15.544106179",
+    "entryUpdatedAt": "2026-06-23T13:15:15.54415911",
     "expiryDays": 180
   },
   {
