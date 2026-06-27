@@ -184,14 +184,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "2ef1ea7a-5cfb-48c5-bed8-501b470198f3",
-    "name": "kyaizuro",
-    "cause": "https://forum.griefergames.de/forum/thread/488620-2-sc%C3%A4mma/",
-    "entryCreatedAt": "2025-12-29T23:47:15.438038282",
-    "entryUpdatedAt": "2025-12-29T23:47:15.438154353",
-    "expiryDays": 180
-  },
-  {
     "uuid": "32eb6b2e-4d9e-4376-a832-9ff90552c79d",
     "name": "leo2nico",
     "cause": "https://forum.griefergames.de/forum/thread/495046-leo2nico-scammt-um-10-5m/",
@@ -400,14 +392,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "7c5c8c5d-15c4-4782-9142-ae732a504f57",
-    "name": "xXDevelinXx",
-    "cause": "https://forum.griefergames.de/forum/thread/488646-xxdevelinxx-scammt-um-spawner/",
-    "entryCreatedAt": "2025-12-29T23:48:47.879428699",
-    "entryUpdatedAt": "2025-12-29T23:48:47.879454548",
-    "expiryDays": 180
-  },
-  {
     "uuid": "82ef19d3-6b4e-44a4-8e6a-41e6002d175a",
     "name": "cheftimme",
     "cause": "https://beweise.community-radar.de/",
@@ -445,14 +429,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/490160-juicysalsa-scammt-um-1-152-000/",
     "entryCreatedAt": "2026-01-18T21:14:57.612529101",
     "entryUpdatedAt": "2026-01-18T21:14:57.612532248",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "91c8ae31-81ca-433e-a058-d314053d5bc4",
-    "name": "JesusWarProphet",
-    "cause": "https://forum.griefergames.de/forum/thread/488644-jesuswarprophet-scammt-um-4-000-000/",
-    "entryCreatedAt": "2025-12-29T23:47:44.297622117",
-    "entryUpdatedAt": "2025-12-29T23:47:44.297633613",
     "expiryDays": 180
   },
   {
@@ -541,14 +517,6 @@
     "cause": "https://forum.griefergames.de/forum/thread/488930-domenikglp-scammt-um-4-4mio/",
     "entryCreatedAt": "2026-01-06T16:13:07.225119884",
     "entryUpdatedAt": "2026-01-06T16:13:07.225122138",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "a982e048-2345-49c0-abe6-4d1290145aa8",
-    "name": "The0akSapling",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2025-12-29T23:44:19.073168149",
-    "entryUpdatedAt": "2025-12-29T23:44:19.073227508",
     "expiryDays": 180
   },
   {
@@ -720,14 +688,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "dacf4a95-fe8e-4221-8c5d-111060939b5a",
-    "name": "KingSizeSlimX",
-    "cause": "https://forum.griefergames.de/forum/thread/488590-kingsizeslimx-scammt-um-1-05m-das-crazy/",
-    "entryCreatedAt": "2025-12-29T23:45:26.82977704",
-    "entryUpdatedAt": "2025-12-29T23:45:26.829794294",
-    "expiryDays": 180
-  },
-  {
     "uuid": "dcd8256e-8ef0-42a0-b96d-5b644cc5db86",
     "name": "qMesh",
     "cause": "https://forum.griefergames.de/forum/thread/494756-qmesh/",
@@ -829,14 +789,6 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2026-03-26T21:22:46.661885286",
     "entryUpdatedAt": "2026-03-26T21:22:46.661893869",
-    "expiryDays": 180
-  },
-  {
-    "uuid": "fbe0805a-d522-4e28-8ec9-0a3e68837951",
-    "name": "Cymian",
-    "cause": "https://forum.griefergames.de/forum/thread/488645-cymian-scammt-um-9-500-000/",
-    "entryCreatedAt": "2025-12-29T23:48:12.808755109",
-    "entryUpdatedAt": "2025-12-29T23:48:12.8087673",
     "expiryDays": 180
   }
 ]
