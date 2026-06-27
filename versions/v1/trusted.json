@@ -408,14 +408,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "8f20a41a-e2c2-48a1-80f5-97ab9495bf55",
-    "name": "junro95",
-    "cause": "CB20",
-    "entryCreatedAt": "2024-05-27T00:01:29.957760558",
-    "entryUpdatedAt": "2024-05-27T00:01:29.957770408",
-    "expiryDays": -1
-  },
-  {
     "uuid": "9124edc5-d54d-42da-8146-2495843b0492",
     "name": "DLS_EnterMatrix",
     "cause": "Cb22",
