@@ -104,6 +104,14 @@
     "duration": 180
   },
   {
+    "uuid": "2f880894-b544-44d9-945e-b78ce7c518a3",
+    "name": "xRetatrutide",
+    "note": "https://beweise.community-radar.de/",
+    "createdAt": "2026-07-20T23:22:50.123611076",
+    "updatedAt": "2026-07-20T23:22:50.123613635",
+    "duration": 180
+  },
+  {
     "uuid": "32eb6b2e-4d9e-4376-a832-9ff90552c79d",
     "name": "leo2nico",
     "note": "https://forum.griefergames.de/forum/thread/495046-leo2nico-scammt-um-10-5m/",
@@ -189,6 +197,14 @@
     "note": "https://beweise.community-radar.de/",
     "createdAt": "2026-01-25T14:01:13.056827931",
     "updatedAt": "2026-01-25T14:01:13.056863984",
+    "duration": 180
+  },
+  {
+    "uuid": "704cee75-3a5f-49e5-9913-3dc11e9d3bb5",
+    "name": "Sauron2016",
+    "note": "https://forum.griefergames.de/forum/thread/497860-sauron2016-scammt-im-ah-mit-fake-supreme-rang/",
+    "createdAt": "2026-07-20T23:21:59.839641728",
+    "updatedAt": "2026-07-20T23:21:59.839690483",
     "duration": 180
   },
   {
