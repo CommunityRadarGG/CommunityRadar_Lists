@@ -8,6 +8,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "04cdb703-bf53-3331-8b88-9394db2ef3ea",
+    "name": "!OxtailTax5472",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-07-21T15:35:17.308231879",
+    "entryUpdatedAt": "2026-07-21T15:35:17.308241407",
+    "expiryDays": 180
+  },
+  {
     "uuid": "085e540a-df12-4b54-9e55-5812809ae8ff",
     "name": "Big_Money33",
     "cause": "https://forum.griefergames.de/forum/thread/494042-ati35-scammt-um-82-5k/",
