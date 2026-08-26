@@ -74,9 +74,9 @@
   {
     "uuid": "208e745c-6abd-4187-a36e-2c903bc478d3",
     "name": "Bonzenbaby",
-    "cause": "https://forum.griefergames.de/forum/thread/495330-bonzenbaby-scammt-um-30m-35-kristallfragmente-in-bj/",
-    "entryCreatedAt": "2026-05-04T13:19:09.896034999",
-    "entryUpdatedAt": "2026-05-04T13:19:09.896064491",
+    "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
+    "entryCreatedAt": "2026-08-26T11:13:35.52581579",
+    "entryUpdatedAt": "2026-08-26T11:13:35.525887491",
     "expiryDays": 180
   },
   {
@@ -152,6 +152,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "5d9b3be1-4ee6-4480-9bbc-2f99640054f1",
+    "name": "Schwalle0507",
+    "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
+    "entryCreatedAt": "2026-08-26T11:14:50.217772004",
+    "entryUpdatedAt": "2026-08-26T11:14:50.217785203",
+    "expiryDays": 180
+  },
+  {
     "uuid": "5dcfcef9-6cd6-391f-9c07-3cae2886661a",
     "name": "!Zuunkreativ7",
     "cause": "https://forum.griefergames.de/forum/thread/492307-zuunkreativ7-scammt-im-ah-mit-umbenanntem-item/",
@@ -221,6 +229,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/493266-hungriges-brot-scammt-um-9-5m/",
     "entryCreatedAt": "2026-03-19T21:08:06.623710832",
     "entryUpdatedAt": "2026-06-21T20:58:34.822336409",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "a2e36513-e694-40e2-9590-970ccaa4b3ef",
+    "name": "Bonzenscheich",
+    "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
+    "entryCreatedAt": "2026-08-26T11:15:34.91968149",
+    "entryUpdatedAt": "2026-08-26T11:15:34.919719589",
     "expiryDays": 180
   },
   {
@@ -397,6 +413,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2026-03-26T21:22:46.661885286",
     "entryUpdatedAt": "2026-03-26T21:22:46.661893869",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "f9144d99-c98e-4f20-a99d-5a1487f0dbc1",
+    "name": "Gourmet_GamerYT",
+    "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
+    "entryCreatedAt": "2026-08-26T11:14:11.97970528",
+    "entryUpdatedAt": "2026-08-26T11:14:11.979718721",
     "expiryDays": 180
   }
 ]
