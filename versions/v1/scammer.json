@@ -200,14 +200,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "9962a71f-8881-4100-82e8-7c96daae7cbd",
-    "name": "KeinAccount",
-    "cause": "https://forum.griefergames.de/forum/thread/492427-keinaccount-scammt-um-480k/",
-    "entryCreatedAt": "2026-03-05T20:21:45.690033748",
-    "entryUpdatedAt": "2026-03-05T20:21:45.690079993",
-    "expiryDays": 180
-  },
-  {
     "uuid": "9f8f67e7-adf2-455b-83fa-4c02dbe38f54",
     "name": "HungrigesBrot",
     "cause": "https://forum.griefergames.de/forum/thread/493266-hungriges-brot-scammt-um-9-5m/",
