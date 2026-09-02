@@ -8,6 +8,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "01bd053c-2688-3e8c-ad08-06c9b17cc70a",
+    "name": "!xxXLukas04Xxx",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-09-02T17:57:31.188244459",
+    "entryUpdatedAt": "2026-09-02T17:57:31.1882553",
+    "expiryDays": 180
+  },
+  {
     "uuid": "04cdb703-bf53-3331-8b88-9394db2ef3ea",
     "name": "!OxtailTax5472",
     "cause": "https://beweise.community-radar.de/",
@@ -112,6 +120,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "3c8cdc8f-8e17-3177-86f0-123a04551397",
+    "name": "!LavishCow8687",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-09-02T17:58:03.72693873",
+    "entryUpdatedAt": "2026-09-02T17:58:03.726954337",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3f2dfead-cf58-3b96-8830-143d93ead224",
     "name": "!Thanos333000",
     "cause": "https://forum.griefergames.de/forum/thread/494317-thanos333000/",
@@ -146,9 +162,17 @@
   {
     "uuid": "5d9b3be1-4ee6-4480-9bbc-2f99640054f1",
     "name": "Schwalle0507",
-    "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
-    "entryCreatedAt": "2026-08-26T11:14:50.217772004",
-    "entryUpdatedAt": "2026-08-26T11:14:50.217785203",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-09-02T17:57:48.29415666",
+    "entryUpdatedAt": "2026-09-02T17:57:48.294169392",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "66c9c94d-9dac-4cf8-ba98-c907fc0573ee",
+    "name": "SK_Kirby",
+    "cause": "https://forum.griefergames.de/forum/thread/498737-sk-kirby-scammt-um-5mio/?postID\u003d4748904#post4748904",
+    "entryCreatedAt": "2026-09-02T17:56:01.616315981",
+    "entryUpdatedAt": "2026-09-02T17:56:01.616369354",
     "expiryDays": 180
   },
   {
@@ -165,6 +189,14 @@
     "cause": "https://beweise.community-radar.de/",
     "entryCreatedAt": "2026-06-04T11:12:03.486961407",
     "entryUpdatedAt": "2026-06-04T11:12:03.487021955",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "853ee557-4c9b-4c84-8db5-9a0f77c3f5ef",
+    "name": "CurlyPlayer5612",
+    "cause": "https://forum.griefergames.de/forum/thread/498783-curlyplayer5612-scammt-um-mein-halbes-verm%C3%B6gen/",
+    "entryCreatedAt": "2026-09-02T17:56:44.948620598",
+    "entryUpdatedAt": "2026-09-02T17:56:44.948631487",
     "expiryDays": 180
   },
   {
@@ -237,6 +269,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/496633-4zig-scammt-um-500m-bei-bj/",
     "entryCreatedAt": "2026-06-05T16:54:32.991545048",
     "entryUpdatedAt": "2026-06-05T16:54:32.991622561",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "afc1b6f2-3042-4dd1-bff8-65831506f7fa",
+    "name": "1Kristall",
+    "cause": "https://forum.griefergames.de/forum/thread/498771-625mio-scamm-von-1kristall/?postID\u003d4749323#post4749323",
+    "entryCreatedAt": "2026-09-02T17:55:36.79469581",
+    "entryUpdatedAt": "2026-09-02T17:55:36.794756974",
     "expiryDays": 180
   },
   {
