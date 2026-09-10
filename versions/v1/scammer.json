@@ -16,6 +16,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "01f05437-7ca4-4ab5-9b58-8f833a68cda7",
+    "name": "Verokz",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-09-10T20:53:40.824610443",
+    "entryUpdatedAt": "2026-09-10T20:53:40.824641229",
+    "expiryDays": 180
+  },
+  {
     "uuid": "04cdb703-bf53-3331-8b88-9394db2ef3ea",
     "name": "!OxtailTax5472",
     "cause": "https://beweise.community-radar.de/",
@@ -282,9 +290,9 @@
   {
     "uuid": "b6f3509d-bb5c-38f4-9615-2d5756ef061c",
     "name": "!LatestPark9172",
-    "cause": "https://forum.griefergames.de/forum/thread/498938-latestpark9172/",
-    "entryCreatedAt": "2026-09-08T23:00:05.30088982",
-    "entryUpdatedAt": "2026-09-08T23:00:05.300967291",
+    "cause": "https://beweise.community-radar.de/",
+    "entryCreatedAt": "2026-09-10T20:54:31.422568333",
+    "entryUpdatedAt": "2026-09-10T20:54:31.4226221",
     "expiryDays": 180
   },
   {
