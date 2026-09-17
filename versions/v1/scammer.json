@@ -18,9 +18,9 @@
   {
     "uuid": "01f05437-7ca4-4ab5-9b58-8f833a68cda7",
     "name": "Verokz",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2026-09-10T20:53:40.824610443",
-    "entryUpdatedAt": "2026-09-10T20:53:40.824641229",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-09-17T17:02:04.274522036",
+    "entryUpdatedAt": "2026-09-17T17:02:04.274525202",
     "expiryDays": 180
   },
   {
@@ -120,11 +120,27 @@
     "expiryDays": 180
   },
   {
+    "uuid": "3ebbedd2-2b66-4123-8e75-d1e6c516cf74",
+    "name": "AngelEngel",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-09-17T17:12:31.566887318",
+    "entryUpdatedAt": "2026-09-17T17:12:31.56689017",
+    "expiryDays": 180
+  },
+  {
     "uuid": "3f2dfead-cf58-3b96-8830-143d93ead224",
     "name": "!Thanos333000",
     "cause": "https://forum.griefergames.de/forum/thread/494317-thanos333000/",
     "entryCreatedAt": "2026-04-08T21:49:54.994370835",
     "entryUpdatedAt": "2026-04-08T21:49:54.994374172",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "407231e5-30a8-4393-8531-9b72dc2ae606",
+    "name": "AngelBat_CBE",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-09-17T16:56:26.222652828",
+    "entryUpdatedAt": "2026-09-17T16:56:26.222658765",
     "expiryDays": 180
   },
   {
@@ -274,9 +290,9 @@
   {
     "uuid": "b6f3509d-bb5c-38f4-9615-2d5756ef061c",
     "name": "!LatestPark9172",
-    "cause": "https://beweise.community-radar.de/",
-    "entryCreatedAt": "2026-09-10T20:54:31.422568333",
-    "entryUpdatedAt": "2026-09-10T20:54:31.4226221",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-09-17T17:09:03.319022799",
+    "entryUpdatedAt": "2026-09-17T17:09:03.319026141",
     "expiryDays": 180
   },
   {
@@ -405,6 +421,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/498622-ah-fake-supreme-kisten-bonzenbaby-und-weitere/",
     "entryCreatedAt": "2026-08-26T11:14:11.97970528",
     "entryUpdatedAt": "2026-08-26T11:14:11.979718721",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "fe840168-8167-4023-8cf3-76f860c21b04",
+    "name": "Ikaman",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-09-17T17:10:14.709164237",
+    "entryUpdatedAt": "2026-09-17T17:10:14.709167152",
     "expiryDays": 180
   }
 ]
