@@ -320,14 +320,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "6530e32e-dc9c-4247-9e27-d3b6996ac445",
-    "name": "FaultedBowl",
-    "cause": "Cloud",
-    "entryCreatedAt": "2025-05-04T20:26:30.65969612",
-    "entryUpdatedAt": "2025-05-04T20:26:30.659777255",
-    "expiryDays": -1
-  },
-  {
     "uuid": "66b74f63-1f86-491f-8e73-61ce77afd514",
     "name": "Papa_Abge",
     "cause": "CB1",
