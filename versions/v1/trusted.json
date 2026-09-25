@@ -88,14 +88,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "1221f8e7-7cbb-4fad-8bbf-4f3820bc6846",
-    "name": "LOLCMD",
-    "cause": "CBE",
-    "entryCreatedAt": "2026-01-28T22:18:34.837701318",
-    "entryUpdatedAt": "2026-01-28T22:18:34.837745569",
-    "expiryDays": -1
-  },
-  {
     "uuid": "14193e11-a825-45b5-b250-4351fdde1957",
     "name": "Warrior__YT",
     "cause": "CB22",
