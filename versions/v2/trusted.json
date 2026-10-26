@@ -232,22 +232,6 @@
     "duration": -1
   },
   {
-    "uuid": "49a11a77-653c-47a8-b91f-fbeac5579230",
-    "name": "Pummelbaerchen_",
-    "note": "CB20",
-    "createdAt": "2024-05-27T00:01:34.887110706",
-    "updatedAt": "2024-05-27T00:01:34.887118711",
-    "duration": -1
-  },
-  {
-    "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
-    "name": "SkyzeeDRS",
-    "note": "CB20",
-    "createdAt": "2024-06-06T14:40:24.894174155",
-    "updatedAt": "2024-06-06T14:40:24.894205785",
-    "duration": -1
-  },
-  {
     "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
     "name": "ZopfTropf",
     "note": "CB2",
@@ -349,14 +333,6 @@
     "note": "CB1",
     "createdAt": "2024-05-26T11:23:18.156661251",
     "updatedAt": "2024-05-26T11:23:18.156672282",
-    "duration": -1
-  },
-  {
-    "uuid": "842d4e39-e631-41db-9ac8-9bd417dd4528",
-    "name": "1trade",
-    "note": "CB4",
-    "createdAt": "2024-07-17T12:39:27.749841508",
-    "updatedAt": "2024-07-17T12:39:27.749853562",
     "duration": -1
   },
   {

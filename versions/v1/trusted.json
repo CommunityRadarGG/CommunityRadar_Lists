@@ -232,22 +232,6 @@
     "expiryDays": -1
   },
   {
-    "uuid": "49a11a77-653c-47a8-b91f-fbeac5579230",
-    "name": "Pummelbaerchen_",
-    "cause": "CB20",
-    "entryCreatedAt": "2024-05-27T00:01:34.887110706",
-    "entryUpdatedAt": "2024-05-27T00:01:34.887118711",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
-    "name": "SkyzeeDRS",
-    "cause": "CB20",
-    "entryCreatedAt": "2024-06-06T14:40:24.894174155",
-    "entryUpdatedAt": "2024-06-06T14:40:24.894205785",
-    "expiryDays": -1
-  },
-  {
     "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
     "name": "ZopfTropf",
     "cause": "CB2",
@@ -349,14 +333,6 @@
     "cause": "CB1",
     "entryCreatedAt": "2024-05-26T11:23:18.156661251",
     "entryUpdatedAt": "2024-05-26T11:23:18.156672282",
-    "expiryDays": -1
-  },
-  {
-    "uuid": "842d4e39-e631-41db-9ac8-9bd417dd4528",
-    "name": "1trade",
-    "cause": "CB4",
-    "entryCreatedAt": "2024-07-17T12:39:27.749841508",
-    "entryUpdatedAt": "2024-07-17T12:39:27.749853562",
     "expiryDays": -1
   },
   {
