@@ -232,6 +232,14 @@
     "expiryDays": -1
   },
   {
+    "uuid": "504c2c82-5ebc-4033-a32e-c166a79b0c09",
+    "name": "SkyzeeDRS",
+    "cause": "CBE",
+    "entryCreatedAt": "2026-10-26T16:44:57.165308053",
+    "entryUpdatedAt": "2026-10-26T16:44:57.165322106",
+    "expiryDays": -1
+  },
+  {
     "uuid": "58e7fed1-d3ba-41c5-b204-e30db1b72230",
     "name": "ZopfTropf",
     "cause": "CB2",
