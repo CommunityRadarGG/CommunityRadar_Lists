@@ -40,6 +40,22 @@
     "expiryDays": 180
   },
   {
+    "uuid": "13aaaa15-901e-407d-b064-48758c3394e3",
+    "name": "Kasoas",
+    "cause": "https://forum.griefergames.de/forum/thread/500082-xaroxz3652-aka-kasoas-scammt-um-plots/",
+    "entryCreatedAt": "2026-10-27T21:38:32.429558815",
+    "entryUpdatedAt": "2026-10-27T21:38:32.429567644",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "1664b4f6-f7fa-3520-8c2e-b820c75cbdf7",
+    "name": "!Xaroxz3652",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-10-27T21:39:44.662641756",
+    "entryUpdatedAt": "2026-10-27T21:39:44.662690393",
+    "expiryDays": 180
+  },
+  {
     "uuid": "179c64c1-a356-49b0-9f74-2970a93042fc",
     "name": "Daer06",
     "cause": "https://forum.griefergames.de/forum/thread/499249-daer06-scammt-und-rufmordet-leider-hat-es-mich-diesmal-erwischt/",
@@ -101,6 +117,22 @@
     "cause": "https://forum.griefergames.de/forum/thread/499541-angelengel-scammt-um-16-mio/",
     "entryCreatedAt": "2026-10-14T21:36:21.472784022",
     "entryUpdatedAt": "2026-10-14T21:36:21.472788559",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "3eee7be2-e95f-3f8b-8b70-070a0b4c5447",
+    "name": "!iLostMyBrainpsn",
+    "cause": "https://forum.griefergames.de/forum/thread/500178-ilostmybrainpsn-scammt-im-forum-mit-fakeitems/",
+    "entryCreatedAt": "2026-10-27T21:33:52.264727111",
+    "entryUpdatedAt": "2026-10-27T21:33:52.264804994",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "3fad4429-54c6-4d13-989e-a4e924878376",
+    "name": "Sheets_108",
+    "cause": "https://forum.griefergames.de/forum/thread/500034-sheets-108-scammt-um-kleingeld/",
+    "entryCreatedAt": "2026-10-27T21:27:40.416424374",
+    "entryUpdatedAt": "2026-10-27T21:27:40.416551266",
     "expiryDays": 180
   },
   {
@@ -330,9 +362,9 @@
   {
     "uuid": "dc15705e-d5d9-4b4f-a75e-bbb3a9dfa2b2",
     "name": "Lutzi1985",
-    "cause": "https://forum.griefergames.de/forum/thread/499245-craftplayerhd-hat-mich-um-mein-vermögen-gescammt/",
-    "entryCreatedAt": "2026-10-05T20:03:01.947116061",
-    "entryUpdatedAt": "2026-10-05T20:03:01.947120165",
+    "cause": "https://beweise.community-radar.de",
+    "entryCreatedAt": "2026-10-27T21:37:13.889376453",
+    "entryUpdatedAt": "2026-10-27T21:37:13.889406095",
     "expiryDays": 180
   },
   {
