@@ -152,14 +152,6 @@
     "expiryDays": 180
   },
   {
-    "uuid": "407b35af-c086-4337-94d6-b7e3748554b7",
-    "name": "RealmCasino",
-    "cause": "https://forum.griefergames.de/forum/thread/498200-is-realmcasino-ein-scammer/",
-    "entryCreatedAt": "2026-08-06T20:51:50.968598788",
-    "entryUpdatedAt": "2026-08-11T21:04:41.801704076",
-    "expiryDays": 90
-  },
-  {
     "uuid": "56dc9e8b-a7d3-46b9-801c-6c6cd40ca2f2",
     "name": "Dosenbiene",
     "cause": "https://beweise.community-radar.de/",
