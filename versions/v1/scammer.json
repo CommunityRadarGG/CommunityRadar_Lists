@@ -72,6 +72,14 @@
     "expiryDays": 180
   },
   {
+    "uuid": "1bc40c9a-7bdd-4383-b9e8-9ef206d74cec",
+    "name": "BiermachtSchlau",
+    "cause": "https://forum.griefergames.de/forum/thread/500805-biermachtschlau/",
+    "entryCreatedAt": "2026-11-15T18:22:52.187934611",
+    "entryUpdatedAt": "2026-11-15T18:22:52.187948801",
+    "expiryDays": 180
+  },
+  {
     "uuid": "208e745c-6abd-4187-a36e-2c903bc478d3",
     "name": "Bonzenbaby",
     "cause": "https://forum.griefergames.de/forum/thread/499523-bonzenbaby-scammt-um-24mio/",
@@ -85,6 +93,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/499428-h34dcut-scammt-um-90mio/",
     "entryCreatedAt": "2026-09-29T16:26:47.837052784",
     "entryUpdatedAt": "2026-09-29T16:26:47.837068569",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "2d226a90-4cd3-435e-93dc-0dab181ca0d9",
+    "name": "Monkey7Vigga",
+    "cause": "https://forum.griefergames.de/forum/thread/500632-unnötiges-ding/",
+    "entryCreatedAt": "2026-11-15T18:24:25.612073453",
+    "entryUpdatedAt": "2026-11-15T18:24:25.612076786",
     "expiryDays": 180
   },
   {
@@ -165,6 +181,14 @@
     "cause": "https://forum.griefergames.de/forum/thread/500295-container-eventscamm-von-elenkusslenkus-m-lauxtermann/",
     "entryCreatedAt": "2026-11-07T22:33:53.875074153",
     "entryUpdatedAt": "2026-11-07T22:33:53.875077429",
+    "expiryDays": 180
+  },
+  {
+    "uuid": "5b8ab130-6999-49cb-b367-3b68a4d5b8e8",
+    "name": "Stapelchips88",
+    "cause": "https://forum.griefergames.de/forum/thread/500618-stapelchips88-scamm-beweis-400k/",
+    "entryCreatedAt": "2026-11-15T18:26:36.145564845",
+    "entryUpdatedAt": "2026-11-15T18:26:36.145572302",
     "expiryDays": 180
   },
   {
